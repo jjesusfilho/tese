@@ -10,7 +10,7 @@ Para rodá-la, é necessário ter instalado o pdflatex no seu computador e optar
 Além disso, é necessário ter instalado os seguintes pacotes no R:
 
 
-knitr, ztable, xtable, tibble, lavaan, extracat, plyr, dplyr, ggplot2, cowplot, reportools, lattice, caret, gridExtra, texreg, tidyr e  stringr.
+knitr, ztable, xtable, tibble, lavaan, extracat, plyr, dplyr, ggplot2, cowplot, reportools, lattice, caret, C50, gridExtra, texreg, tidyr e  stringr.
 
 Resumo da tese:
 
