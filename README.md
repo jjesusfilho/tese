@@ -1,5 +1,5 @@
-# tese
-## Tese sobre administração penitenciária apresentada à FGV
+# José de Jesus Filho
+## Tese de doutorado sobre administração penitenciária apresentada à FGV
 
 A presente tese foi defendida em 23 de fevereiro de 2017 perante banca da Escola de Administração de Empresas da Fundação Getulio Vargas de São Paulo. 
 
