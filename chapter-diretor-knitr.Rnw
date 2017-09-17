@@ -1,0 +1,508 @@
+% !TeX root = tese-knitr.Rnw
+% !Rnw weave = knitr
+% !TeX program = pdfLaTeX
+
+\chapter{Diretores prisionais e sua percepção sobre o sistema carcerário}
+\label{chap:diretor}
+
+O presente capítulo apresenta os resultados da pesquisa realizada diretamente com os diretores das unidades prisionais por meio da aplicação de um \emph{\nameref{questionario}} e de entrevistas. A questão central do estudo com os diretores foi identificar sua capacidade de gerir as unidades prisionais, especialmente no que concerne ao controle da população carcerária, frente à atuação de diversos outros autores que, legal ou extralegalmente, exercem poder sobre a população carcerária.
+
+É comum associar à administração penitenciária a responsabilidade sobre a boa e a má gestão prisional, desconsiderando-se que sua capacidade de controle sobre a população carcerária é limitada. As mazelas do sistema: superpopulação, violação de direitos básicos como saúde, alimentação e integridade física, são impropriamente atribuídas exclusivamente às suas ações ou inações. Diversos grupos exercem ingerência e controle sobre diferentes aspectos da dinâmica prisional e sobre as condições de encarceramento, dentre eles, a mídia, os sindicatos dos agentes penitenciários, as organizações não governamentais, grupos religiosos, o Judiciário e as lideranças entre presos. 
+
+As ações dos dois últimos, Judiciário e lideranças internas entre presos, impactam mais visivelmente e têm sido reconhecidos pela literatura como importantes atores nas transformações institucionais \cite{Jacobs1983,Alpert1984,Martin1987}. Ao Judiciário dedicamos um capítulo inteiro sobre sua participação na gestão prisional, de modo que aqui não trataremos especificamente da atuação deste órgão, mas somente de como a administração prisional se relaciona com ele. Quanto às lideranças entre presos, faremos uma breve incursão sobre a atuação das lideranças internas, antes de ingressarmos nos resultados da análise sobre  os gestores das unidades prisionais. Não está no escopo do presente trabalho detalhar aspectos do nascimento, expansão e consolidação do PCC nas prisões paulistas. Este trabalho já foi realizado com maior propriedade por \citeonline{Dias2011,Dias2014}, e seguramente o leitor interessado obterá melhor proveito em obras especializadas.
+
+
+\section{Facções e autogoverno}
+
+O autogoverno entre presos é uma realidade conhecida por pelo menos dois séculos. Já na prisão de Walnut Street na Filadélfia, em 1893, presos estabeleciam regras de convivência entre si, especialmente relativas à higiene, com previsão de punições, dentre elas o ostracismo, para aqueles que não as respeitassem \cite{Baker1964a}. 
+
+Em estudo comparado, analisando a experiência de vários países, entre eles o Brasil, a Bolívia, a Inglaterra e os países escandinávicos, David Skarbec (\citeyear{Skarbek2016}) desenvolveu uma teoria de que presos criam governança extralegal quando a governança oficial é insuficiente. Segundo ele, a governança extralegal de presos é determinada por dois importantes fatores, sendo eles o tamanho e a demografia da prisão, os quais engendram duas tipologias de autogoverno, o descentralizado, caracterizado pela prática do ostracismo e o centralizado, caracterizado pela formação de facções com lideranças internas. Segundo o autor, as formas centralizadas de autogoverno prevalecem onde há baixa qualidade do governo prisional oficial, ineficiência de gestão e escassez de recursos.
+
+A necessidade de preservar-se contra ataques e com isso reduzir a vitimização, associada à demanda por atividade econômica no interior das prisões, especialmente de artigos proibidos como álcool e drogas, impulsionariam o surgimento de formas extralegais de governo. Por sua vez, o crescimento de facções pode ser explicado, entre outras razões, por sua natureza secreta \cite{Compton2016}. Muitas gangues prisionais somente são publicamente reveladas quando eclodem as crises penitenciárias. 
+
+Situação análoga aconteceu em São Paulo, nos anos 1990, mesmo sob alertas de que o PCC estava crescendo à sombra da administração prisional, o governo paulista recusava-se a  reconhecê-lo, até irromper a megarrebelião de 2001, quando em 29 unidades prisionais do estado os presos rebelaram\footnote{O termo rebelião aqui é entendido como uma situação de desordem prisional provocada pela ação de contestação de um coletivo de presos}. No caso do PCC, o que permitiu o seu crescimento foi mais bem o não reconhecimento de sua existência pelo governo paulista, embora as evidências de sua ação e expansão fossem já evidentes: foram registradas cerca de 56 rebeliões na segunda metade da década de 1990 e uma série de fugas com a utilização de armamento pesado \cite{Dias2014}.
+
+Um outro aspecto que permitiu o crescimento do PCC foi a conveniência de sua existência num momento de crescimento vertiginoso da população carcerária com significativa redução da proporção de agentes penitenciários em relação a presos. Em conversas que mantínhamos com agentes penitenciários no início da década de 2000, eles frequentemente afirmavam que sem o PCC não teriam condições de controlar a população carcerária. Enquanto o PCC não perpetrou ataques a agentes penitenciários, o que somente ocorreu na megarrebelião de 2006, a convivência entre agentes penitenciários e lideranças do PCC era de colaboração e não de conflito.
+
+Com respeito à desproporção entre o número de agentes e de presos, a \autoref{fig:gg_taxa} mostra a evolução das taxas de encarceramento na Secretaria de Administração Penitenciária, exclusivamente, ou seja, não inclui presos da Secretaria de Segurança Pública. A \autoref{fig:gg_preso_servidor} mostra a relação preso servidor\footnote{Aqui estamos mencionado todos os servidores da SAP, se fôssemos manter somente os agentes de custódia, essa proporção subiria para quase 9 presos para cada agente em 2017} ao longo dos anos. A discrepância começa a se agravar no início da década de 2000, quando da primeira megarrebelião do PCC e alcança o pico entre 2006 e 2007, quando da segunda megarrebelião.
+
+\begin{figure}[h]
+\caption{Evolução da taxa de encarceramento por 100 mil habitantes na SAP - não inclui SSP}
+\label{fig:gg_taxa}
+\centering
+\hspace{-2cm}
+\includegraphics{figure/gg_taxa.pdf} 
+\end{figure}
+
+\begin{figure}[h]
+\caption{Evolução da relação preso por agente penitenciário na SAP -  não inclui SSP}
+\label{fig:gg_preso_servidor}
+\centering
+\hspace{-2cm}
+\includegraphics{figure/gg_preso_servidor.pdf} 
+\end{figure}
+
+Tem sido aventada a omissão estatal ou o vácuo governamental \cite{Dias2011b, Moreira2012} como causa da emergência de autogoverno centralizado, mas esta permanece como tema controvertido. Para \citeonline{Skarbek2016} o vácuo de governo é necessário, mas não suficiente para permitir a  emergência de instituições de governança extralegal centralizada. Se  a governança oficial é ausente, mas a comunidade pode contar com mecanismos descentralizados menos onerosos, então mecanismos centralizados não irão emergir. Dentro de uma perspectiva institucionalista, as pessoas somente impoõem mais regras e recorrem a formas centralizadas quando os benefícios marginais superam o custos marginais.
+
+Sinhoretto, Silvestre e Melo (\citeyear{Sinhoretto2013}) argumentam no sentido de que a tese do ``vazio do Estado'' não explica a emergência dos ``coletivos de presos'', mas ao contrário, o fenômeno surge do fortalecimento do poder punitivo estatal expressado no aumento quantitativo de presos, na construção de presídios e na forma como as instituições e atores estatais se relacionam com o encarceramento.
+
+\citeonline{Narag2017} afirmam que o modelo oficial de  governo prisional  proíbe os presos de cooperar com a administração prisional. Para eles , todavia, essa é uma realidade de países desenvolvidos, onde os governos podem prover recursos suficientes, segurança e pessoal, mas em países em desenvolvimento, tal como as Filipinas, caracterizados pela pobreza, pela corrupção e pelo baixo provimento de recursos a unidades prisionais, as lideranças entre presos tendem a partilhar o governo com os administradores prisionais. Segundo os autores, mesmo que esse governo compartilhado tenha ocorrido em virtude da necessidade, não de planejamento, esse sistema normaliza as condições sociais na prisão.
+
+Ainda sobre as Filipinas, \citeonline{Jones2014} afirma que prisões superlotadas, ultrapassadas e subfinanciadas tornam as funções essenciais de manter a ordem prisional uma tarefa complexa e frequentemente problemática. Para cumprir com esta missão fundamental, os gestores prisionais são forçados não somente a comprometer a integridade prisional, mas também a transferir certos aspectos de suas funções administrativas para líderes de facções. 
+
+Em virtude da escassez de recursos e dos altos níveis de corrupção, os gestores prisionais  são incapazes de prover satisfatoriamente segurança e proteção aos presos. É portanto uma prática comum para as prisões filipinas serem operadas sob um sistema de governança compartilhada.  Neste tipo de arranjo institucional, as lideranças prisionais ajudam a manter o controle interno e a proteção dos presos tanto quanto possível. A estabilidade do sistema prisional filipino é bastante frágil, assim mesmo as facções internas atuam rapidamente para restaurar a ordem quando situações de desordem ocorrem.
+
+Ao analisar o autogoverno nos cárceres venezuelanos, \citeonline{Antillano2016} argumenta que esta ordem opera como um mecanismo de autorregulação, prescrevendo pautas de condutas e normas que regulam as infrações dos presos. Opera também como uma estrutura de autogoverno, preservando a ordem interna, opondo-se a ameaças externas e provendo os meios necessários para a vida coletiva, como uma forma de auto sustentação, mediante uma economia que garante a subsistência e a coesão, a qual custeia o aparato de mando e coerção. 
+
+Para o autor, mesmo sendo invisível, proscrito e em disputa com o controle institucional, esta ordem  carcerária pode ser analisada por suas relações de analogia, complementariedade e comunicação com as instâncias estatais com as quais se mantêm em conflito. A emergência desse autogoverno responderia aos processos de exclusão massiva proporcionados pelo uso da prisão e pelo acelerado incremento de sua população nos últimos anos, como também em consequência da erosão da capacidade regulatória do Estado no interior das unidades prisionais.
+
+Diferentemente das Filipinas e da Venezuela, no Brasil houve iniciativas de romper com a extralegalidade dos coletivos de presos  e formalmente reconhecer neles legitimidade para dialogar com a administração prisional suas demandas. Em importante trabalho realizado por  \citeonline{goes2009}  menciona-se as ``comissões de solidariedade'', criadas em São Paulo em 1983 por iniciativa do então Secretário de Justiça José Carlos Dias, durante o Governo Montoro, 1983 a 1987. 
+
+Por essas comissões, os representantes de presos eram eleitos por voto secreto, o que elidia as possibilidades de submissão dos presos por lideranças. Formas negociais de solução de conflito entre presos e a administração foram implementadas, gerando a redução da violência durante os momentos reivindicatórios. 
+
+A experiência com as comissões de solidariedade sofreu ataques de todas as ordens. Agentes penitenciários insatisfeitos com o rearranjo dos canais de comunicação entre presos e administração passaram a boicotá-los e parte da imprensa dirigiu constantes ataques ao Secretário de Justiça pela iniciativa.
+
+\citeonline{Alvarez2013} resgatam a experiência das comissões de solidariedade para argumentar que, para além da repressão e violência estatal contra a população presa, o não reconhecimento de instâncias de representação entre presos e a obstrução de canais de comunicação com administração geraram as condições para o PCC surgir e se expandir. Para esses autores, o PCC se apropriou exitosamente do discurso da luta contra a opressão do Estado da defesa de direitos. Após uma sequência de disputas violentas e fazendo uso de uma rede de atividades ilegais, o PCC se consolidou como uma força social e política no âmbito prisional.
+
+Convive com a regulação formal uma gama de atividades lícitas e ilícitas, uma rede de comunicação interna e externa, um conjunto informal de normas e disciplinas, mantidos e controlados pelo PCC. Por outro lado, quem está habituado com o cotidiano prisional\footnote{A autor desta tese visitou constantemente os presídios paulistas na condição de agente de Pastoral Carcerária de 2003 a 2014} sabe que o PCC não controla todos os aspectos da vida dos presos. Ao contrário, há um autogoverno descentralizado e difuso que sobrevive, por vezes desconhecido ou mesmo tolerado pelo PCC, que existe enquanto microespaço de livre negociação e comunicação entre os presos. Por exemplo, ao menos na unidade prisional que visitávamos até 2014, o tráfico de drogas não era estritamente controlado pelo PCC. Cada presa podia ``livremente''\footnote{inserimos as aspas apenas para indicar que há variações entre as unidades prisionais. Em alguns lugares, há restrições sobre quem pode comerciar drogas, mas é certo que, a princípio, não é necessário ser membro ao PCC para comerciar drogas} vender drogas para as demais, desde fosse capaz de traficá-las para o interior da unidade prisional por sua conta e risco.
+
+Ademais, mesmo se consolidando como força capaz de impor sua vontade à massa carcerária e mesmo de pressionar a administração prisional para a solução de suas demandas, o PCC não suprimiu as demais forças que determinam a dinâmica carcerária. Ao longo da pesquisa verificamos que a população prisional está submetida a três principais forças que funcionam como vetores apontados para diferentes direções num mesmo campo. Sendo elas, a administração prisional, o PCC e o Judiciário.
+
+A administração prisional mantêm os poderes de autorizar a comunicação com o exterior, de impedir fugas e rebeliões, de prover os serviços básicos e de parcialmente manter a integridade física e mental dos internos\footnote{Este papel é mais bem exercido para aqueles que se encontram sob medida de proteção. A população presa geral, que se encontra no convívio, serve-se das lideranças das facções para assegurar sua proteção}. Ela preserva ainda alguns poderes disciplinares como a instauração de sindicâncias para apurar faltas e aplicar sanções, bem como, o poder de transferir o presos para unidades distantes como importantes instrumentos no controle da população prisional. 
+
+O Judiciário mantêm o controle sobre o ingresso e o egresso dos presos. Igualmente, cabe ao Judiciário todas as decisões que redundem na concessão de benefícios e em homologar os atos administrativos que importem em sanções ou potenciais antecipações da liberdade aos presos. Sobre o Judiciário dedicamos um capítulo específico. O restante do presente capítulo discorre sobre a gestão das unidades prisionais a partir da atuação dos diretores das unidades.
+
+\section{Referencial teórico}
+
+Para discutir o exercício do controle sobre a população carcerária, o projeto se ancora teoricamente no debate, prolífico na literatura penitenciária estadunidense dos últimos 60 anos, mas que não encontrou suficiente eco no Brasil, em torno da melhor forma de atingir os objetivos mais comumente assinalados à administração prisional: segurança, disciplina, proteção dos indivíduos e reintegração social. 
+
+De um lado, autores como \citeonline{Irwin1987}, \citeonline{Sykes1958} e \citeonline{Cloward1960} abordaram as prisões desde uma perspectiva criminológica, destacando a figura do preso e sua cooperação como aspectos chaves na manutenção da ordem, de modo que a prisão vem a constituir-se de uma comunidade política. De outro, autores como \citeonline{Diiulio1990}, \citeonline{Useem2006} e \citeonline{Wilson1989} apostaram na centralidade da figura do administrador prisional e sua capacidade de liderança. 
+
+Com efeito, enquanto para \citeonline{Sykes1958}, a desordem prisional resulta da excessiva rigidez disciplinar e da remoção dos ``real men'' da liderança entre os presos, para  \citeonline{Diiulio1990}, a desordem é gerada pela reprodução na prisão das experiências vividas nas ruas pelos presos, caracterizada por deficiências administrativas e pela ausência de rigor disciplinar exercida pelo diretor prisional sobre os presos. 
+Esta questão permanece aberta e tanto uma quanto outra posição tem encontrado apoio em pesquisas empíricas. \citeonline{Colvin1992} analisou a crise penitenciária no Novo México para concluir que o excesso de disciplina foi a causa das rebeliões, enquanto que \citeonline{Useem2006} estudou várias prisões nos EUA para concluir que a causa da crise com rebeliões foi a ruptura com a ordem administrativa e que a ordem poderia ser estabelecida, sem conferir poderes aos presos, desde que cumpridas certas condições para manter a estabilidade.
+
+Subjacente a este debate está a questão do que deve preponderar nas relações entre gestores e presos, se a legitimidade daqueles perante estes \cite{Sykes1958,Irwin1987} ou se a coerção, independentemente do reconhecimento de parte dos presos da autoridade do administrador prisional, vez que, segundo esta visão, os presos são indisciplinados e indispostos a seguir ordem senão coercitivamente \cite{Diiulio1990,Wilson1989}. 
+
+Posição intermediária foi assumida por \citeonline{Coyle2002}, para o qual, a administração prisional não é uma democracia, mas ela deve estar centrada no reconhecimento do preso como sujeito de direitos. Para \citeonline{Griffin2013} e \citeonline{Hepburn1985}, as prisões se caracterizam por serem coercitivas, porém com variações acerca do uso de mecanismos formais e informais de controle, a depender de fatores como o tamanho e a composição da população prisional, o nível de segurança da prisão e o ambiente prisional. Ou seja, conforme as características prisionais, a coerção pode assumir aspectos negociais e dar lugar à informalidade.
+
+Alguns autores exploraram os programas oferecidos no interior das prisões como dispositivos de controle da população prisional. \citeonline{Colvin1992} mostrou que os incentivos concedidos por meio de programas educacionais e de trabalho são poderosos instrumentos para levar os presos a se conformarem à disciplina prisional. \citeonline{Brant1994}, ao estudar o trabalho do preso, verificou que ele tem sido utilizado como mecanismo de coerção.
+
+Com respeito a São Paulo, o trânsito entre o formal e informal na gestão prisional se articula, no contexto atual, em face da capacidade de autogoverno desenvolvida por grupos de presos, nomeadamente o PCC (Primeiro Comando da Capital). Este grupo tem assumido alguns aspectos do controle sobre a população carcerária e inclusive reivindicado a responsabilidade pela redução da violência no interior das prisões \cite{Dias2011}.
+
+Recorreu-se às contribuições sociológicas e criminológicas em torno do controle, ordem e desordem nas prisões. Sobre as concepções político-criminais dos diretores, os desenvolvimentos da teoria dos fins da penas foram contemplados tanto no conjunto das teorias absolutas, quanto no das teorias preventivas e da teoria funcionalista da Prevenção Geral. 
+
+As teorias absolutas assumem as formas de retribuição, compensação ou expiação. As teorias preventivas articulam os fins da pena em quatro conceitos: prevenção geral positiva (magistério punitivo do estado); prevenção geral negativa (intimidação social); prevenção especial positiva (ressocialização); e prevenção especial negativa (incapacitação para o crime). Por sua vez, a teoria funcionalista da prevenção geral foca na afirmação contrafática da vigência da norma. Aqui há uma clara visão funcionalista de manutenção da ordem. Se o crime ameaça o rompimento com a ordem, a pena reafirma a expectativa de vigência da norma e da ordem. \cite{PANTONI2008,Roxin1998, FigueiredoDias1999}.
+
+Quanto à orientação dos diretores em relação aos presos e demais grupos, buscamos em vários outros autores que já trabalharam com o tema, tais  como Alice Liebling (\citeyear{Liebling2007}), Hepburn (\citeyear{Hepburn1989}) e Francis Cullen (\citeyear{Cullen1989}). Para Liebling \cite{Liebling2007}, a cultura dos agentes prisionais varia consideravelmente de uma prisão para outra e essas variações impactam na qualidade de vida dos presos. A diferença crucial entre prisões é justamente a maneira como o poder é usado e como este é sentido \cite{Crewe2011}.
+
+Francis Cullen (\citeyear{Cullen1989}) estudou o nível pelo qual agentes penitenciários referendam a ressocialização, a punição ou a contenção. Ao contrário do modo como o senso comum geralmente retrata esses agentes, as pesquisas têm demonstrado que eles tendem a apoiar ideias reabilitadores e menos punitivas.  No entanto, no presente estudo os resultados parciais parecem dar suporte a um quadro um pouco diferente. Eles parecem revelar que os diretores, ainda que em menor grau, refletem as mesmas orientações contraditórias  que a sociedade em geral apresenta, ou seja, parece muito aquilo que David Garland chama de política criminal esquizoide. Ora  esses diretores manifestam-se refratários ao punitivismo, ora caminham na direção do diálogo. 
+
+Isso não obstante, os diretores parecem atuar como burocratas no nível de rua (ou burocratas de pavilhão prisional) \cite{Shannon2014} na medida em que eles assumem posição punitivista para aqueles que eles julgam oferecerem risco à sociedade e mais condescendente para aqueles que eles entendem que a prisão constitui uma medida muito severa, vez que o seu perfil não parece oferecer risco à segurança da unidade.
+
+\section{Metodologia}
+
+Para uma primeira aproximação aos diretores das unidades prisionais foi elaborado um \emph{\nameref{questionario}}, o qual foi submetido e aprovado pelo Comitê da Ética da Secretaria da Administração Penitenciária. O \emph{\nameref{questionario}} foi elaborado tendo dois objetivos. O primeiro deles foi entender como os diretores percebem os demais atores do sistema prisional e como eles se relacionam com esses atores. O intuito era identificar quais grupos ou atores estão em linha de atrito ou de alinhamento com os diretores prisionais e buscar possíveis interpretações para isso.
+
+Assim, para avaliar a proximidade ou distanciamento dos diretores com os demais grupos, e.g. Defensoria Pública, Juízes, promotores, Funap, corregedoria, presos, familiares, solicitamos que os diretores dessem notas a esses grupos conforme a empatia ou conforme o nível de colaboração mútua. A análise das respostas é eminentemente descritiva, pois queríamos classificar as relações dos diretores com esses atores e tentar oferecer algumas pistas interpretativas.
+
+O segundo objetivo foi identificar as orientações político-criminais bem como as posturas desses diretores sobre sua autonomia de atuação. Para contornar eventuais resistências dos diretores em responder ao questionário, optamos por usar itens com categorias de respostas ordenadas, também conhecidas como escala Likert \cite{Likert1932} (e.g., discordo totalmente...concordo totalmente). 
+
+A escala Likert é vastamente utilizada para medir personalidade, atitudes, valores e afeto. Com base nesse modelo psicométrico, ao responder a um ítem, cada pessoa seleciona a categoria de resposta que melhor expressa sua opinião. Números inteiros crescentes (k=1,2,3, $\mu$), onde $\mu$ é o número de categorias respostas para o item i, são designados para sucessivas categorias, a partir do pressuposto de que eles refletem aproximadamente a posição do respondente sobre construtos latentes avaliados pela escala. 
+
+A opção pela escala Likert de sete pontos se deu após avaliarmos a necessidade de aproximarmo-nos dos diretores sem perguntas diretas e sem forçá-los a responder sim ou não sobre temas por vezes controversos ou que pudessem posicioná-los em linha de atrito com outras instâncias de poder.
+
+Assim, com a apoio no referencial teórico e no levantamento das questões fundamentais que giram em torno da questão prisional, elaboramos os construtos ou fatores latentes. Esses fatores latentes foram: a) capacidade de controle: concentrado, dividido ou impotente; b) orientação em relação aos presos: (disciplinar vs. dialogal), (proximidade vs. distanciamento); c) orientação em relação aos agentes penitenciários: proximidade ou desconfiança; d) visão político criminal (reintegradora vs. defesa social). Cada um desses fatores forma uma escala operacionalizada em vários itens. De modo que só podemos afirmar que há uma orientação numa certa direção se as respostas a esses itens convergirem.
+
+Essa prática é recomendada quando se busca medir conceitos menos concretos, tais como, em nosso caso, a orientação político criminal ou a abordagem adotada no trato com presos. Para verificar se os componentes da escala estão correlacionados para formar variáveis latentes ou subjacentes, utilizamos a técnica de análise fatorial confirmatória. Segundo \citeonline{Finch2015}, análise fatorial é uma das técnicas estatísticas mais usadas em ciências comportamentais. Pesquisadores a utilizam para obter \textit{insights} sobre uma grande quantidade de construtos, tais como inteligência, personalidade, doenças mentais, depressão e ansiedade, para citar algumas. 
+
+Nesse esquema, a variável latente (e.g, punitivismo) constitui o interesse primário pesquisador, mas que não pode ser medida diretamente. No entanto, teoriza-se que esta variável latente influencia indicadores observáveis (itens numa escala de zero a sete), de modo que é possível entender propensões dos atores numa determinada direção a partir desses indicadores \cite{Beaujean2014}.
+
+A despeito de a escala Likert ter sido aplicada a um conjunto grande de questões, e.g., para saber a opinião sobre o agente penitenciário se converter em força policial ou a opinião sobre a atuação dos agentes penitenciários, os resultados foram utilizados maiormente na análise descritiva. A análise inferencial foi dedicada somente a conhecer três aspectos importantes da atuação dos diretores. Um deles refere-se à autonomia, o outro à proximidade em relação aos presos e o terceiro a um aspecto mais político-criminal, relacionado ao punitivismo desses agentes, ou seja, o quanto eles aderem ao discurso punitivista. 
+
+Para cada um desses fatores (punitivismo,  proximidade e autonomia), foram elaborados indicadores operacionalizados em declarações. O pressuposto é de que esses indicadores  (ou variáveis observáveis) funcionem como uma espécie de \textit{proxis} de cada um desses fatores (ou variáveis latentes). Assim, para saber se o diretor tem uma tendência punitivista, foram feitas as seguintes declarações: ``Os presos têm muitos direitos'', ``A vida na prisão é muito fácil para os presos'', ``Melhorar as condições das prisões torna os presos piores para os agentes'' e ``Se os agentes penitenciários fossem policiais, os agentes e diretores teriam mais autoridade sobre os presos''. 
+
+Diante dessas declarações, foi perguntado qual o nível de concordância, numa escala de sete pontos, desde discordo totalmente até concordo totalmente. Se as respostas a essas questões convergem, ou seja, não são contraditórias, temos uma forte sugestão de que estamos efetivamente avaliando a orientação político-criminal punitiva dos diretores.
+
+Para entender o que explica as diferentes opiniões entre os diretores, foi elaborado um modelo estrutural com variáveis explicativas com questões sobre o sexo, a idade, o tempo de trabalho, a experiência como diretor e o nível de segurança da unidade prisional. A \autoref{fig:sem}, conhecida como análise de trilha (Path analysis), ilustra como foi desenhada a pesquisa. Do lado esquerdo estão as variáveis explicativas (perfil dos diretores e perfil das unidades) com as setas direcionadas para os fatores latentes (punitivismo, proximidade e autonomia), as quais têm as setas direcionadas para os indicadores à direita. A direção das setas indica a determinação de uma variável sobre a outra.
+
+A análise de fatores latentes e a  análise de trilha quando combinadas podem ser incluídas no que a literatura psicométrica chama de Modelagem de Equação Estrutural (Structural Equation Modeling ou SEM na sigla em inglês).  SEM é composta por dois modelos. O modelo estrutural, em que as variáveis independentes: idade, sexo, tempo de trabalho, experiência, explicam as variáveis latentes (proximidade, autonomia e punitivos) e o modelo de mensuração, em que as variáveis latentes mencionadas são medidas a partir de indicadores.
+
+Respondido ao \emph{\nameref{questionario}}, alguns diretores se ofereceram para conceder entrevistas ao pesquisador. Para conduzir as entrevistas, foi elaborado um formulário semiestruturado de perguntas, as quais foram utilizadas como guia para as entrevistas com seis dos diretores. O \emph{\nameref{roteiro}} segue no apêndice.
+
+Por fim, algo digno de nota é que este capítulo também se oferece como proposta metodológica para a construção de indicadores para uma avaliação sistêmica e estrutural do gestão  prisional. Há uma pletora de órgãos responsáveis pela supervisão do sistema prisional: juízes, promotores, defensores, Departamento Penitenciário Nacional, Conselhos penitenciários nacional e estadual, Mecanismo Nacional de Prevenção à Tortura, par citar alguns. No entanto, na maioria das ocasiões, esses órgãos realizam um \textit{checklist}, limitando-se a identificar a existência ou não de um determinado serviço ou o cumprimento da lei. 
+
+Um dos poucos esforços para criar um sistema de indicadores de avaliação foi feito por \citeonline{Cabral2006}, mas sua proposta não avançou. A presente pesquisa retoma a ideia de se construir um sistema de indicadores para uma avaliação sistêmica e estrutural da política penitenciária estadual. O modelo de equação estrutural permite avaliar os vários aspectos do sistema prisional, por exemplo, saúde, segurança, disciplina, assistência jurídica, a partir de um grande conjunto de indicadores, os quais podem ser reduzidos a esses componentes e apresentar resultados válidos, confiáveis e passíveis de generalização.
+
+\section{Respostas dos diretores - Análise descritiva}
+
+A partir daqui passamos à análise descritiva das respostas dos diretores. Iniciamos com o perfil, seguindo para sua relação com os agentes penitenciários, sua autonomia, relação com outros grupos tanto da administração prisional, quanto externos. Terminamos esta seção com a orientação político-criminal dos diretores, o que abre caminho para a próxima seção, que trata da análise inferencial.
+
+\subsection{Perfil dos diretores}
+
+A carreira do servidor penitenciário é \textit{sui generis} dentro do sistema de justiça. O Judiciário, o Ministério Público e a Defensoria Pública são compostos por servidores de carreira, os quais ingressam na mesma posição e iniciam atuando em primeira instância. No caso do defensor público, este atuará em primeira instância e segunda instância. A Polícia Militar possui uma divisão secular entre praças e oficiais.  A Polícia Civil possui uma divisão entre delegados e não-delegados. Diferentemente dessas carreiras,  os agentes penitenciários ingressam como agentes e permanecem como agentes. Todo diretor de unidade prisional sabe que, a qualquer momento, poderá retornar ao serviço penitenciário de custódia e escolta interna.
+
+A \autoref{fig:gg_idade} mostra a idade dos diretores. A maior concentração está entre trinta e cinco e cinquenta e cinco anos. Pouquíssimos são jovens, o que contrasta com a idade dos presos, por exemplo, que varia entre 18 e 35 anos de idade. A maioria também ingressou no serviço prisional há mais de 20 anos. A \autoref{fig:gg_sexo} mostra o número de diretoras em relação ao número de diretores. Estes são cinco vezes mais.  
+
+Por sugestão do Comitê de Ética da Secretaria de Administração Penitenciária, foram retiradas as perguntas sobre a graduação dos diretores e sobre a localização de sua unidade, se no interior ou na Capital, para evitar a possibilidade de identificação. Essa exclusão de questões acabou prejudicando a análise. Isso porque, durante as entrevistas, alguns manifestaram que somente optaram por curso superior quando vislumbraram a possibilidade de se tornarem diretores.
+
+Quanto à nomeação para diretor, já houve tentativas de tornar objetivo o processo de nomeação. No entanto, este permanece informal e baseado nas relações pessoais estabelecidas entre agentes penitenciários e seus superiores hierárquicos. A relação de confiança é crucial para a nomeação. Segundo um dos diretores:
+
+\begin{citacao}
+Fiquei em (unidade prisional) até o (ano), quando o excelentíssimo (secretário) juntamente com o dr. (diretor de unidade) solicitaram se eu pudesse contribuir na direção da unidade prisional. Foi quando eu vim para cá e estou aqui até hoje. Assumi aqui (data) e estamos exercendo este trabalho dentro do possível (...). O (secretário) deve ter conversado com o (diretor) e assim eles queriam uma pessoa de confiança para tá travando (nessa unidade prisional) e em conversa entre os dois eles acharam por bem estar me convidando.
+\end{citacao}
+
+\begin{figure}[h!tpb]
+\caption{Idade dos diretores}
+\label{fig:gg_idade}
+\centering
+\hspace{-2cm}
+\includegraphics{figure/gg_idade.pdf} 
+\end{figure}
+
+\begin{figure}[h!tpb]
+\caption{Sexo dos diretores}
+\label{fig:gg_sexo}
+\centering
+\hspace{-2cm}
+\includegraphics{figure/gg_sexo.pdf} 
+\end{figure}
+
+A \autoref{fig:gg_tempo} mostra o tempo em anos desde que o diretor ingressou no serviço prisional. A maioria dos respondentes está na SAP há mais de 20 anos. Ingressaram como agentes penitenciários e daí seguiram uma trajetória de vários anos até se tornarem diretores. Para muitos a ascensão foi um tanto acidental. Em dado momento, o diretor da unidade o convida a integrar sua equipe de confiança, e.g. assistente, diretor de segurança ou outra diretoria e, a partir daí, o cargo de diretor entra no radar de expectativas. Como a Lei de Execução Penal exige curso superior para ser diretor, mencionando os cursos: 
+
+\begin{citacao}
+
+Art. 75. O ocupante do cargo de diretor de estabelecimento deverá satisfazer os seguintes requisitos:
+
+  I - ser portador de diploma de nível superior de Direito, ou Psicologia, ou Ciências Sociais, ou Pedagogia, ou Serviços Sociais;
+
+  II - possuir experiência administrativa na área;
+
+  III - ter idoneidade moral e reconhecida aptidão para o desempenho da função.
+
+Parágrafo único. O diretor deverá residir no estabelecimento, ou nas proximidades, e dedicará tempo integral à sua função.
+
+\end{citacao}
+
+É comum encontrar diretores que fizeram um desses cursos mesmo sem jamais ter exercido tal profissão. Aparentemente, somente ingressaram na faculdade porque surgiu a possibilidade se tornarem diretores:
+
+\begin{citacao}
+
+Eu sou formado em pedagogia pela Universidade Federal do Mato Grosso. Formei em 1996 (…). Eu já fiz essa faculdade, eu era casado na época, não tinha condições de fazer uma faculdade particular , então foi a faculdade que me ofereciam o curso que eu conseguia fazer e que me desse chance de crescer dentro do sistema.
+
+\end{citacao}
+
+\begin{figure}[h]
+\caption{Tempo em anos desde que o diretor ingressou no serviço prisional}
+\label{fig:gg_tempo}
+\centering
+\hspace{-2cm}
+\includegraphics{figure/gg_tempo.pdf} 
+\end{figure}
+
+
+\subsection{Orientação político-criminal dos diretores}
+
+Para conhecer a orientação político-criminal dos diretores, elaboramos declarações baseadas nas teorias dos fins da pena \autoref{fig:l_objetivos}. Os resultados mostram que nenhuma postura político-criminal prepondera sobre as demais, embora a  prevenção especial positiva (ressocialização) e a prevenção geral funcionalista (reforçar o respeito às leis) gozem de um pouco mais de aceitação. Por outro lado, a visão de que sua missão é proteger a sociedade não é tão bem aceita, o que mostra uma tendência ao distanciamento de uma concepção de segurança pública.
+
+Combinadas com as questões relativas sobre identificação com a atuação policial, nota-se que há um distanciamento da lógica da segurança pública. Por outro lado,  a identificação do diretor, e do agente penitenciário, com a administração da justiça não foi confirmada. Isto é, no dilema entre se posicionar como órgão de segurança pública ou como órgão do sistema de justiça, os diretores não parecem ter elaborado qualquer reflexão a respeito. Com base em suas respostas, a administração penitenciária parece estar numa zona indefinida. Não é um órgão se segurança, não é um órgão da justiça, mas absorve discursos de ambos os âmbitos:
+
+\begin{citacao}
+
+Tanto a sociedade quanto uma boa parte dos servidores, eles têm o diretor como a figura opressora, como a figura carrasca. As visitas têm esse tipo de de. Eles acham que é dessa forma porque eles não conhecem o meio carcerário. Eles vão pela maneira que o preso passa. Então (..) aqui a gente tem uma unidade que a gente cobra muito disciplina, cobra muito a rigor esta questão da segurança e da disciplina.
+
+\end{citacao}
+
+\begin{figure}[h]
+\caption{Qual desses objetivos você considera mais importantes para a administração prisional}
+\label{fig:l_objetivos}
+\centering
+\hspace{-2cm}
+\includegraphics[width=\textwidth]{figure/l_objetivos.pdf} 
+\end{figure}
+
+\subsection {Limitações na gestão}
+
+A principal dificuldade relatada pelos diretores é o número de presos. Para eles, há um excesso de presos e constantes inaugurações de unidades prisionais para abrigar pessoas que, em princípio, não deveriam estar ali. Ao afirmar que o problema está nas relações anteriores, conferir abaixo, esses diretores indicam que problemas que deveriam ser tratados no âmbito das políticas sociais, e.g., educação e assistência social, estão sendo tratados com o aprisionamento. Isso pode ser denotado da seguinte fala, em que a falta de informação foi chave para o aprisionamento:
+
+\begin{citacao}
+
+Temos dificuldades em questão de presos, número de presos (..). Este vai pegar dez papelotes de cocaína, vai misturar, vai fazer virar vinte, porque ele acha que o tráfico é assim e vai vender e vai preso. Quando ele vai preso, é tráfico de entorpecente, é uma situação que é inafiançável. É uma situação que para ele ter benefício na pena, ele tem de completar 2/5 de pena para ter benefício. E nisso, o pessoa vai indo para as unidades prisionais e vai enchendo as unidades. Nunca criou-se tanta unidade prisional. A questão não é inaugurar, inaugurar, inaugurar. A questão é essa, as pessoas que estão nas unidades prisionais são pessoas em que as consequências em que ele veio para esse crime são pequenas, por falta de informação.
+
+\end{citacao}
+
+Outra limitação está na quantidade de demandas externas. Segundo alguns diretores, eles ocupam mais de 50\% do seu tempo respondendo a correspondências e solicitações de agentes externos à unidade. Demandas de familiares, demandas do Ministério da Justiça, explicações aos juízes, promotores e defensores sobre denúncias contra a unidade. Nesse sentido, os diretores parecem mais confortáveis com grupos que lhes causam menos demandas ou que os expõem menos. A \autoref{fig:l_externo} ilustra o quanto os diretores são refratários à atuação de jornalistas. Pelas respostas, uma possível interpretação é de que, embora abstratamente considerem relevantes o papel de agentes estranhos à gestão, e.g. mídia, ONGs e grupos religiosos, sua interferência concreta no dia a dia não é bem-vinda. 
+
+\begin{figure}[h]
+\caption{Percepção dos diretores em relação a agentes externos}
+\label{fig:l_externo}
+\centering
+\hspace{-1cm}
+\includegraphics[width=\textwidth]{figure/l_externo.pdf} 
+\end{figure}
+
+Esse quadro se torna mais interessante quando observamos como os diretores reputam aqueles que ele, por exigência legal, tem de tratar, sejam eles operadores do sistema prisional ou de justiça,  ou  familiares e presos. 
+
+A \autoref{fig:l_grupos} coloca os superiores diretos dos diretores no topo da lista daqueles com os quais ele prefere trabalhar, enquanto que o corpo técnico, presos e familiares posicionam-se na base. A possível explicação para posicionar o corpo técnico, profissionais da saúde, advogados, psicólogos e assistentes sociais, deve-se ao fato de estes não estarem diretamente subordinados aos diretores ou à sobrecarga de demandas de presos para esses profissionais em relação à insuficiências desses serviços. 
+
+\begin{figure}[h]
+\caption{Com qual desses grupos você acha mais fácil trabalhar?}
+\label{fig:l_grupos}
+\centering
+\hspace{-2cm}
+\includegraphics[width=\textwidth]{figure/l_grupos.pdf} 
+\end{figure}
+
+A \autoref{fig:l_desempenho} posiciona o Ministério Público e o Judiciário no topo, enquanto que a Defensoria Pública é a menos apreciada. Nas entrevistas com os diretores, estes manifestaram que para eles a Defensoria Pública deveria se ocupar mais dos casos individuais e menos da fiscalização das condições das prisões.
+
+\begin{citacao}
+Eu tenho uma visitante, vamos dizer, essa visitante veio para a unidade prisional, estava portando uma aparelho celular no órgão genital (...) e essa mulher foi suspensa. E quem pega esse aparelho são os servidores, são as servidoras. Passa um determinado tempo (...) essa mulher daqui a pouco ela está aí de volta, e é uma coisa que ela não vai entrar porque existe uma portaria da administração penitenciária que não autoriza nesses casos. Diante disso, você vai ter alguns órgãos como a Defensoria Pública, você vai ter outros órgãos que vão entrar para defender essa visita. E essa visitante vai alegar e a Defensoria vai alegar ``a mas, o preso tem direito à visita''.
+\end{citacao}
+
+Em outro momento o mesmo entrevistado menciona claramente que seu maior problema é a Defensoria Pública e o Disque 100 (Ouvidoria da Secretaria de Direitos Humanos da Presidência da República)
+
+\begin{citacao}
+
+O meu maior problema hoje é a Defensoria Pública. A Defensoria Pública, como ela não tem um conhecimento do cárcere, ela entra com vários pedidos, não sei se isso é para gerar números, não sei o que que é. São solicitações absurdas. Nós temos aí hoje também um disque 100, em Brasília e este é o maior absurdo. Este é o que mais me atrapalha porque ele dispara e tudo o que você vai, na unidade prisional,  colocar para que o preso não tenha uma regalia, uma regalia que eu digo, são meios que o preso está usufruindo para algumas atitudes ilícitas, você corta.   Aí começam visitantes: ``a unidade não pode nada, na unidade o diretor é um carrasco''.  Só que quando esta denúncia vem. Do Disque 100, ela vai para a Secretaria, para a Corregedoria, para o Ministério Público, para o juiz da execução daqui, para o juiz da execução de São Paulo, promotoria, nós temos que responder.
+
+\end{citacao}
+
+\begin{figure}[h]
+\caption{Como você classificaria o desempenho dos seguintes órgãos ou grupos?}
+\label{fig:l_desempenho}
+\centering
+\hspace{-1cm}
+\includegraphics[width=\textwidth]{figure/l_desempenho.pdf} 
+\end{figure}
+
+
+\subsection{Autonomia do diretor}
+
+Para abordar a autonomia do diretor, foram feitas várias perguntas relativas à sua capacidade disciplinar sobre os presos, bem como sobre os agentes penitenciários. Além disso, perguntou-se como ele se posiciona em relação aos demais órgãos da administração penitenciária e como ele se coloca frente à proposta de ser policial.A \autoref{fig:l_poder} mostra a opinião dos diretores em relação à sua autonomia.  Do mesmo modo, a \autoref{fig:l_proprio} ilustra como percebe sua autonomia em relação a outros grupos: presos, agentes e administração penitenciária central.
+
+
+\begin{figure}[h]
+\caption{Percepção dos diretores sobre os limites de seu poder e autonomia}
+\label{fig:l_poder}
+\centering
+\hspace{-2cm}
+\includegraphics[width=\textwidth]{figure/l_poder.pdf} 
+\end{figure}
+
+\begin{figure}[h]
+\caption{Percepção dos diretores sobre sua autonomia em relação a outros grupos}
+\label{fig:l_proprio}
+\centering
+\hspace{-1cm}
+\includegraphics[width=\textwidth]{figure/l_proprio.pdf} 
+\end{figure}
+
+
+Quanto à  capacidade disciplinar sobre os agentes penitenciários. Há uma clara manifestação de impotência em relação aos agentes e sobre as facções. Segundo um dos diretores, declarações abaixo, sua função tem se reduzido à administração de conflitos, com limitado poder disciplinar, especialmente sobre os agentes penitenciários. Tanto em relação aos agentes, quanto em relação aos presos, os diretores parecem apontar a ampliação de direitos como obstáculo à efetividade da gestão. Se não fossem os direitos, haveria melhor gestão. 
+
+\begin{citacao}
+
+Hoje a gente não tem tanta força contra funcionário, a gente simplesmente tem que cumprir a legislação e fazer com que o serviço saia.  Então a gente tem uma dificuldade muito grande em gerir, porque hoje está muito fácil para quem não quer trabalhar. Ele vai pega um atestado de 60, 90 dias, tem gente que faz cinco anos que não trabalha. A gestão hoje, ela é muito difícil porque hoje você tem que gerir conflito. O diretor hoje não tem mais poder de fala para o funcionário, olha você faz, se não faz tem uma sindicância você vai ser punido, você tem de ficar gerindo conflito. (No passado), eu acho que o diretor tinha muito mais facilidade de trabalhar, ele tinha uma autonomia maior. Quando eu comecei nessa penitenciária, a gente tinha horário para chegar, horário para sair, você não faltava, você tinha convocação. A gente vinha para trabalhar. Ele (o diretor) tinha o poder de punir, tinha a verdade sabida na época. Hoje o diretor não pode muita coisa. Então a gente fica muito engessado nessa questão.
+\end{citacao}
+
+Isso não obstante, quando analisamos as respostas ao questionário, \citeref{fig:l_agentes}, os diretores revelaram uma orientação positiva em relação aos agente penitenciários. 
+
+\begin{figure}[h]
+\caption{Proximidade e confiança nos agentes penitenciários}
+\label{fig:l_agentes}
+\centering
+\hspace{-1cm}
+\includegraphics[width=\textwidth]{figure/l_agentes.pdf} 
+\end{figure}
+
+
+A \autoref{fig:l_policial_tempo} e a \autoref{fig:l_policial_idade} mostram a percepção dos diretores em relação à proposta de serem policiais. É interessante notar que há uma substancial diferença entre o que eles entendem como a legitimação social e a legitimação entre presos. A maioria concorda que ``A sociedade não tem o mesmo respeito por agentes penitenciários, inclusive diretores, que tem por policiais'', mas discorda que  ``Se agentes penitenciários fossem policiais, os agentes e diretores teriam mais autoridade sobre os presos''. Ao nosso ver, essa diferença revela que, para os diretores, ser policial não melhoraria a gestão penitenciária em termos de relacionamento com a população carcerária, mas externamente, perante as expectativas sociais, sua imagem melhoraria. 
+
+Essa polarização se reflete na questão posicionada entre as duas nas figuras mencionadas ``Deveria ser criada a polícia penitenciária'', onde os diretores parecem claramente divididos. Isso porque, há vantagens para a carreira em ser policiais, mas não há vantagens para a qualidade da gestão prisional. 
+
+\begin{citacao}
+O sistema penitenciário é uma coisa tão fechada, que a gente não é policial, a gente não é bandido, ninguém sabe o que a gente faz aqui dentro. Existe muita mística. 
+\end{citacao}
+
+\begin{figure}[h]
+\caption{Percepção sobre a posição do agente como policial em relação ao tempo de serviço}
+\label{fig:l_policial_tempo}
+\centering
+\hspace{-1cm}
+\includegraphics[width=\textwidth]{figure/l_policial_tempo.pdf} 
+\end{figure}
+
+\begin{figure}[h]
+\caption{Percepção sobre a posição do agente como policial em relação à idade}
+\label{fig:l_policial_idade}
+\centering
+\hspace{-1cm}
+\includegraphics[width=\textwidth]{figure/l_policial_idade.pdf} 
+\end{figure}
+
+\subsection{Perfil dos presos}
+
+O perfil dos presos não foi exaustivamente explorado na pesquisa. As perguntas relativas aos presos estiveram mais voltadas a verificar se este perfil inflencia a opinião dos diretores sobre punitivismo, autonomia e disciplina. A realizar a pergunta sobre o risco do preso, \autoref{fig:gg_risco}, nossa suspeita era de que diretores tenderiam a ter uma opinião mais restritiva e punitiva em relação aos presos quando estes oferecessem alto risco.
+
+\begin{figure}[h]
+\caption{Como você classificaria os presos de sua unidade segundo os riscos oferecidos}
+\label{fig:gg_risco}
+\centering
+\hspace{-1cm}
+\includegraphics[width=\textwidth]{figure/gg_risco.pdf} 
+\end{figure}
+
+Do mesmo modo, unidades prisionais onde as facções exercem controle sobre a população presa, conferir \autoref{fig:gg_fac}, supostamente influenciariam a opinião do diretor sobre sua capacidade disciplinar sobre os presos. 
+
+\begin{figure}[h]
+\caption{Os presos dessa unidade têm convívio com qual facção?
+}
+\label{fig:gg_fac}
+\centering
+\hspace{-2cm}
+\includegraphics[width=\textwidth]{figure/gg_fac.pdf} 
+\end{figure}
+
+Por fim, um alto percentual de presos provisórios na unidade, como revelado na \autoref{fig:gg_proc}, indicaria alta rotatividade e menor controle do diretor sobre o fluxo da unidade. Unidades com maior número de condenados apresentariam um quadro mais estável e  
+
+\begin{figure}[h]
+\caption{Qual a situação processual dos presos sob sua custódia?}
+\label{fig:gg_proc}
+\centering
+\hspace{-1cm}
+\includegraphics[width=\textwidth]{figure/gg_proc.pdf} 
+\end{figure}
+
+\cleardoublepage
+\section{Análise das propensões latentes dos diretores}
+
+Como anteriormente dito, para análisar as propensões latentes dos diretores com respeito à política criminal e sua autonomia em relação os demais grupos, optamos por definir somente três variáveis latentes, punitividade, proximidade e autonomia. O \autoref{quadro:indicadores} mostra a descrição das variáveis e os respectivos fatores nos quais elas carregam (\textit{load}).
+
+\begin{quadro}[h]
+\caption{Quadro dos indicadores e fatores}\label{quadro:indicadores}
+
+<<results="asis",echo=F,message=F>>=
+load("~/R/TESE/diretor/baseSem.rda")
+z<-ztable(tabela[[2]],tabular=TRUE,
+align="p|C{2cm}|C{11cm}|C{2cm}")
+print(z)
+
+@
+
+\end{quadro}
+
+\clearpage
+\begin{table}
+\caption{Medidas de ajuste do modelo de equação estrutural}\label{tab:ajuste}
+<<results="asis",echo=F,message=F>>=
+ajuste<-readRDS("~/R/TESE/diretor/ajuste.rds")
+aj<-cbind(ajuste[1:21,],ajuste[22:42,],ajuste[43:63,])
+aj[]<-ifelse(is.na(unlist(aj[])),"",unlist(aj[]))
+ztable(aj,
+       include.rownames=F,
+      align="C{3cm}|C{2cm}|C{2cm}|C{2cm}|C{2cm}|C{2cm}",
+      longtable=T,
+      booktabs=T,
+      tabular=T,
+      size=3)
+@
+\end{table}
+
+As medidas de ajuste do modelo, \autoref{tab:ajuste}  indicam um ajuste razoável para alguns índices (GFI = 0,84) e bom para outros ($X^2$, pvalor>0,05), CFI>0,9 e RMSEA<0,05.  No entanto, para erros robustos o modelo está mal ajustado. Medidas de ajuste do modelo informam o grau de aproximação entre o modelo predito e os valores observados. Neste caso, o modelo, embora com deficiência, aponta na direção de que os indicadores selecionados medem adequadamente os construtos (fatores).
+
+\clearpage
+<<results="asis",echo=F,message=F>>=
+baseSem<-readRDS("~/R/TESE/diretor/baseEdic.rds")
+parEst<-parameterEstimates(fit1)[1:29,]
+rws <- seq(1, (nrow(parEst)-1), by = 2)
+col <- rep("\\rowcolor[gray]{0.85}", length(rws))
+ParFit<-xtable(parEst,
+               caption="Valores estimados resultado da análise fatorial\\label{tab:indicadoresEst}",
+               align=c("p|","C{3cm}|","C{1.5cm}|","C{1cm}|","C{1cm}|","C{1cm}|","C{1cm}|","C{1.5cm}|","C{1.5cm}|","C{1.5cm}"),
+               rownames=F)
+
+print(ParFit, label="tab:indicadoresEst",
+      caption.placement='top',
+      include.rownames=FALSE,
+      add.to.row = list(pos = as.list(rws),
+                        command = col))
+@
+
+
+A \autoref{tab:residuos} mostra a correlação entre os resíduos. Todos os valores são baixos, menores que 0,1, com exceção de dois indicadores (v20 e v6) que carregam em autonomia e proximidade, mas isso é correlação espúria, obra do acaso, vez que eles medem dois construtos que não se confundem. Esta é razão porque não incluímos os resíduos na \autoref{fig:fit}.
+
+<<results="asis",echo=F,message=F>>=
+fit1_res_cor<-readRDS("~/R/TESE/diretor/fit_res_cor.rds")
+rws <- seq(1, (nrow(fit1_res_cor)-1), by = 2)
+col <- rep("\\rowcolor[gray]{0.85}", length(rws))
+x_fit_res_cor<-xtable(fit1_res_cor,
+       caption="Correlação entre os resíduos\\label{tab:residuos}",
+align=c("p|","C{1.8cm}|","C{0.9cm}|","C{0.9cm}|","C{0.9cm}|","C{0.9cm}|","C{0.9cm}|","C{0.9cm}|","C{0.9cm}|","C{0.9cm}|","C{0.9cm}|","C{0.9cm}|","C{0.9cm}|","C{0.9cm}|","C{0.9cm}|","C{0.9cm}"))
+print(x_fit_res_cor, label="tab:residuos",
+      caption.placement='top',
+      include.rownames=FALSE,
+      add.to.row = list(pos = as.list(rws),
+                        command = col))
+@
+
+
+\cleanpage
+\begin{figure}
+\caption{Modelo estrutural da análise dos fatores que influenciam as respostas \- Desenho}
+\label{fig:sem}
+\hspace{-3cm}
+\vspace{-2cm}
+\adjincludegraphics[width=2\textwidth,height=0.8\paperheight]{figure/graficoSEM.pdf}
+\end{figure}
+
+
+
+\cleanpage
+\begin{figure}
+\caption{Modelo estrutural da análise dos fatores que influenciam as respostas \-Resultado}
+\label{fig:fit}
+\hspace{-3cm}
+\vspace{-2cm}
+\adjincludegraphics[width=2\textwidth,height=0.8\paperheight]{figure/graficoFit.pdf}
+\end{figure}
+
+
+\section{Interpretação dos resultados}
+
+Se observarmos os resultados da \autoref{fig:fit} com relação a influência da idade, do sexo e experiência no sistema prisional, vemos que as setas são praticamente transparentes, indicando que o efeito prático dessas variáveis sobre proximidade, autonomia e punitivismo é virtualmente nenhum. Aparentemente, apenas as diferenças entre sexo se mostram relevantes quanto ao punitivismo. Isto é, conforme já comentamos na análise descritiva, mulheres são aparentemente menos punitivas que os homens. 
+
+Ainda assim, se observamos a significância estatística na \autoref{tab:indicadoresEst}, ou seja, na linha que relaciona punitivismo com a variável v44, o p-valor é de 0,17, indicando não significância, não estamos autorizados a concluir que essas variáveis influenciam as orientações político-criminais dos gestores. Eventualmente, futuros modelos, com maior amostra e um desenho de pesquisa menos limitado que este, poderão oferecer melhores \textit{insights} com respeito às diferenças. Por ora, nossa conclusão caminha no sentido de que a comunidade dos gestores prisionais aparenta ser homogênea\footnote{Não estamos afirmando que ela é homogênea, apenas que não podemos descartar essa conclusão e que ela é plausível} quando se trata de expressar sua opinião sobre esses temas. 
+
+Uma vez que os diretores são em geral menos punitivos que os juízes, como se verá no capítulo seguinte, e possivelmente menos punitivos que a sociedade em geral, resta entender o que os torna menos punitivos. Possivelmente porque eles são menos influenciados por estereótipos. 
+
+Um dos aspectos mais importantes dessa análise é o de que os diretores são menos punitivistas, embora o sejam. Não comparamos sua opinião com a opinião da população em geral, mas há na literatura base suficiente para afirmar que a população tende a adotar o discurso de que ``bandido bom é bandido morto'' \cite{Bueno2014} ou de que ``quem está preso é porque fez algo errado ou porque merece''. Esse discurso não se reflete na opinião dos diretores, ao contrário, não há adesão a esse discurso, vez que eles detêm dois conhecimentos importantes: sabem o que trouxe cada um dos presos àquele lugar e conhecem, ainda que superficialmente, o comportamento de cada um na interação codidiana com os demais presos e agentes penitenciários.
+
+Ao que parece, o convívio dos diretores com a população presa os torna mais empáticos a essa população, especialmente porque eles tendem a etiquetar menos os presos enquanto grupo e assimilar menos os estereótipos relacionados ao preso, e, por outro lado, fazer distinções próprias de burocratas do nível de rua \cite{Lipsky2010}, separando os presos entre aqueles considerados merecedores dos não merecedores. 
+
+As medidas de ajuste do modelo \autoref{tab:ajuste} indicam um bom ajuste. É importante observar que embora haja falhas no modelo, ele constitui um primeiro esforço para se construir uma proposta de avaliação do sistema penitenciário com base em uma análise sistemática e estrutural. As avaliações realizadas até o momento baseiam-se somente na inspeção de uma unidade prisional por uma autoridade de vigilância ou fiscalização. Essas autoridades geralmente trazem um formulário na forma de \textit{checklist} e simplesmente apontam a existência ou não de um determinado serviço ou exigência legal na unidade prisional. 
+
+O modelo que estamos propondo visa avaliar aspectos do sistema prisional em seu conjunto. A análise das manifestações dos diretores é apenas um exemplo de uma metodologia que pode ser ampliada para outros aspectos do sistema prisional. Por exemplo, é possível avaliar o serviço de saúde do sistema prisional a partir a partir de um conjunto de indicadores, ou seja, a assistência à saúde operaria como variável latente e indicadores como: proporção de profissionais de saúde, proporção de pessoas com tuberculose, número de mortes funcionariam como indicadores ou variáveis observáveis do construto saúde.  
+
+Quanto aos resultados relativos às três variáveis latentes e seus impactos sobre indicadores, a \autoref{fig:sem} mostra o desenho conforme havíamos projetado. A \label{fig:fit} revela o modelo após rodar a análise fatorial. As setas entre as variáveis latentes: punitivismo, proximidade e autonomia e os indicadores, declarações à direita, mostram as cargas das variáveis latentes nos indicadores. Pelos resultados observados na \autoref{tab:indicadoresEst}, há uma clara indicação de que os diretores são punitivistas, mas esse punitivismo não é tão elevado. As cargas mais elevadas foram do construto autonomia, mas isso na verdade se explica pela alta variância (não foi possível explicar essa variância). Houve muita oscilação nas respostas. Ao nosso ver, alguns diretores não hesitam em reconhecer que não têm autonomia e que seu poder é diminuído em relação ao PCC e outros atores, enquanto que outros diretores não reconhecem o PCC ou preferem evitar expressar-se sobre esse tema.
+
+Quanto à proximidade, durante as tentativas de contato com os diretores para enviar o questionário  e agendar as entrevistas, em muitas ocasiões a conversa por telefone não se deu porque parte dos diretores  estava realizando a inspeção diária à unidade prisional. É nessa oportunidade que eles têm acesso ao corpo de custódia e ao técnico, como também a alguns presos. Para alguns diretores, visitar as instalações e conversar com a comunidade prisional faz parte de sua rotina diária.  Os resultados apontam nessa direção. Há relativa proximidade entre os diretores e os presos, embora essa seja menor que a proximidade dos demais diretores, ou subdiretores, como o diretor de disciplina, o diretor de reintegração ou o de produção e os próprios agentes penitenciários.
+
+
+\section{Considerações finais sobre capítulo}
+
+Do levantamento feito junto aos diretores, tanto durante as entrevistas quanto em relação às respostas, os resultados são pouco conclusivos com respeito à sua orientação político-criminal. Embora tenhamos observado uma orientação geral punitiva, com diferenças quando desagregamos por sexo ou por idade, parece-nos que os gestores do sistema prisional não possuem uma orientação elaborada sobre os principais aspectos político-criminais do sistema prisional.
+
+Ao nosso ver, esta ausência de elaboração quanto aos propósitos do sistema prisional de alguma forma reflete a política penitenciária no âmbito estadual. O sistema prisional aparentemente serve aos propósitos elaborados em outras instâncias, especialmente na Justiça Criminal e na Segurança.
+
+O papel da administração prisional se reduziu à gestão de riscos e à provisão dos serviços necessários ao mínimo existencial. A gestão de riscos se caracteriza pela implementação de medidas que reduzam as chances de fuga, mortes e rebeliões. Uma administração prisional eficiente é aquela que  garante a não ocorrência desses três eventos. Fugas e rebeliões têm maior relevância porque despertam a atenção do público para a existência das prisões e de seus problemas. Mortes, quando ocorridas em pequena escala, não provocam críticas. Somente quando ocorrem em forma de massacres causados seja por agentes do Estado, como quando ocorreu na Casa de Detenção do Carandiru em 1992 ou mais recentemente em Manaus, quando 66 presos foram mortos em conflito entre gangues é que as mortes são associadas seja à incapacidade do Estado em gerir prisões seja à sua  atuação em promover exclusão e eliminação de minorias por meio do sistema prisional.
+
+Uma outra característica a ser apontada é  o informalismo  e o personalismo que caracterizou a ocupação desses cargos ao longo da história. A reforma administrativa promovida pelo governo Fernando Henrique Cardoso na década de 1990, que culminou na aprovação da Emenda Constitucional número 19, não atingiu os órgãos do sistema de justiça. Não existe um plano de carreira, carreiras diferenciadas e tampouco carreira única no sistema penitenciário. Todos são agentes penitenciários até que um superior hierárquico simpatize e o convide a assumir um cargo de confiança. 
+
+Em contrapartida, o afastamento do diretor pode ocorrer por toda sorte de razões. Durante a pesquisa, identificamos que  um dos cargos mais importantes no sistema penitenciário, o cargo de coordenador regional, foi ocupado por um agente penitenciário frequentemente elogiado por seus serviços\cite{SAP1}. Por causa de suposta fraude em unidade  prisional sob sua coordenadoria, ele foi afastado do cargo e foi transferido para atuar como agente prisional dentro de uma unidade\cite{Fraudeem84:online}. Ascensão dentro do sistema penitenciário ocorre por razões políticas  e basta a perda da confiança para alguém com um cargo chave dentro do sistema ser substituído. Essa ausência de garantias torna precária a atuação do gestor, que teme inclusive expressar sua opinião.
+
+Durante as tentativas de contato para solicitar dos diretores que respondessem ao questionário, muitos deles se mostraram assustados e insistiram que contatássemos a coordenadoria a qual ele estava subordinado. Mesmo enviando a eles toda a documentação com autorização do Secretário da pasta e autorização do Comitê de Ética, alguns deles somente responderam após expressa autorização de seu superior hierárquico. O diretor que no passado era senhor da unidade prisional, atualmente está na maior parte do tempo confinado em seu escritório, despachando demandas externas.
+
+Algo que ficou patente é a impotência do diretor diante da população carcerária. No âmbito interno, o controle da população está dividido entre o diretor de disciplina e as facções internas. Como disse um diretor, ``eu apenas exijo do diretor de segurança ser informado do que está ocorrendo''. O fluxo penitenciário, ou seja, o controle sobre o ingresso,  a saída temporária, a remição de pena por estudo ou trabalho e todos os outros benefícios são controlados pelo Judiciário. Resta ao diretor, no âmbito interno,  tarefas como a supervisão geral dos serviços penitenciários e operar como elo entre o interior e o exterior da prisão. Nesse sentido, seu papel é relevante, vez que ele controla o fluxo de informações que ingressam e que saem da unidade prisional. Toda a comunicação oficial é filtrada e autorizada por ele.
+
+Dois poderes remanescentes que posicionam o diretor como um relevante ``player'' na cena carcerária é o de impor sanções disciplinares aos presos, que eles chamam de ``poder da caneta'', e isso tem impacto sobre tempo da pena, vez que a sua antecipação depende do bom comportamento carcerário\footnote{Como será visto no capítulo seguinte, o Judiciário apenas usa a certidão de comportamento carcerário quando é conveniente} e o pedido de transferência. 
+
+Embora não decida sobre  a transferência dos presos, somente o poder de iniciar o seu processo opera como dispositivo de poder e de barganha. Presos podem não querer ser transferidos por diversas razões, dentre elas o distanciamento dos familiares, a possível existência de inimigos dentro da unidade para onde será removido e, mais importante, as constantes remoções terminam por ampliar o seu tempo na prisão. Um preso que está prestes a solicitar progressão de regime e livramento condicional, se for transferido, terá de reiniciar a contagem do tempo de adaptação até realizar novo pedido. Os diretores sabem que a transferência é um mecanismo indireto de exercício de controle e a utilizam como barganha e, por vezes, como ameaça.

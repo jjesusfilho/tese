@@ -1,0 +1,464 @@
+\documentclass[12pt,openright,oneside,a4paper,brazil,chapter=TITLE]{abntex2}
+\usepackage[alf]{abntex2cite}
+
+\usepackage[brazilian,hyperpageref]{backref}
+\usepackage{graphicx,import}			% Inclusão de gráficos
+\usepackage{microtype} 	
+\usepackage[brazil]{babel}
+\usepackage{lastpage}
+\usepackage[utf8]{inputenc} % Codificacao do documento (conversão automática dos acentos)
+%\fancyhf{}
+%\rfoot{\thepage}
+ 
+\usepackage[T1]{fontenc} % Selecao de codigos de fonte.
+\usepackage{indentfirst} % Identa o primeiro parágrafo de cada secção
+\setlength{\parindent}{2cm}
+\usepackage{enumitem}
+\usepackage{geometry}
+\usepackage{lscape}
+\usepackage{float}
+\usepackage{adjustbox}
+\usepackage{fancyvrb}
+\usepackage{multicol}
+\usepackage{svg}
+\usepackage{adjustbox}
+\usepackage{caption}
+\usepackage[final]{pdfpages}
+\usepackage[paren]{fancyref}
+\usepackage{changepage}
+\usepackage{booktabs}
+\usepackage{textcomp}
+\usepackage{color}
+\usepackage{colortbl}
+\usepackage{geometry}
+\usepackage{tabularx}
+\usepackage{trivfloat}
+\usepackage{caption}
+\usepackage{dcolumn}
+\usepackage{array}
+\usepackage{nomencl} % Lista de simbolos
+\usepackage{longtable}
+\usepackage{tabu}
+\usepackage{customizacao}
+
+%\usepackage{quadros}
+
+\newcolumntype{L}[1]{>{\raggedright\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+\newcolumntype{C}[1]{>{\centering\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+\newcolumntype{R}[1]{>{\raggedleft\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+
+\setlength{\tabcolsep}{1pt}
+\setkeys{Gin}{width=1\textwidth}
+%------------------------------------------------------------
+% newcommand
+%------------------------------------------------------------
+\newcommand{\scscst}{\scriptscriptstyle}
+\newcommand{\scst}{\scriptstyle}
+\newcommand{\Robject}[1]{{\texttt{#1}}}
+\newcommand{\Rfunction}[1]{{\texttt{#1}}}
+\newcommand{\Rclass}[1]{\textit{#1}}
+\newcommand{\Rpackage}[1]{\textit{#1}}
+\newcommand{\Rexpression}[1]{\texttt{#1}}
+\newcommand{\Rmethod}[1]{{\texttt{#1}}}
+\newcommand{\Rfunarg}[1]{{\texttt{#1}}}
+\renewcommand{\rmdefault}{phv} % Arial
+\renewcommand{\sfdefault}{phv} % Arial
+\trivfloat{quadro}
+\floatstyle{plaintop} % Forçar posição da legenda para o topo
+\restylefloat{quadro} % Forçar posição da legenda para o topo
+\renewcommand{\listquadroname}{Lista de Quadros} % Forçar texto na Lista de Quadros
+
+% Informações de dados para CAPA e FOLHA DE ROSTO
+
+\titulo{ADMINISTRAÇÃO PENITENCIÁRIA}
+\autor{JOSÉ DE JESUS FILHO}
+\local{SÃO PAULO}
+\data{2017}
+%\orientador[Orientador]{Francisco Cesar Pinto da Fonseca}
+\tipotrabalho{Tese (Doutorado)}
+% O preambulo deve conter o tipo do trabalho, o objetivo, 
+% o nome da instituição e a área de concentração 
+\preambulo{Tese apresentada à Escola de Administração de
+Empresas de São Paulo da Fundação Getulio
+Vargas, como requisito para obtenção do título
+de Doutor em Administração Pública e
+Governo.
+\hfill Orientador: Francisco Cesar Pinto da Fonseca}
+% ---
+
+
+\makeatletter
+\hypersetup{
+     	%pagebackref=true,
+		pdfauthor={\@author},
+		pdftitle={\@title}, 
+    	pdfsubject={\imprimirpreambulo},
+	    pdfcreator={LaTeX with abnTeX2},
+		pdfkeywords={abnt}{latex}{abntex}{abntex2}{trabalho acadêmico}, 
+		colorlinks=true,       		% false: boxed links; true: colored links
+    	linkcolor=blue,          	% color of internal links
+    	citecolor=blue,        		% color of links to bibliography
+    	filecolor=magenta,      		% color of file links
+		urlcolor=blue,
+		bookmarksdepth=4
+}
+\makeatother
+% --- 
+
+% --- 
+% Espaçamentos entre linhas e parágrafos 
+% --- 
+
+% O tamanho do parágrafo é dado por:
+\setlength{\parindent}{1.3cm}
+
+% Controle do espaçamento entre um parágrafo e outro:
+\setlength{\parskip}{0.2cm}  % tente também \onelineskip
+
+% ---
+% compila o indice
+% ---
+\makeindex
+% ---
+
+% ----
+% Início do documento
+% ----
+\begin{document}
+\SweaveOpts{concordance=TRUE}
+%\SweaveOpts{concordance=TRUE}
+\selectlanguage{brazil}
+
+
+
+% Retira espaço extra obsoleto entre as frases.
+\frenchspacing 
+% Capa
+% ---
+\imprimircapa
+
+% Folha de rosto
+% (o * indica que haverá a ficha bibliográfica)
+% ---
+\imprimirfolhaderosto*
+
+\begin{fichacatalografica}
+	\vspace*{\fill}					% Posição vertical
+	%\hrule							% Linha horizontal
+	\begin{center}					% Minipage Centralizado
+  \fbox{\begin{minipage}[c]{12.5cm}	
+	Jesus Filho, José de
+	
+	\hspace{0.5cm} ADMINISTRACÃO PENITENCIÁRIA \normalfont{o controle da população carcerária a partir da gestão partilhada entre diretores, judiciário e facções} 	/ José de Jesus Filho. --2017.
+  
+  \hspace{0.5cm} \pageref{LastPage} páginas.\\
+  
+  
+	
+	\hspace{0.5cm} Orientador: Francisco Cesar Pinto da Fonseca.
+	
+	\hspace{0.5cm} Tese (CDAPG) - Escola de Administração de Empresas de São Paulo.\\
+
+	
+	
+	\hspace{0.5cm}
+		1. Prisões - Administração - Brasil.
+		2. Prisões - Política governamental.
+		3. Prisões - Aspectos sociais.
+		4. Organização judiciária penal.
+		I. Fonseca Francisco César Pinto da. 
+		II. Tese (CDAPG) - Escola de Administração de Empresas de São Paulo.
+		III. Título\\ 			
+	
+	\hspace{10 cm} CDU 343.11\\
+	
+	\end{minipage}}
+	\end{center}
+	%\hrule
+\end{fichacatalografica}
+
+% Inserir folha de aprovação
+
+%
+\begin{folhadeaprovacao}
+
+  \begin{center}
+    {\ABNTEXchapterfont\large\imprimirautor}
+
+    \vspace*{\fill}\vspace*{\fill}
+    \begin{center}
+      \ABNTEXchapterfont\bfseries\Large\imprimirtitulo
+      
+      \large{\normalfont{o controle da população carcerária a partir da gestão partilhada entre diretores,judiciário e facções}}
+    \end{center}
+    \vspace*{\fill}
+    
+    \hspace{.45\textwidth}
+    \begin{minipage}{.5\textwidth}
+        \imprimirpreambulo
+    \end{minipage}%
+    \vspace*{\fill}
+   \end{center}
+        
+ %  Trabalho aprovado. \imprimirlocal, 22 de fevereiro de 2017:
+
+\begin{flushright}
+\vspace{1cm}
+\text{\line(1,0){250}\\\textbf{Francisco Cesar Pinto da Fonseca} \\ Orientador -FGV/EAESP}\\\\
+\vspace{1cm}
+\text{\line(1,0){250}\\\textbf{Mário Aquino Alves} \\ FGV/EAESP}\\\\
+\vspace{1cm}
+\text{\line(1,0){250}\\\textbf{Rodrigo Ghiringhelli de Azevedo} \\ PUCRS}\\\\
+\vspace{1cm}
+\text{\line(1,0){250}\\\textbf{Fernando Afonso Salla} \\ Universidade Anhanguera}\\\\
+
+\end{flushright}
+      
+  
+\end{folhadeaprovacao}
+% ---
+
+% ---
+% Dedicatória
+% ---
+\begin{dedicatoria}
+   \vspace*{\fill}
+   \centering
+   \noindent
+   \textit{ Este trabalho é dedicado a todos os gestores prisionais, sua dedicação foi a inspiração desse trabalho.} \vspace*{\fill}
+\end{dedicatoria}
+% ---
+% ---
+% Agradecimentos
+% ---
+\begin{agradecimentos}[]
+\setlength{\absparsep}{18pt} % ajusta o espaçamento dos parágrafos do 
+\begin{center}\text\large\textbf{AGRADECIMENTOS}\end{center}\\\\
+
+Os últimos quatro anos foram intensos. Muita coisa mudou na minha vida e muita gente passou por ela. Uma delas viveu comigo cada passo desse processo de aprendizagem e de crescimento pessoal: minha esposa Melissa Witcher de Jesus. Sua presença amoroza e firme foi um suporte essencial para que eu pudesse seguir adiante na pesquisa.
+
+À minha filha Heloísa, que me dá tanta alegria, que tornou o doutorado leve, mesmo quando estava parecia difícil de carregar.
+
+Ao professor Francisco Fonseca, por acreditar em mim e pelo constante apoio ao longo dessa jornada. Mais que tudo, pela amizade que fizemos ao longo desses anos. 
+
+Ao Fernando Salla, pela paciência em me ouvir e chamar atenção quando notou que estava caminhando na direção errada. Ele não conseguiu evitar os tombos.
+
+Ao professor Rodrigo Ghiringhelli de Azevedo, pelas inestimáveis contribuições durante a banca.
+
+À minha querida amiga Luciana Zaffallon, que me incentivou a iniciar o doutorado. 
+
+Ao secretário de administração penitenciária, Lourival Gomes, por ter me apoiado desde o início na pesquisa.
+
+Ao querido amigo Rodrigo Amaral, que pacientemente me ajudou a repensar a versão final da tese.
+
+Ao professor Mário Aquino Alves, pelas orientações e excelentes aulas. 
+
+Ao professor Ciro Biderman, pela leitura da proposta na fase de qualificação e importantes críticas.
+
+À Fá, professora Fabiana Severi, pela leitura da primeira proposta e por ser a pessoa que é: amiga, inteligente e dedicada à construir um mundo menos injusto.
+
+Ao Manoel Ilso e sua esposa Ilana, pelas partilhas de vida e de academia.
+
+Aos colegas maravihosos da FGV: Thomaz Barbosa, Carminha, Laís, Lia, Raquel, Eros. Obrigado pelo companheirismo.
+
+Aos meus pais, irmãs e irmãos, pelo amor incondicional. Aos meus sobrinhos, a cada dia me orgulho mais deles.
+
+Ao Marcelo Campos, pelos debates revisões do texto.
+
+Aos professores Lorena Barbiera e Glauco Peres da  Silva, da Faculdade de Ciência Política da USP, eles me introduziram no árduo caminho da estátistica.
+
+À toda comunidade do R no mundo e especialmente no Brasil. Sem essas pessoas esse trabalho jamais teria sido produzido. Algumas pessoas tiveram participação decisiva na elaboração dos capítulos. O Júlio Trecenti me orientou no caminho de webscrapping e da jurimetria. O Daniel Falbel me deu ótimas sugestões sobre text mining. O capítulo sobre diretores contou com a orientação inestimável do professor Erikson Kaszubowski da Universidade Federal da Fronteira do Sul. O capítulo sobre taxa de encarceramento foi escrito sob orientação do professor Steven Ross da UNIRIO. 
+
+À Bubu, Bruna Angotti, uma amiga e tanto, que fez as primeiras leituras do projeto. 
+
+À querida amiga Gorete, pelo carinho  e companheirismo ao longo da jornada acadêmica.
+
+Ao Padre Valdir, por me aguentar tantos anos na Pastoral Carcerária e me incentivar na carreira acadêmica.
+
+À Heidi Ann Cerneka, querida amiga que já partilhou tanto da vida comigo. 
+
+A todas amigas e amigos da Pastoral Carcerária.
+
+À Tânia Pink, pelas produtivas conversas que mantivemos ao longo da pesquisa. 
+
+Aos amigos do Fórum Brasileiro de Segurança Pública, pelo apoio ao longo da pesquisa.
+
+À Juliana Mancuso e ao Armando Tombelli, queridos amigos que me deram valiosas sugestões para a pesquisa.
+
+Ao Pedro Egydio, por ter cuidadosamente preparado a entrevista.
+
+\end{agradecimentos}
+% ---
+
+
+% RESUMOS
+% ---
+
+% resumo em português
+\setlength{\absparsep}{12pt} % ajusta o espaçamento dos parágrafos do 
+\begin{resumo}[]
+\begin{center}\text\large\textbf{RESUMO}\end{center}\\\\
+
+
+\justifying{A presente tese dedica-se a uma análise crítica das instituições contemporâneas de controle sobre a população carcerária do estado de São Paulo, e, de maneira mais específica, a uma análise do conflito de coordenação que caracteriza o seu modus operandi. Ajustando o foco sobre os diretores das unidades prisionais, a pesquisa busca compreender como ocorre a atuação desses frente à interveniência crescente de outros atores e grupos sociais na gestão prisional, com destaque para o poder Judiciário e as lideranças internas entre presos, além das secretarias estaduais responsáveis pela gestão prisional às quais os diretores são subordinados. A pesquisa procura compreender a emergência desses novos atores no contexto da gestão penitenciária identificando o processo de fragmentação institucional do exercício de poder sobre a população carcerária por meio de sucessivas reformas realizadas ao longo do século XX, e o quanto esse fenômeno estimulou a emergência de novas forças que se colocaram em disputa pela primazia sobre essa população. Para isto é realizada uma caracterização dessas forças, entre as quais se tornaram mais proeminentes: administração penitenciária central, diretor, diretor de segurança, facções, juiz da execução, defensor público e mídia, e analisa as interações mantidas entre esses atores, com tensões e cooperações estabelecidas ao longo do tempo. A partir de uma análise crítica das premissas que orientam o comportamento de cada um desses atores, a tese apresenta as características da profunda crise de coordenação que define a gestão carcerária no estado de São Paulo nas últimas décadas.}
+
+ \textbf{Palavras-chaves}: presídios. gestão prisional. judiciário. taxa de encarceramento. facções prisionais.
+\end{resumo}
+
+% resumo em inglês
+\begin{resumo}[]
+\begin{center}{\text\large\textbf{ABSTRACT}\end{center}\\\\
+ \begin{otherlanguage*}{english}
+\justify{This dissertation provides a critical analysis of contemporary control institutions responsible for the prison population within the state of São Paulo. More specifically, it analyzes the management conflict that characterizes its modus operandi. By focusing on the prison wardens, the research endeavors to understand how the behavior of these actors is influenced by a number of other powers, such as judges, inmates, and the bureaucracy in the state correctional department, to which wardens are subordinate. The research shows that the emergence of these other influences has led to institutional fragmentation in the exercise of power over the prison population. To this end, the research carries out a detailed characterization of these powers and subsequently analyzes  the interactions between these actors including their tensions and cooperations over the years. The prominent actors included in analysis are the prison central administration, the warden deputy, the security warden, prison gangs, judges, public defenders and the media. By conducting a critical analysis of the principles that guide the behavior of these actors, the dissertation is able to identify the characteristics of the  profound crisis that defines prison administration in São Paulo in the last decades.}
+
+   \vspace{\onelineskip}
+ 
+   \noindent 
+   \textbf{Key-words}: prisons. prison management. judiciary. incarceration rate. prison gangs.
+ \end{otherlanguage*}
+
+\end{resumo}
+% ---
+
+% ---
+% inserir lista de ilustrações
+% ---
+\newpage
+% ---
+% inserir o sumario
+% ---
+%\pdfbookmark[0]{\contentsname}{toc}
+
+% 
+% 
+\newpage
+\pdfbookmark[0]{\listquadroname}{loq}
+\listoffigures*
+\cleardoublepage
+% ---
+
+% ---
+% inserir lista de tabelas
+% ---
+\pdfbookmark[0]{\listtablename}{lot}
+\listoftables*
+\cleardoublepage
+
+
+% ---
+
+% ---
+% inserir lista de abreviaturas e siglas
+% ---
+\chapter*{Lista de abreviaturas e siglas}
+
+\begin{description}
+
+\item[CDP]Centro de Detenção Provisória
+\item[CF/88]Constituição Federal de 1988
+\item[CIDH]Comissão Interamericana de Direitos Humanos
+\item[CNJ]Conselho Nacional de Justiça
+\item[Coespe]Coordenadoria dos Estabelecimentos Penais do Estado
+\item[CPI]Comissão Parlamentar de Inquérito
+\item[CPP]Centro de Progressão Penitenciária
+\item[CR]Centro de Ressocialização
+\item[CRP]Centro de Reabilitação Penitenciária
+\item[Depen]Departamento Penitenciário Nacional
+\item[DIPE]Departamento dos Institutos Penais
+\item[DP]Defensoria Pública
+\item[FBSP]Fórum Brasileiro de Segurança Pública
+\item[GIR]Grupo de Intervenção Rápida
+\item[HC]Habeas Corpus
+\item[IBGE]Instituto Brasileiro de Geografia e Estatística
+\item[IPA]Instituto Penal Agrícola
+\item[MJ]Ministério da Justiça
+\item[MP]Ministério Público
+\item[MS]Mandado de Segurança
+\item[OEA]Organização dos Estados Americanos
+\item[ONG]Organização não governamental
+\item[PC]Penitenciária Compacta
+\item[PCC]Primeiro Comando da Capital
+\item[PIB]Produto Interno Bruto
+\item[PSDB]Partido da Social Democracia Brasileira
+\item[PT]Partido dos Trabalhadores
+\item[RDD]Regime Disciplinar Diferenciado
+\item[RESE]Recurso em sentido estrito
+\item[ROTA]Rondas Ostensivas Tobias de Aguiar
+\item[SAP]Secretaria de Administração Penitenciária
+\item[SEADE]Fundação Sistema Estadual de Análise de Dados
+\item[SSP]Secretaria de Segurança Pública
+\item[TJ]Tribunal de Justiça
+\item[TJSP]Tribunal de Justiça de São Paulo
+
+\end{description}
+
+\cleardoublepage
+% ---
+
+\pdfbookmark[0]{\contentsname}{toc}
+\tableofcontents*
+\cleardoublepage
+
+
+
+<<include=FALSE,echo=FALSE>>=
+library(knitr)
+opts_chunk$set(
+concordance=TRUE)
+@
+
+<<results="asis",echo=F,message=F>>=
+library(ztable)
+options(ztable.type="latex")
+options(ztable.zebra=1)
+options(ztable.zebra.color="platinum")
+options(ztable.colnames.bold=TRUE)
+library(xtable)
+library(tibble)
+library(lavaan)
+library(extracat)
+@
+
+\textual
+<<'child-chapter-1-knitr.Rnw', child='chapter-1-knitr.Rnw'>>=
+@
+
+
+<<'child-chapter-evolucao-knitr.Rnw', child='chapter-evolucao-knitr.Rnw'>>=
+@
+
+
+<<'child-chapter-expansao-knitr.Rnw', child='chapter-expansao-knitr.Rnw'>>=
+@
+
+
+<<'child-chapter-diretor-knitr.Rnw',child='chapter-diretor-knitr.Rnw'>>=
+@
+
+
+
+<<'child-chapter-juiz-knitr.Rnw', child='chapter-juiz-knitr.Rnw'>>=
+@
+
+
+
+<<'child-chapter-conclusao-knitr.Rnw', child='chapter-conclusao-knitr.Rnw'>>=
+@
+
+
+\include{abntex2-modelo-include-comandos}
+
+\nocite{quanteda,knitr,stargazer,tidyverse, ggplot2,tools,lme4,pdftools,xtable,ztable, caret,tm,plm,bibtex,lmtest,rio,FactoMineR,factoextra,tmap,viridis,raster,RColorBrewer,cowplot,DT,stringr,stringi,plyr,dplyr,readr,reshape,reshape2,tidyr,lavaan,semPlot,tibble,RCurl,rvest,httr,xml2,XML,curl,sjPlot,extracat,lime}
+
+\bibliography{biblio.bib}
+
+\chapter*{Apêndices}
+\addcontentsline{toc}{chapter}{Apêndices}
+
+
+\includepdf[pages=1-,addtotoc={1,section,1,questionário,questionario}]{questionario.pdf}
+
+\includepdf[pages=1-,addtotoc={1,section,1,roteiro de perguntas,roteiro}]{roteiro.pdf}
+
+
+\end{document}

@@ -1,0 +1,634 @@
+%!TeX root = tese-knitr.Rnw
+% !Rnw weave = knitr
+% !TeX program = pdfLaTeX
+
+
+\chapter{O Judiciário como gestor do sistema prisional}
+
+\section{Considerações iniciais}
+
+Em 2014, a associação de juízes do Rio Grande do Sul ingressou com uma petição junto à Comissão Interamericana de Direitos Humanos (CIDH) da Organização dos Estados Americanos (OEA) contra o Poder Executivo daquele estado por violações de direitos humanos. Dois anos antes, dois deputados federais integrantes da Comissão Parlamentar de Inquérito (CPI) sobre o sistema prisional haviam tomado a mesma ação contra o Poder Executivo Federal por violações dos direitos presos. 
+
+Essas duas ações são reveladoras de uma postura prevalecente entre vários setores sociais, e.g., agentes públicos e comunidade acadêmica, de que as mazelas do sistema prisional são consequência de uma política penitenciária gestada no âmbito do Executivo. No entanto, ao analisar a dinâmica penitenciária, os processos decisórios que conformam seu estado em um determinado momento, o Judiciário emerge como um importante ator no cenário prisional. Se incluirmos o controle sobre a população carcerária exercido pelas lideranças internas entre presos, também denominado autogoverno \cite{Baker1964}, encontramos uma situação complexa em que diferentes atores, legais e extralegais, interagem de forma independente no sistema prisional, sem implicações sobre \textit{accountability} desses diversos atores.
+
+Decisões judiciais impactam o sistema prisional em vários aspectos. Dessas decisões depende a quantidade de recursos que a administração prisional deve empregar para, e.g, custodiar, prover alimentação, segurança, saúde e transporte de presos. A aplicação de sanções disciplinares é efetivada somente após homologação judicial. A remição por trabalho ou estudo somente é validada após reconhecimento do juiz da execução. Esses são exemplos de como a dinâmica interna de uma prisão é decisivamente determinada por decisões judiciais. Juízes não convivem diretamente com presos, mas decidem, a distância, sobre parcela significativa do que ocorre no interior das prisões.
+
+A atuação judicial não se limita a interferir na dinâmica interna das prisões. Juízes também são chamados a manifestar sobre a própria estrutura burocrática do sistema prisional, e.g., por meio das interdições, da proibição de ingresso de novos presos numa unidade prisional, da decisão sobre quanto a administração deve fornecer de alimentos, equipes de saúde, sobre gastos com reformas da unidade e sobre direito de greve dos agentes penitenciários.
+
+A questão de saber como juízes, que não estão em posse da espada nem da bolsa \footnote{Neither sword nor purse. O Judiciário não tem poder sobre o orçamento (purse), que é incumbência do Legislativo e tampouco o poder de executar (sword), competência do Executivo}, e tampouco possuem familiaridade com a gestão das organizações públicas, concebem e supervisionam administrações complexas, tem sido debatida por vários autores \cite{Feeley1992}. Ou seja, a atuação do Judiciário tem impacto decisivo sobre a gestão prisional, mas este atua independentemente de qualquer subordinação hierárquica. 
+
+A questão mais problemática tem sido saber se são apropriadas intervenções judiciais que ocorrem frequentemente de forma \textit{ad hoc}, isto é, caso a caso, numa política penitenciária supostamente planejada no âmbito do Executivo e do Legislativo. Essa falta de coordenação entre os atos do Judiciário e do Executivo tem tido impacto significativo na criação de discrepâncias no sistema penitenciário, dentre elas, a superlotação tem sido a mais nociva.
+
+A segunda está relacionada à falta de previsibilidade sobre o número de presos que ingressam e deixam a prisão a cada dia. Isso, segundo os diretores entrevistados, afeta no desequilíbrio entre recursos humanos e materiais colocados à disposição da unidade e o número de internos. 
+
+Um outro aspecto revelado durante as entrevistas foi a manifestação dos diretores de que a maior parte do seu tempo é tomada para responder a demandas externas, especialmente da Defensoria Pública. Enquanto os diretores enxergam juízes e promotores como parceiros, a Defensoria Pública é vista como aquela que, em vez de atuar nos processos individuais, ocupava-se de inspecionar as unidades prisionais para detectar  irregularidades ou está constantemente demandando por providências, por prestação de informações ou por justificativas dos diretores sobre queixas levadas a ela por presos e familiares.
+
+O presente capítulo complementa o capítulo anterior ao  observar a atuação do sistema de Justiça, Juízes, promotores e defensores e as consequências sobre o sistema prisional. Para tanto, o capítulo está dividido em duas partes. A primeira delas analisa as reformas prisionais a partir da litigância estratégica, ou seja, a litigância que visa atingir a coletividade dos presos, seja no âmbito das unidades prisionais individualmente consideradas, seja no âmbito do conjunto da administração prisional.
+
+Para identificar a atuação desses atores na litigância estratégica, fez-se um levantamento das ações civis públicas iniciadas pela Defensoria Pública e pelo Ministério Público a fim corrigir ilegalidades na administração prisional. Existem ações judiciais contra o estado de São Paulo iniciadas por entidades da sociedade civil, tal como aquela que atualmente corre na Corte Interamericana para apurar a responsabilidade do estado sobre o Massacre do Carandiru. No entanto, essa ação é esporádica isolada no contexto das reformas do sistema prisional. As ações do Ministério Público e da Defensoria Pública são em maior número e fornecem um quadro mais amplo das principais questões do sistema prisional.
+
+Na segunda parte deste capítulo, o estudo se debruça sobre as ações individuais que impactam no quantitativo populacional do sistema prisional. A pergunta que norteará esta parte será quais os fatores que importam nas decisões judiciais sobre o encarceramento. Serão estudados tanto o encarceramento resultante das decisões sobre ingresso do sistema prisional quanto das decisões sobre saída do sistema prisional.
+
+A análise das demandas individuais igualmente permite oferecer um diagnóstico do sistema penitenciário sob uma diferente perspectiva, a das demandas individuais. As estatísticas do sistema prisional oferecem dados sobre a localização da unidade prisional, a população e o perfil das unidades. Esses números, todavia, apresentam um caráter estático e são divulgados segundo a conveniência da administração penitenciária, ou seja, são informações colocadas à disposição. Ao obter informações sobre a litigância individual, um perfil diferente da população prisional e da dinâmica prisional é revelado. Por meio dessas estatísticas, é possível identificar uma série de características da dinâmica prisional. A primeira delas visa permitir um diagnóstico do sistema prisional a partir do conflito. Questões como, de onde surgem o maior número de demandas, qual o perfil das queixas provenientes de presos de uma determinada prisão, como se posicionam ideologicamente os juízes, são passíveis de respostas.
+
+\section{Referencial teórico}
+
+\citeonline{Jacobs1983} estudou a Penitenciária de Statefille, em Chicago, estado de Illinois, e descreveu as prisões como organizações complexas que operam em ambientes institucionais turbulentos. Jacobs foi um dos primeiros a estudar  os efeitos de influências externas (e.g tribunais de justiça, interesses de grupos sobre prisões e sindicatos de agentes prisionais) sobre a operacionalização das prisões.
+
+Para ele, as prisões não podem ser separadas da sociedade a qual elas servem. Elas integram  a ordem política, social, econômica e moral. Jacobs deu uma importante contribuição ao postular que as prisões contemporâneas não são sistemas fechados e estáticos existentes no vácuo, mas são influenciadas por tendências sociais.
+
+Seu trabalho foi um dos primeiros a analisar a influência das decisões judiciais sobre o sistema penitenciário, o que permitiu abrir os horizontes sobre as transformações institucionais do sistema prisional. Antes dele, a análise do sistema penitenciário se confinava ao estudo da administração burocrática e das relações entre presos e gestores. Jacobs estudou a interação entre diretores de presídios e as decisões das cortes e como aqueles criavam mecanismos de resistência às decisões judiciais.
+
+O presente trabalho segue na mesma esteira, na medida em que extrapola a análise da gestão penitenciária para além da burocracia prisional para integrar a ação de atores externos, sendo o principal deles o Judiciário.
+
+\subsection{Ordem Pública Vs. Garantismo}
+
+A partir da análise jurisprudencial, foi possível identificar dois grupos de juízes. Um grupo enfatiza em suas decisões a manutenção da ordem pública e outro, a garantia de direitos. 
+
+A questão de saber se há influências externas nas decisões judiciais e, para além disso,  se essas influências são determinantes, tem sido objeto de constante escrutínio acadêmico. \citeonline{kramer1993}) estudaram o efeito da cor/raça dos réus nas sentenças criminais e concluíram que há significante viés racial em desfavor de negros nas decisões judiciais sobre encarceramento, mas que não observaram diferenças no tamanho da pena.
+
+Um pressuposto comum da retórica jurídica é o de que as decisões judiciais são baseadas na lei e nos fatos, resumido no brocardo: "da mihi factum, dabo tibi ius" (Dá-me os fatos, que te darei o direito). Esse entendimento é conhecido como formalismo jurídico, o qual propõe que juízes aplicam a lógica da lei aos fatos de maneira mecânica, racional e deliberativa. O legalismo ou formalismo jurídico apregoa que ideologia e carreirismo não exercem qualquer papel nas decisões judiciais, vez que juízes apenas aplicam leis aos fatos que lhe são apresentados \cite{cox2003}. \footnote{O extremo oposto defende que juízes não são mais que políticos de toga}. Uma versão mais complexa desse legalismo e que tomou corpo ao longo das últimas décadas, ficou conhecida conhecida como "originalismo" ou "textualismo", porque faz referência ao resgate da intenção do constituinte originário objetivado no texto constitucional. Juízes, especialmente ministros da Suprema Corte, aplicam aos casos concretos um sistema metodológico adotado em bases politicamente neutras a fim de gerar decisões objetivas.
+
+O realismo jurídico contende  no sentido de que as razões jurídicas não explicam suficientemente as decisões judiciais, mas que motivações psicológicas, políticas, ideológicas, sociais e mesmo pessoais, influenciam as decisões \cite{Danziger2011}.  \citeonline{Posner2010} oferece o exemplo da substituição de um ministro da Suprema Corte americana (O'Connor), que era moderadamente conservador por um nitidamente conservador (Alito) em 2007 e como isso alterou significativamente a interpretação constitucional daquela corte. Para ele, esse fato levantou a questão de que os adágios legalistas: "um governo de leis e não de homens" ou o "Estado de Direito" (The rule of law) não passariam de retórica legalista e que mais apropriado seria afirmar que a nação é governada por juízes e não pelo direito ou que, se ao mudarem-se os juízes, mudam-se as leis, não está claro nem mesmo o que a lei é.
+
+O opção por estudar a jurisprudência do Tribunal de Justiça, e não as decisões de primeira instância, se deu por várias razões. Uma delas tem a ver com a perspectiva institucionalista de que as decisões judiciais são influenciadas por incentivos e desincentivos. Nesse sentido, é possível afirmar que as decisões judiciais de segunda instância estão menos motivadas por carreirismo, uma vez que desembargadores têm menor expectativa de ascensão hierárquica, vez que o mais que podem aspirar, dentro da instituição, é assumir cargo eletivo de presidente ou de  corregedor geral de justiça. Ademais, desembargadores estão menos expostos ao escrutínio público e à crítica social. As decisões são colegiadas o que acaba por ter um efeito neutralizador das críticas sobre eventuais erros individuais.
+
+O segundo fator está relacionado ao fato de que as decisões judiciais de primeiro grau no âmbito da execução penal não estarem acessíveis via sítio do Tribunal de Justiça. Seu acesso é somente possível mediante consulta direta aos autos do processo de execução ou por meio de busca no Diário da Justiça. O problema desse último é que não há um bom sistema de busca e somente os despachos e decisões judiciais nos processos patrocinados por advogados particulares são publicados. As manifestações judiciais em processos em que atua a Defensoria Pública são comunicadas diretamente ao defensor mediante ciência. Além disso, o sistema não permite distinguir uma decisão terminativa ou interlocutória de um mero despacho judicial.
+
+Por fim, as decisões judiciais de segunda instância tendem a definir o entendimento da Justiça estadual como um todo, daí a formulação de emenda e a produção de repertório jurisprudencial, cujo papel é justamente contribuir para a unificação da interpretação judicial sobre um determinado tema. Mesmo havendo divergências entre as câmaras, os tribunais tendem a consolidar o entendimento da lei.
+
+
+\section{Metodologia}
+
+A primeira parte deste capítulo referente às ações coletivas é predominantemente qualitativa. Como o número de ações para corrigir irregularidades é pequeno e cada uma versa sobre matéria bem distinta da outra, optou-se por ler e interpretar todas as decisões.
+
+Foram utilizadas técnicas quantitativas de webscrapping (raspagem de dados), mineração de textos, aprendizado de máquina e regressão logística binária para analisar as decisões do Tribunal de Justiça de São Paulo.
+
+Por meio de um script construído no software R, foram feitas as requisições http na página de jurisprudência do Tribunal de Justiça. Os dados obtidos, e.g. número do processo, ementa, relator, comarca de origem e assunto, foram organizados em uma planilha por meio de técnicas de manipulação de dados (xpath, regex, glob etc). Feito isso, passou-se à segunda etapa, que foi baixar o inteiro teor dos acórdãos em pdf. Como o site do Tribunal de Justiça de São Paulo impõe captcha para acessar o inteiro teor dos acórdãos, tivemos de utilizar um algorítimo para resolver esses captchas \footnote{O script foi adaptado de outro script criado pelo estatístico Júlio Trecenti}. Uma vez baixados os acórdãos, os textos foram convertidos em formato txt e incorporados num corpus e apensados na planilha anteriormente criada. 
+
+A partir disso, foram utilizadas técnicas de mineração de texto para extrair do inteiro teor dos acórdãos as informações úteis para o estudo. Algumas informações já haviam sido obtidas na primeira etapa: classe da ação (apelação em sentença condenatória, agravo em execução em livramento condicional e progressão de regime.)
+
+Foram utilizadas técnicas de análise supervisionada, ou seja, os modelos preditivos buscaram identificar quais os fatores que influenciam a decisão judicial com base em variáveis independentes previamente estabelecidas. Os modelos também buscaram identificar quais desses fatores são mais importantes na decisão judicial.
+
+Foram testados vários modelos de aprendizado de máquina para classificar as decisões judiciais entre concedidas, no caso de habeas corpus ou mandado de segurança, ou providas, recurso de agravo,  e denegadas ou improvidas respectivamente. Ao final, optamos por apresentar os resultados de três técnicas com desempenhos diferentes, mas com variações nas informações fornecidas por suas respostas.
+
+As técnicas de classificação consistem em predizer uma resposta qualitativa, no nosso caso, recurso concedido ou denegado, com base ou preditores, tais como gravidade do crime, reincidência e perfil do julgador. Esses métodos geralmente predizem inicialmente a probabilidade de cada uma das categorias ou classes, no nosso caso, concedido ou denegado \cite{james2013}. 
+
+A primeira delas foi regressão logística binária, um método apropriado para predizer o resultado de dados binários com base em variáveis quantitativas e categóricas. Os outros dois classificados utilizados foram floresta aleatória e boosting. Esses dois classificadores são aperfeiçoamentos de um outro classificador, chamado árvores de decisão. Árvores de decisão são processos de classificação das observações, no nosso caso os acórdãos, ordenando-as num esquema similar a uma árvore invertida, ou seja, começando do tronco, mas de cima para baixo. Cada nó da árvore representa um atributo, por exemplo, vara judicial ou a gravidade do crime. Floresta aleatória utiliza processo similar, mas a partir de dezenas ou centenas de árvores, tirando-se a média delas. Boosting constrói as árvores em passos, aprendendo e utilizando-se dos erros anteriores.
+
+
+\section{Litígio coletivo}
+
+Para analisar o litígio coletivo, optamos por realizar uma busca das decisões de primeira instância sobre ações civis públicas demandadas pelo Ministério Público e pela Defensoria Pública contra a Secretaria de Administração Penitenciária por irregularidades ou violações de direitos. 
+
+Optamos por reduzir os resultados somente àqueles casos em que claramente havia uma ação civil pública contra a administração penitenciária, seja no âmbito da SAP, seja no âmbito das unidades prisionais. Além disso, optatamos somente por selecionar processos findos.
+
+O que nos surpreendeu foi verificar o contraste entre as ações iniciadas pela Defensoria Pública em relação ao Ministério Público. O Ministério Público esteve voltado à defesa do interesse da sociedade em um relevante número de casos. Mesmo quando defendeu os interesses dos presos em casos como superlotação, o Ministério Público, em alguns casos, pediu a construção de novos presídios, enquanto que a Defensoria Pública buscou sempre impedir o ingresso de novos presos:
+
+\begin{citacao}
+
+trata-se de ação civil pública promovida pela defensoria pública do estado de são paulo, regional de osasco, em face do estado de são paulo, com pedido de antecipação de tutela, na qual requereu seja decretada a impossibilidade de encaminhamento de outro preso provisório para os centros de detenção provisória de osasco, bem como a redução gradativa e em prazo razoável do número de detentos, para o patamar de mil (1.000) presos, apesar de ultrapassar a capacidade de ocupação (setecentos e sessenta e oito presos para cada unidade prisional). a autora alegou que há uma superpopulação carcerária em ambos os centros, o que atentaria contra a dignidade da pessoa humana, o direito à saúde, à segurança, à integridade física e à própria vida dos encarcerados, que, sob a sua ótica, seriam os destinatários da efetiva proteção dos direitos humanos (fl. 20). ademais, a autora defendeu a aplicabilidade da convenção americana de direitos humanos e a necessidade de observância da lei de execução penal (art. 92, parágrafo único, “b”), sustentando, ainda, que o princípio da reserva do possível não poderia invalidar a proteção dos direitos individuais, no seu “mínimo existencial”. por fim, a autora defendeu a responsabilidade civil do estado pelos atos ilícitos por ela relatados, destacando a importância do poder judiciário como garantidor dos direitos fundamentais e pugnando, por fim, pela distribuição dinâmica do ônus da prova..(Ação Civil Pública - TJSP-2ª Vara da Fazenda Pública - comarca de Osasco - Juiz Olavo Sá Pereira da Silva-Requerente: Defensoria Pública - Processo: 3031082-93.2013.8.26.0405 - Julgamento: 15/07/2015. Improcedente)
+
+\end{citacao}
+
+\begin{citacao}
+trata-se de ação civil pública ajuizada pelo ministério público de são paulo contra o estado de são paulo, visando a condenação em obrigação de fazer no que diz respeito a necessidade de ampliação de vagas no sistema prisional do estado para cumprimento de pena privativa de liberdade no regime semi-aberto, objetivando, como fim precípuo, a cessação de danos causados pela suposta omissão estatal. (Ação Civil Pública - TJSP-12ª Vara da Fazenda Pública - comarca da Capital - Juiza Paula Micheletto Cometti-Requerente: Ministério Público - Processo: 0040002-33.2012.8.26.0053 - Julgamento: 25/03/2013. Improcedente)
+\end{citacao}
+
+A \autoref{tab:civil}  e a \autoref{fig:mpdf} mostram  os números e o percurso das ações civis públicas. A Defensoria Pública teve um alto número de pedidos indeferidos, enquanto que o MP teve pouquíssimos teve mais pedidos indeferidos. O Ministério Público teve uma acentuada ação contra a administração penitenciária, especialmente contra irregularidades relativas ao meio ambiente e à situação jurídica de agentes penitenciários.
+
+\begin{table}[htbp]
+\caption{Ações Civis Públicas iniciadas pelo Ministério Público e pela Defensoria contra a administração penitenciária}
+  \label{tab:civil}
+  \centering
+  \begin{tabular}{*{2}{l}*{3}{r}}
+    \toprule
+    requerente & interessado \textbar\ decisao & \multicolumn{1}{c}{extinto} & \multicolumn{1}{c}{improcedente} & \multicolumn{1}{c}{procedente} \\
+    \midrule
+    DP & presos & 0 & 15 & 3 \\
+    & sociedade & 0 & 0 & 0 \\ \addlinespace[3pt]
+    MP & presos & 0 & 7 & 4 \\
+    & sociedade & 1 & 2 & 6 \\
+    \bottomrule
+  \end{tabular}
+\end{table}
+
+
+\begin{figure}[htbp]
+\caption{Ações Civis Públicas iniciadas pelo Ministério Público e pela Defensoria contra a administração penitenciária}
+\label{fig:mpdf}
+
+<<echo=F,message=F>>=
+base<-readRDS("~/R/TESE/custodia/mp_dp.rds")
+extracat::scpcp(base[c(5,3,4)],sel="requerente=='Defensoria Pública'",sel.palette = "d")
+@
+\end{figure}
+
+Uma importante observação com relação a essas ações é notar que as transformações penitenciárias não ocorrem somente por meio das ações do Executivo e do Legislativo, ou seja, no âmbito da formulação e implementação de políticas públicas. Ações judiciais constituem um importante fator nas transformações penitenciárias e merecem uma abordagem mais aprofundada.
+
+\cleardoublepage
+\section{Litígio individual}
+
+O encarceramento pode ser medido em função da relação entre o número de presos que ingressam e deixam a prisão num determinado período. O ingresso ocorre majoritariamente pela prisão em flagrante. Alternativamente se dá pela prisão preventiva, temporária ou em decorrência de sentença ou pronúncia do tribunal do júri. Em todas as situações, a inclusão e a permanência na prisão são mediadas por uma decisão judicial.
+
+Após a condenação, a liberdade pode vir por meio do cumprimento definitivo da pena ou da antecipação da liberdade, e.g. livramento condicional, progressão de regime, indulto ou comutação da pena. O sistema progressivo é composto por um conjunto de medidas que visam a integração social do preso de forma gradual. Entre a condenação e o cumprimento definitivo  da pena há uma série de intercorrências que podem retardar ou acelerar o retorno às ruas. 
+
+\subsection{Sistema de Justiça e ingresso no sistema penitenciário}
+
+Para esta análise, foram coletados 3377 acórdãos do Tribunal de Justiça de São Paulo sobre audiência de custódia. Foram mantidos somente os acórdãos que versavam sobre ordens de habeas corpus ou mandado de segurança impetrados respectivamente pela defesa ou pelo Ministério Público. A defesa buscava revogar prisão preventiva decretada pelo juiz de primeira instância durante a audiência de custódia ou anular a decisão de conversão do flagrante em preventiva sem prévia audiência de custódia.
+
+O Ministério Público, por sua vez, impetrou mandado de segurança para dar efeito suspensivo ao recurso em sentido estrito (RESE), no sentido de revogar decisão de primeira instância que relaxou a prisão em flagrante. Em palavras mais simples, a defesa buscou o Tribunal para revogar a decisão do juiz de manter a pessoa presa, o Ministério Público, para prender a pessoa liberada pelo juiz após prisão em flagrante.
+
+Foram utilizados os casos sobre decisão de denegação ou de concessão da ordem, de modo que foram excluídos os casos julgados prejudicados ou não conhecidos. Ao final, os modelos foram rodados em 2703 processos.
+
+O \autoref{quadro:fatores_custodia} mostra o conjunto de características ou padrões que foram utilizados para classificar as decisões contidas nos acórdãos. Em tese, a decisão sobre prisão preventiva deve se basear nos requisitos estabelecidos no artigo 312 do Código de Processo Penal diante de duas situações: \textit{fumus commissi delicti} ou ``quando houver prova da existência do crime e indícios de autoria'' do \textit{periculum libertatis}, ou seja, para ``garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal''.
+
+De todos os requisitos utilizados para manter a prisão cautelar, a garantia da ordem pública tem sido objeto de severas críticas. Para Odone Sanguiné, a garantia da ordem pública não encontra fundamento constitucional por afrontar o princípio da legalidade e não possuir um caráter instrumental ínsito a qualquer medida cautelar \cite{Sanguine2014}. Para \citeonline{Filho1994}), a garantia da ordem pública opera como antecipação da punição. Já  \citeonline{Moraes2010} entende que a prisão como fundamento da garantia da ordem econômica deve sofrer limitações externas, norteadas pela presunção de inocência e pela proporcionalidade. 
+
+Concretamente, se observarmos o conteúdo das decisões judiciais de segunda instância frequentemente associam a garantia da ordem pública à gravidade do crime: 
+\begin{citacao}
+Materialidade delitiva. Prisão em flagrante, testemunha presencial e confissão extrajudicial. Presença dos requisitos autorizadores da custódia cautelar (art. 312, do CPP). Prisão processual necessária para a garantia da ordem pública. Gravidade concreta da conduta revelada pela audácia do paciente que, em via movimentada da cidade, em concurso com agente não identificado e simulando passe de arma de fogo, subtrai a bolsa da vítima, e tenta subtrair seu carro. Constrangimento ilegal não configurado. Ordem denegada.(Relator(a): Otávio de Almeida Toledo; Comarca: São Paulo; Órgão julgador: 16ª Câmara de Direito Criminal; Data do julgamento: 10/03/2015; Data de registro: 10/03/2015) 
+\end{citacao}
+
+Ou à reincidência:
+
+\begin{citacao}
+Código de Processo Penal. Inadmissibilidade. Indícios de autoria e prova da existência do crime. Paciente que voltou a delinquir logo após receber o benefício da liberdade provisória em outro processo, fato que, por si só, revela sua incapacidade de se ajustar ao ordenamento jurídico vigente e dá a exata medida do grau de periculosidade de que é possuidor. Ausência de constrangimento ilegal. Insuficiência das medidas cautelares diversas da prisão, sendo o encarceramento absolutamente necessário para resguardar a ordem pública, acautelar o meio social e prevenir a reprodução de fatos criminosos, encontrando-se presente o 'periculum libertatis'. Ordem denegada. (Relator(a): Sérgio Coelho; Comarca: São Paulo; Órgão julgador: 9ª Câmara de Direito Criminal; Data do julgamento: 10/09/2015; Data de registro: 17/09/2015).
+
+\end{citacao}
+
+Os acórdãos foram classificados segundo a gravidade do crime. Cogitamos duas classificações possíveis. Uma baseada na gravidade abstrata conforme a proporcionalidade entre crime e pena conforme cominação do legislador. Outra conforme a hediondez como estipula a Constituição Federal. Esta última é um tanto arbitrária e coloca numa mesma categoria, de crimes gravíssimos, o tráfico de drogas e o latrocínio. A primeira parece mais razoável, pois se observarmos a legislação penal, esta comina o tráfico de drogas e os crimes patrimoniais violentos sem resultado morte com pena máxima de 15 anos. Entre eles estariam os crimes menos graves, com pena máxima de oito anos, tais como o furto e as fraudes e no outro extremo os crimes com pena máxima igual a 30 anos, como o homicídio, o latrocínio, o sequestro e o estupro. Preferimos adotar esta classificação, embora ela não esteja imune a erros, vez que muitas decisões denegam liberdade provisória ao autor de tráfico considerando somente o fato de este crime  estar classificado entre os hediondos pela Constituição Federal.
+
+Igualmente, as decisões foram classificadas segundo a apreciação sobre a primariedade versus reincidência e  antecedentes. Parte-se do pressuposto de que primários, com bons antecedentes, perpetradores de crimes não violentos teriam maior probabilidade de serem liberados pelas câmaras criminais no TJSP.
+
+Para contrastar com esses elementos de natureza fática e circunstanciais do crime e dos autores, foram incluídas dois outros atributos, ou variáveis, relacionados aos operadores do direito. De um lado, os impetrantes foram classificados em defesa e acusação (Ministério Público). De outro, os acórdãos foram classificados segundo as câmaras criminais. A hipótese levantada aqui é saber se o crime e os pressupostos processuais são os aspectos mais relevantes nas apreciações do Tribunal ou se as decisões dependem do posicionamento social e ideológico dos membros do Tribunal de Justiça. 
+
+\begin{quadro}[h!tp]
+
+\caption{Fatores considerados para classificar os acórdãos} \label{quadro:fatores_custodia}
+
+<<results="asis",echo=F,message=F>>=
+elementos<-data.frame(Decisão=c("concedido","denegado",rep("",14)),
+                  Circunstâncias=c("primariedade","antecedentes","reincidência",rep("",13)),
+                  Gravidade=c("Baixa (max = 8anos):
+	Furto, fraudes, violência doméstica","Média (max = 15 anos): Roubo, tráfico, extorsão","Alta (max= 30 anos): Homicídio, Latrocídio, estupro, sequestro",rep("",13)),
+                  Impetrante=c("Defensoria","Ministério Público","Defesa Particular",rep("",13)),
+                  Câmara=sprintf("%dª",1:16),
+	                Requisitos=c("Garantia da Ordem Pública","Conveniência da instrução criminal","Aplicação da Lei Penal",rep("",13)),stringsAsFactors = F)
+
+z.elementos<-ztable(elementos,tabular=T,
+                    include.rownames=F,
+                    align="C{2cm}|C{2.5cm}|C{4cm}|C{2.7cm}|C{1.8cm}|C{2.5cm}")
+print(z.elementos)
+
+@
+
+\end{quadro}
+
+
+A seguir apresentamos algumas estatísticas descritivas.  A \autoref{fig:var1} mostra a relação entre as principais variáveis, a \autoref{fig:var2} mostra a mesma relação considerando-se some os habeas corpus da defesa. Algumas constatações são visíveis. A maioria das ordens foi denegada. A defesa impetrou o maior número de ordens (habeas corpus) e obteve proporcionalmente o maior número de denegações. Os crimes de média gravidade, roubo e tráfico, integram a maioria do casos. A maioria não era primária e aparentemente a frequência de concessões e de denegações coincide entre primários e não primários. O argumento da ordem pública é massivamente utilizado, a despeito de não se poder dizer que, ao menos pela visualização, que ele foi decisivo.
+
+\hfill\begin{minipage}{1\textwidth}\centering
+
+\captionof{figure}[Variáveis audiência de custódia]{Associação entre a decisão do TJSP e demais variáveis sobre audiência de custódia - Defesa e Ministério Público}
+\label{fig:var1}
+
+<<echo=FALSE, fig.width=10>>=
+library(extracat)
+variaveis<-readRDS("~/R/TESE/custodia/custodia_variaveis.rds")
+scpcp(variaveis[c("decisao","camara","impetrante","primariedade","ordemPublica","instrucaoCriminal","aplicacaoLei")],sel="decisao=='concedido'",base.colour = alpha("black",0.9),sel.palette = "d")
+@
+\end{minipage}
+
+
+\begin{minipage}{1\textwidth}\centering
+\captionof{figure}[Variáveis audiência de custódia - Defesa]{Associação entre a decisão do TJSP e demais variáveis sobre audiência de custódia - Somente Defesa}
+\label{fig:var2}
+
+<<echo=FALSE,fig.width=10>>=
+library(extracat)
+defesa<-variaveis[variaveis$impetrante!="MP",]
+defesa$impetrante<-NULL
+scpcp(defesa[c(4,2,3,5,6,7)],sel="decisao=='concedido'",base.colour = alpha("black",0.9),sel.palette = "d")
+@
+\end{minipage}
+
+A visualização dos dois gráficos acima permite vislumbrar que os aspectos relativos à gravidade do crime, suas circunstâncias e o histórico do acusado são menos importantes que a posição dos atores processuais. Os pedidos do Ministério Público foram concedidos em maior número que os da defesa. A terceira, quarta e oitava câmaras criminais foram mais produtivas e consistentemente negaram os pedidos da defesa. 
+
+A \autoref{fig:decisao} mostra a classificação as decisões segundo os operadores do direito. A maioria dos \textit{writs} (habeas corpus ou mandado de segurança) são provenientes da defesa. Dois aspectos se sobressaem da leitura do gráfico. O primeiro deles diz respeito  à distribuição das decisões favoráveis ao Ministério Público e à Defesa. Algumas câmaras criminais julgaram desproporcionalmente a favor do Ministério Público. Outras mantiveram maior equilíbrio entre as partes. Igualmente notório é o desequilíbrio entre a produtividade das câmaras ( a tabela mostra os números de cada uma das câmaras criminais). As câmaras que decidem majoritariamente em desfavor da defesa são mais produtivas numericamente. Esse aspecto levanta a suspeita de que alguns desembargadores produzem decisões em série, ou seja, a maior produtividade se explica pela ausência de análise cuidadosa do caso. Essa hipótese será analisada em seguida.
+
+  \begin{figure}
+   \centering
+  \caption{Decisões do Tribunal de Justiça de São Paulo sobre audiência de custódia conforme a câmara criminal e o impetrante.}
+   
+    
+<<echo=FALSE,message=F>>=
+library(plyr)
+library(dplyr)
+library(ggplot2)
+library(cowplot)
+
+df_imp<-variaveis %>%
+  dplyr::count(impetrante,camara, decisao)
+  
+df_imp$impetrante<-ifelse(df_imp$impetrante=="Defesa","Defesa","Ministério Público")
+p1<-ggplot(df_imp,aes(x=camara,y=n,fill=decisao))+
+  geom_bar(stat="identity",position="dodge",colour="black")+
+  scale_fill_manual(values=c("darkgreen","red"),name="Decisão:")+
+  #geom_text(aes(x=agravante,y=freq,label=freq),position=position_dodge(.9),vjust=-.5)+
+  facet_grid(~impetrante)+
+  coord_flip()+
+  theme(strip.background = element_rect(fill="lightblue",colour="black"),
+        legend.position="bottom")+
+  labs(x="Câmara Criminal",y="Número de decisões")
+print(p1,caption="Decisões do Tribunal de Justiça de São Paulo sobre audiência de custódia conforme a câmara criminal e o impetrante")
+@
+
+    \label{fig:decisao}
+  \end{figure}
+
+
+<<results='asis',echo=F,message=F>>=
+library(xtable)
+orgao<-variaveis %>%
+  dplyr::count(camara,decisao) %>% 
+  tidyr::spread(key=decisao,value=n) %>% 
+  dplyr::arrange(desc(denegado))
+orgao$camara<-stringr::str_replace(orgao$camara,"cam","ª")
+
+t<-xtable(orgao,
+          caption="Distribuição das câmaras criminais conforme o número de ordens concedidas ou denegadas",
+          rownames=F,
+          align=c("p|","C{3cm}|","C{3cm}|","C{3cm}"))
+print(t,caption.placement="top",
+      include.rownames = FALSE)
+@
+
+
+
+\newpage
+
+A despeito do conteúdo aberto e poroso da garantia da ordem pública, este é o argumento mais frequente na argumentação contida nos acórdãos. A conveniência da instrução criminal e a garantia da aplicação da lei penal foram utilizadas em menor número de vezes e, assim mesmo, apenas retoricamente, sem referência a fatos ou circunstâncias e comportamentos do acusado que as fundamente:
+
+\begin{citacao}
+HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA E CONCRETA. "FUMUS COMISSI DELICTI" E "PERICULUM LIBERTATIS" COMPROVADOS. GARANTIA DA ORDEM PÚBLICA. CONVENIÊNCIA DA INSTRUÇÃO CRIMINAL. MANUTENÇÃO. IMPOSSIBILIDADE DE APLICAÇÃO DE MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. INSUFICIÊNCIA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA.  CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. ORDEM DENEGADA.
+1. Com efeito, em razão do princípio da presunção de inocência, postulado constitucional, vigora no Direito Brasileiro a dicotomia existente entre prisão-pena e prisão processual. Como cediço, aplicando-se o princípio da não culpabilidade, por meio do qual "ninguém será considerado culpado até o trânsito em julgado de sentença penal condenatória" (art. 5º, LVII, da Constituição Federal de 1988), aquele que se encontra encarcerado se considera preso provisório para fins penais. Tanto isso é verdade que a prisão processual no Brasil, pelo menos didaticamente falando, não pode ser vista como antecipação de pena. Deve, por outro lado, na medida do possível, ser vista sob a óptica do binômio "necessidade" x "proporcionalidade", para que ela não seja vista como sinônimo de pena, pois esta última somente ocorre posteriormente ao trânsito em julgado. Assim, como o Direito Penal não reprova o ser humano, mas sim uma conduta típica, antijurídica e culpável, por meio do Estado, o Direito Processual Penal, à luz dos princípios da dignidade da pessoa humana e do princípio da presunção de inocência, está legitimado a utilizar todos os seus meios de coerção para buscar a verdade real e aplicar o direito material. Daí porque se falar nos institutos cautelares, dentre eles as prisões cautelares e, no caso que se está a tratar, mais especificadamente, da prisão preventiva.
+2. A prisão preventiva é uma espécie de prisão provisória admitida no direito processual brasileiro, de longe a mais importante de todas as prisões cautelares, somente podendo ser decretada por ordem escrita do Magistrado, durante a fase de inquérito policial ou durante a instrução processual, desde que presentes o "fumus comissi delicti" e o "periculum libertatis". O "fumus comissi delicti" está consubstanciado na prova da existência do crime e de indícios de autoria, não havendo a necessidade de se provar a existência do crime em todos os seus elementos constitutivos, mas apenas a demonstração da existência de um fato típico. Já o "periculum libertatis" está consubstanciado nos fundamentos para a decretação da prisão preventiva, todos descritos no art. 312, do Código de Processo Penal, a saber: como garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal. 
+3. Por força da Lei n. 12.403/11, de 04 de maio de 2011, alteraram-se as hipóteses de cabimento da prisão preventiva, antes resguardadas aos casos que envolvessem: (a) aos crimes punidos com reclusão; (b) aos crimes punidos com detenção, quando se apurar que o indiciado é vadio ou, havendo dúvida sobre a sua identidade, não fornecer ou não indicar elementos para esclarecê-la; (c) se o réu tiver sido condenado por outro crime doloso, em sentença transitada em julgado, ressalvado o disposto no parágrafo único, do art. 46, do Código Penal; e, (d) se o crime envolver violência doméstica e familiar contra a mulher, nos termos da lei específica, para garantir a execução das medidas protetivas de urgência. Hoje, todavia, as hipóteses de cabimento foram reduzidas e alinhadas à ideia de prisão como "ultima ratio", bem como inseriram-se medidas cautelares diversas da prisão. Atualmente, a prisão preventiva poderá ser decretada: (a) nos crimes dolosos punidos com pena privativa de liberdade máxima superior a 04 (quatro) anos; (b) se tiver sido condenado por outro crime doloso, em sentença transitada em julgado, ressalvado o disposto no inciso I, do caput, do art. 64, do Decreto-Lei n. 2.848, de 7 de dezembro de 1940 - Código Penal; (c) se o crime envolver violência doméstica e familiar contra a mulher, criança, adolescente, idoso, enfermo ou pessoa com deficiência, para garantir a execução das medidas protetivas de urgência. Destaco, de outra banda, que a inserção das medidas cautelares diversas da prisão, bem ou mal, veio em boa hora, afinal, a doutrina vinha criticando muito o então Código de Processo Penal, que apenas trazia a "fiança" como medida cautelar diversa da prisão, deixando de inovar em outros aspectos.
+4. Os fundamentos utilizados pela autoridade coatora revelaram-se idôneos para manter a segregação cautelar do paciente, pois presentes o "fumus comissi delicti" e o "periculum libertatis", este sob a perspectiva da garantia da ordem pública, haja vista que se imputa ao paciente a autoria de crime gravíssimo, tráfico de drogas, espécie de crime que vem intranquilizando a sociedade, gerando clamor público, estando o Estado de São Paulo infestado, em ordem crescente, de crimes desta natureza, que trazem insegurança social e ceifam inúmeras famílias (aqui, foram apreendidos 28 invólucros de "cocaína"), motivos estes que sem sombra de dúvida são mais do que suficientes para a manutenção da sua custódia cautelar e impedem, "ipso facto", a escolha por medidas cautelares diversas da prisão. Decisão devidamente fundamentada nas peculiaridades do caso concreto, especialmente diante do conjunto indiciário que se formou.  Inteligência da doutrina de Pedro Henrique Demercian, Jorge Assaf Maluly, Guilherme de Souza Nucci, Antônio Scarance Fernandes e Hélio Tornaghi. Precedentes do STF (HC 134.132 AgR –  Rel. Min. Teori Zavascki –  2ª T –  j. 07.06.2016 –  DJe 21.06.2016; HC 133.056 –  Rel. Min. Gilmar Mendes –  2ª T –  j. 07.06.2016 –  DJe 24.06.2016 e HC 134.444 AgR –  Rel. Min. Dias Toffoli –  2ª T –  j. 07.06.2016 –  DJe 28.06.2016) e do STJ (RHC 69.601/RS –  Rel. Min. Antônio Saldanha Palheiro –  6ª T –  j. 28.06.2016 –  DJe 01.08.2016; RHC 65.292/BA –  Rel. Min. Jorge Mussi –  5ª T –  j. 28.06.2016 –  DJe 01.08.2016; HC 354.146/SP –  Rel. Min. Reynaldo Soares da Fonseca –  5ª T –  j. 28.06.2016 –  DJe 01.08.2016; HC 344.652/SP –  Rel. Min. Felix Fischer –  5ª T –  j. 28.06.2016 –  DJe 01.08.2016; HC 344.652/SP –  Rel. Min. Felix Fischer –  5ª T –  j. 28.06.2016 –  DJe 01.08.2016; HC 349.634/SP –  Rel. Min. Joel Ilan Paciornik –  5ª T –  j. 28.06.2016 –  DJe 01.08.2016 e RHC 67.005/MG –  Rel. Min. Ericson Maranho –  6ª T –  j. 08.03.2016 –  DJe 21.03.2016).
+5. Medidas cautelares diversas da prisão. Impossível a aplicação de medidas cautelares diversas da prisão quando a segregação se encontra justificada e se mostra imprescindível para acautelar o meio social da reprodução de fatos criminosos ("periculum libertatis", aqui caracterizado pela garantia da ordem pública e pela conveniência da instrução criminal). Inteligência do art. 282, §6º, do Código de Processo Penal: "A prisão preventiva será determinada quando não for cabível a sua substituição por outra medida cautelar (art. 319)."
+6. As condições pessoais favoráveis do paciente, tais como primariedade, residência fixa, emprego, dentre outras, não têm, em princípio, o condão de, isoladamente, revogar a prisão preventiva, se há nos autos elementos suficientes a demonstrar a sua necessidade. É dizer: os fundamentos que autorizam a prisão preventiva, "fumus comissi delicti" (materialidade e indícios de autoria) e "periculum libertatis" (garantia da ordem pública, garantia da ordem econômica, conveniência da instrução criminal ou necessidade de assegurar a aplicação da lei penal) não são neutralizados tão-somente pela só existência dos fatores de ordem pessoal acima mencionados. Precedentes do STF (HC 130.412 –  Rel. Min. Teori Zavascki –  j. 03.11.2015 –  DJe 19.11.2015; RHC 125.457 –  Rel. Min. Gilmar Mendes –  2ª T –  j. 10.03.2015 –  DJe 30.03.2015; HC 122.409 –  Rel. Min. Luiz Fux –  1ª T –  j. 19.08.2014 – DJe 11.09.2014 e HC 74.666-7/RS –  Rel. Min. Celso de Mello –  1ª T. –  j.26.11.1996 –  DJU 11.10.2002).
+7. A remissão feita pelo Magistrado –  referindo-se, expressamente, aos fundamentos (de fato e/ou de direito) que deram suporte a anterior decisão (ou, então, a Pareceres do Ministério Público ou, ainda, às informações prestadas por Órgão apontado como coator) –  constitui meio apto a promover a formal incorporação, ao ato decisório, da motivação a que o juiz se reportou como razão de decidir, tal como se verifica na espécie. Fundamentação "per relationem". Inexistência de afronta à norma constitucional insculpida no art. 93, IX, da Constituição Federal. Precedentes do STF (AI 825.520 AgR-ED/SP - Rel. Min. Celso de Mello - j. 31.05.2011; AI 814.640/RS - Rel. Min. Ricardo Lewandowski - j. 02.12.2010; HC 92.020/DF - Rel. Min. Joaquim Barbosa - j. 21.09.2010; HC 101.911/RS - Rel. Min. Cármen Lúcia - j. 27.04.2010; HC 100.221/RJ - Rel. Min. Marco Aurélio - j. 04.05.2010; HC 94.384/RS - Rel. Min. Dias Toffoli - j. 02.03.2010; Emb. Decl. MS 25.936-1/DF - Rel. Min. Celso de Mello - j. 13.06.2007; HC 98.814/RS - Rel. Min. Ellen Gracie - j. 23.06.2009; HC 94.243/SP - Rel. Min. Eros Grau - j. 31.03.2009; HC 96.517/RS - Rel. Min. Menezes Direito - j. 03.02.2009; RE 360.037/SC - Rel. Min. Cezar Peluso - j. 07.08.2007; HC 75.385/SP - Rel. Min. Nelson Jobim - j. 07.10.1997).
+(Relator(a): Airton Vieira; Comarca: Lençóis Paulista; Órgão julgador: 3ª Câmara de Direito Criminal; Data do julgamento: 29/11/2016; Data de registro: 30/11/2016)
+\end{citacao}
+
+A \autoref{tab:requisitos} mostra a frequência da utilização desses termos por documento.
+
+<<results="asis",echo=FALSE,message=FALSE>>=
+library(reporttools)
+tableNominal(list(variaveis[[7]],variaveis[[8]],variaveis[[9]]),
+             vertical=T,
+             longtable = F,
+             lab="tab:requisitos",
+             cap="Frequência da utilização dos requisitos processuais nos acórdãos",
+             caption.placement="top",
+             nams=c("Garantia da Ordem Pública","Conveniência da instrução criminal","Aplicação da Lei")
+)
+@
+
+\subsubsection{Análise preditiva}
+
+Na sessão abaixo utilizamos técnicas de classificação para interpretar os dados. Há muitos classificadores disponíveis na área de aprendizado de máquina. No entanto, alguns têm melhor desempenho. Fizemos testes com vários classificadores \footnote{Todos os testes estão no Anexo 4}. No entanto, os classificadores Floresta Aleatória e Boosting forneceram resultados com melhor acurácia para os processos de audiência de custódia. 
+
+Por meio de automação computadorizada foram baixadas as informações obtidas quando se realiza uma busca jurisprudencial no site do Tribunal de Justiça de São Paulo. O verbete utilizado foi "audiência de custódia". O resultado dessa busca foi transformado em uma planilha em que constam vários dados: assunto, relator, câmara criminal, comarca de origem e ementa. Como o inteiro teor do acórdão está em pdf, novo procedimento foi utilizado para baixá-los. Uma vez baixados, estes pdfs foram transformados em texto .txt, ou seja, texto com mínima formatação para fácil e rápida leitura e processamento do conteúdo. 
+
+Em seguida, os casos foram classificados conforme o impetrante. Essa  informação é facilmente obtida quando para audiência de custódia porque o MP sempre entra com Mandado de Segurança e a Defesa com Habeas Corpus. Feito isso, utilizando-se de de técnicas de mineração de textos e processamento de linguagem natural (natural language processing, NLP na sigla em inglês),  foram realizadas buscas para saber se a decisão foi de denegação ou de concessão. Foram descartados todos aqueles acórdãos que não continham uma decisão sobre concessão ou denegação da ordem (HC ou MS), seja porque a ordem foi prejudicada devido à prévia solução do pedido na primeira instância, seja porque o Tribunal não conheceu do pedido, ou seja, devolveu sem decidi-lo identificar quais acusados eram primários, reincidentes ou com antecedentes. Igualmente foi adotado um procedimento para identificar os crimes cometidos.
+
+Uma vez criada uma planilha com todas essas categorias, passamos à classificação propriamente dita. As duas classes consideradas foram "concedida" e "denegada". Os preditores foram: Câmara Criminal (1ª a 16º), impetrante (MP ou Defesa), gravidade do crime (baixa, média, alta) e circunstâncias pessoais (primário, reincidente, com antecedentes).
+
+Isso permitiu verificar que as características ou variáveis independentes mais importantes foram as câmara 16ª e 12ª, justamente porque estas contêm um maior número de concessões para a defesa\footnote{Faz-se importante uma nota técnica aqui. Utilizamos o pacote caret para sintonizar (tune) e treinar (train) vários modelos de aprendizado de máquina: regressão logística binária, Floresta Aleatóra, Gradient Boosting e Extreme Gradient Boosting . A amostra de 2703 observações foi dividida aleatoriamente em duas bases: train(85\%) e test (15\%). A base é desequilibrada, com o número de decisões favoráveis bem menor que o número de decisões desfavoráveis. Por essa razão, optamos por elevar o número de observações (instâncias) favoráveis para equilibrar os números. Foram rodados modelos com diferentes amostras de train e de test. Além disso, utilizamos resampling (10 fold cross validation) em todos os modelos. Ao final os resultados foram bastante similares em todas as situações, ou seja, foi possível obter uma acurácia para concessão (verdadeiro positivo) de aproximadamente 85\% em todos os modelos, o que para nós foi satisfatório para dizer que essas variáveis foram adequadamente selecionadas}.
+
+Na \autoref{tab:modelos} colocamos dois resultados de regressão logística binária. Um deles (Modelo 1) em que consta o Ministério Público como impetrante, assim como a defesa. Outro (Modelo 2) mostra somente a defesa como impetrante. Antes disso mostramos os gráficos contendo a importância das variáveis na ordem de importância para a determinação do resultado em dois diferentes classificadores: regressão logística binária e Boosting, respectivamente. Os gráficos (\autoref{fig:importancia1}) revelam diferenças entre a importância das variáveis para cada modelo. No primeiro (regressão logística), a gravidade do crime (rankmedia: furto e tráfico) e ordem pública estão no topo. No segundo, as câmaras criminais 16ª e 12ª do TJSP assumem o topo. É importante destacar que essa importância é sempre relativa, pois revela o contraste com uma categoria de referência. No caso da gravidade do crime, o contraste é com a gravidade baixa. No caso dos órgãos
+
+\begin{minipage}{0.8\textwidth}
+\captionof{figure}[Importância das variáveis]{Importância das variáveis regressão logística binária e Boosting para casos em que somente a defesa impetrou o writ}
+
+<<results='asis',echo=FALSE,message=FALSE>>=
+library(lattice)
+library(caret)
+library(gridExtra)
+glm<-readRDS("~/R/TESE/custodia/glm_models.rds")
+
+c50<-readRDS("~/R/TESE/custodia/c50.rds")
+plot1<-plot(varImp(glm[[2]],scale=F, main="Logit"))
+plot2<-plot(varImp(c50,scale=F,main="Boosting"))
+# print(plot1,position = c(0, 0, 1, 2),more=TRUE)
+# print(plot2,position = c(0.5, 0, 2, 2),more=FALSE)
+grid.arrange(plot1,plot2,ncol=2,widths=c(10,10))
+
+@
+\label{fig:importancia1}
+\end{minipage}
+
+\newpage
+
+<<results='asis',echo=FALSE,message=FALSE>>=
+library(texreg)
+
+texreg(list(glm[[1]]$finalModel,glm[[2]]$finalModel),
+           # custom.columns=list(OR=glm[[3]],OR=glm[[4]]),
+       #custom.col.pos=c(3,4),
+       custom.model.names=c("Modelo 1", "Modelo 2"),
+       caption="Classificação das decisões",
+       label="tab:modelos",
+       caption.above = TRUE,
+       dcolumn=T,
+       booktabs=T,
+       longtable = T)
+
+@
+
+Para testar o desempenho dos classificadores, aplicamos o modelo preditivo construído sobre a base de treinamento na base teste, ou seja, nos 15\% dos dados que não foram utilizados para gerar o modelo. As figuras abaixo, \autoref{fig:confusaoGLM} \autoref{fig:boosting}, mostram respectivamente o desempenho da regressão logística e do Boosting. O boosting apresentou melhor desempenho geral, praticamente 87\% de acurácia e no verdadeiro negativo (especificidade), ou seja, quando predizemos denegação e de fato a decisão foi denegação. Por outro lado, a regressão logística indicou melhor sensitividade, verdadeiro positivo, ou seja, quando prevemos concessão e de fato a decisão foi de concessão. Mas como as diferenças são pequenas, entendemos que seja melhor optar pela regressão logística, vez que seus efeitos são mais claramente interpretáveis, como se pode verificar da \autoref{tab:modelos}. 
+
+
+\begin{figure}
+\caption{Matriz de confusão - Classificador Logit }
+\label{fig:confusaoGLM}
+\centering
+\hspace{-2cm}
+\includegraphics{figure/gg_confusaoGLM.pdf} 
+\end{figure}
+
+\begin{figure}
+\caption{Matriz de Confusão - Classificador Boosting}
+\label{fig:boosting}
+\centering
+\hspace{-2cm}
+\includegraphics{figure/gg_confusaoBoosting.pdf} 
+\end{figure}
+
+\subsubsection{Interpretação dos resultados}
+Duas câmaras criminais tomam orientações bem distintas nas decisões. A 3ª Câmara Criminal concedeu mais ao Ministério Público e denegou consistentemente à defesa. Por sua vez, a 16ª Câmara decidiu de forma mais equilibrada em relação à defesa. Ao observarmos os resultados , essas duas posturas aparecem com sinais opostos. A 3ª Câmara aparece com um sinal positivo para "denegação" e a 16ª Câmara com sinal negativo para "denegação". Isso significa que, ao nosso ver, a 3ª Câmara assumiu uma postura claramente punitivista.
+
+Para facilitar a intepretação dos resultados, optamos por plotar dois gráficos. Um deles em que foram selecionados aleaotoriamente  dois casos de predição correta  e o outro dois casos de predição incorreta.  No primeiro \autoref{fig:correto}, casos 250 e 360 respectivamente, a previsão foi de que seria concedido para o primeiro e denegado para o segundo. Essa previsão correta no primeiro caso  seu muito por força do papel exercido pela 16ª Câmara Criminal. Com efeito, a probabilidade era de 80\% de que a decisão seria de concessão, mesmo sendo o réu não primário e o crime ser de roubo ou de tráfico de entorpecente. Outra sorte não deve o caso 360, em que a previsão de concessão foi de 48\%, mesmo sendo um crime de baixa gravidade. Isso porque a 2ª câmara tem um papel relevante na decisão.
+
+\begin{figure}
+\caption{Predição correta da decisão sobre audiência de custódia}
+\label{fig:correto}
+\centering
+\hspace{-2cm}
+\includegraphics{figure/gg_correto.pdf} 
+\end{figure}
+
+
+No segundo caso, previsões incorretas, \autoref{fig:errado}, a 2ª Câmara concedeu a ordem para de defesa, em caso de gravidade baixa, quando havia 0,64 de probabilidade de não concessão. Por outro lado, esse mesmo perfil de crime torna-se quase imprevisível quando cai na 10ª câmara. Praticamente 50\% para qualquer um das duas opções. O impetrante não teve a mesmo sorte.
+
+\begin{figure}
+\caption{Predição incorreta de decisão do TJSP sobre audiência de custódia}
+\label{fig:errado}
+\centering
+\hspace{-2cm}
+\includegraphics{figure/gg_errado.pdf} 
+\end{figure}
+
+
+Com exceção da 12ª e da 16ª câmaras, a maioria simplesmente denega o pedido da defesa, com alguma flexibilização na 1ª, 2ª e 10ª câmaras. A 3ª câmara, por sua vez, se destaca pelo alto percentual de denegações para esses dois crimes e pela alta produtividade.
+
+Para compreender esses posicionamentos, é importante identificar alguns dos desembargadores que atuam nessas câmaras criminais. Na 12ª Câmara  há uma desembargadora conhecida por suas postura em defesa de direitos humanos e membro da Associação de Juízes para a Democracia. Em outra câmara atuou um juiz convidado da primeira instância, conhecido por sua defesa intransigente da pena de morte e por condenar presos por furto de bagatela\cite{Bagatela2010}.
+
+\subsubsection{Reutilização das decisões}
+
+A alta produtividade de alguns julgadores levou-nos à suspeita de que possivelmente esses resultados se devem ao reúso do próprio texto \footnote{Inicialmente pensamos em utilizar a expressão autoplagiarismo, mas estão não goza de consenso na literatura que debate plágio e possui uma forte conotação pejorativa}. Para verificar isso, selecionamos apenas as decisões sobre tráfico de drogas, que do total são 1304 casos.  Feito isso, aplicamos o algorítimo Jaccard para verificação de similaridade entre os textos da mesma câmara criminal. Existem procedimentos que permitem a comparação de textos para verificar se foram reutilizados ou não.
+
+Evidentemente, há toda uma parte preambular que é similar em todos os textos. No entanto, se assumirmos que houve digressão sobre os fatos, sobre as condições pessoais do acusado e sobre os argumentos da defesa e da acusação, há significante espaço para tratar especificamente do caso e não produzir decisões em série, alterando somente o nome do réu.
+
+A \autoref{lab:similaridade} compara os textos com decisões sobre audiência de custódia em casos de tráfico de drogas por câmara criminal. Os scores variam de zero a um.  Os documentos foram comparados um a um. Ao final, calculamos a média desses scores. A 3ª câmara criminal apresenta a maior média, com um desvio padrão bem alto, se comparado com outras câmaras. Isso indica que os os scores individuais podem ser muito superiores à média. Possivelmente, porque alguns relatores dentro de uma mesma câmara utilizam mais seus próprios textos que outros.
+
+<<results='asis',echo=F,message=F>>=
+library(xtable)
+similaridade<-readRDS("~/R/TESE/custodia/similaridade.rds")
+t<-xtable(similaridade,
+          caption="Scores de similaridade dos textos dos acórdãos sobre audiência de custódia em casos de tráfico de drogas\\label{lab:similaridade}",
+          label="tab:similaridade",
+          rownames=F,
+           align=c("p|","C{3cm}|","C{3cm}|","C{3cm}|","C{3cm}"))
+print(t,caption.placement="top",
+      include.rownames = FALSE)
+@
+
+Por fim, calculadas as médias, verificamos a correlação entre a produtividade das câmaras e o score de reutilização dos próprios textos \autoref{fig:cor_reuso}. Como esperado, ela é significativa e positiva, sendo que as terceira e oitava câmaras, que estão dentre as mais punitivas, são também as que mais proferem decisões. 
+
+\begin{figure}
+\caption{Correlação entre a produtividade das câmaras criminais e o score médio de reutilização dos própios acórdãos}
+\label{fig:cor_reuso}
+\centering
+\hspace{-2cm}
+\includegraphics{figure/gg_cor_reuso.pdf} 
+\end{figure}
+
+Essa relação entre produtividade, reutilização das decisões e alto punitivismo, sugere uma produção em série da punitividade na Justiça de São Paulo.
+
+
+\section{O controle da saída}
+
+De forma similar ao que foi realizado em relação ao controle sobre o ingresso no sistema prisional, a presente sessão mostra o controle judiciário sobre a antecipação da liberdade. A diferença é que aqui é possível observar a discrepância entre a posição do Judiciário e a da administração penitenciária sobre a mesma pessoa em relação à sua liberdade. Há tipos tipos de antecipação da liberdade, os mais importantes são o livramento condicional e a progressão de regime. Via de regra o livramento condicional exige um lapso temporal de cumprimento de pena maior, no mínimo 1/3 para não reincidentes e, no máximo, 2/3 para condenados por crimes hediondos ou equiparados (e.g., tráfico, homicídio qualificado, estupro, latrocínio), enquanto que a progressão de regime exige o cumprimento de 1/6 da pena, mas esta, a princípio, não se aplica a crimes hediondos. 
+
+Foram baixados 17.336 acórdão do Tribunal de Justiça de São Paulo versando sobre progressão de regime ou livramento condicional referentes a novembro de 2014 a novembro de 2016, ou seja, dois anos. Uma vez que a pessoa é condenada, expede-se a guia de recolhimento com  as informações pessoais e as informações do processo. Essa guia é enviada para o juiz da execução penal e uma cópia para a administração penitenciária. O juiz da execução penal instaura o processo de execução penal com esta guia ou a junta em outro processo quando o condenado é reincidente.
+
+Conforme as regras de tempo acima mencionadas, o condenado poderá solicitar a progressão de regime ou o livramento condicional. Da decisão judicial, a defesa ou o Ministério Público, se insatisfeitos, ingressam com um recurso denominado agravo de execução junto ao Tribunal de Justiça. Os acórdãos contendo as decisões de provimento ou improvimento foram analisadas. Os agravos não conhecidos ou julgados prejudicados foram excluídos. 
+
+Seguiu-se o mesmo procedimento de conversão, leitura automatizada e classificação supervisionada dos documentos realizado em relação aos acórdãos sobre audiência de custódia. No entanto as variáveis consideradas são um pouco distintas. O \autoref{execucao} mostra essas variáveis. Como anteriormente, foram consideradas tanto os fatos como as circunstâncias pessoais do preso. Como se trata de recurso\footnote{Habeas Corpus e Mandado de Segurança não são considerados recursos, mas ações autônomas}, as decisões são ``provido'' ou ``improvido''. Esta é a variável resposta, ou classes. 
+A segunda variável é ``comportamento'', que nada mais é do que a certidão de comportamento carcerária emitida pela administração penitenciária. Se constam faltas disciplinares recentes, estas resultam em certidão de mau comportamento carcerário, do contrário, em bom comportamento carcerário.
+
+A variável ``gravidade'' faz referência, como já mencionado em relação à audiência de custódia, a três grupos de crimes, de baixa, de média e de alta gravidade. A variável ``agravante'' refere-se ao autor do recurso de agravo: a Defesa ou o Ministério Público. A variável "falta" indica as faltas disciplinares anteriores ao período de consideração para efeitos de certidão de comportamento carcerário, ou seja, mesmo quando a falta não pode mais constar no prontuário do preso, ela ainda assim é, por vezes, considerada pelo Judiciário como argumento para eventualmente negar o pedido de progressão de regime.
+
+A variável ``criminológico'' refere-se a situações em que o exame criminológico \footnote{O exame criminológico estava previsto na Lei de Execução Penal até 2002, quando excluído pelo Lei 10.792/2002, após severas críticas sobre sua prestabilidade como requisito para aferir as condições da pessoa de viver em sociedade sem delinquir e porque seu processamento atrasava muito o trâmite do pedido de livramento condicional}foi considerado na decisão ou quando sua própria pertinência para um processo está sob debate. Mesmo tendo sido legalmente abolido em 2002, a exigência do exame criminológico continua sendo um tema não resolvido pelo Judiciário, alguns juízes o exigem, outros o refutam. As ementas abaixo ilustram esta situação:
+
+\begin{citacao}
+Execucao penal -  progressao de regime prisional -  preenchimento do requisito temporal e boa conduta carceraria -  concessao de beneficio -  possibilidade. para a progressao de regime prisional e preciso que o reeducando revele aptidao para ficar recolhido em regime menos severo, que demonstre senso de responsabilidade e capacidade de readaptacao, o que e o caso dos autos.boletim informativo -  irrelevancia da gravidade do crime e da longevidade da pena. o juiz deve aplicar o direito positivo, o direito expresso ou latente nas leis, e nao o direito idealmente concebido. recurso nao provido. (relator(a): willian campos; comarca: marilia; orgao julgador: 15ª camara de direito criminal; data do julgamento: 24/11/2016; data de registro: 25/11/2016).\newline
+\newline
+Art. 33 do cp, ainda e necessaria a analise do merito. agravado encontra-se encarcerado por pratica de crimes graves, demonstrando possuir mentalidade voltada para a criminalidade, assim, simples atestado de bom comportamento, que nao apresenta qualquer elemento aprofundado da personalidade atual do agente nao e suficiente, neste caso, para preenchimento do requisito subjetivo, sendo necessaria a realizacao de exame criminologico -  dado provimento ao agravo, para determinar o retorno do agravado ao regime fechado, submetendo-se ao exame criminologico. (relator(a): sergio ribas; comarca: marilia; orgao julgador: 5ª camara de direito criminal; data do julgamento: 24/11/2016; data de registro: 25/11/2016).\newline
+\newline
+Criminologico -  inadmissibilidade -  gravidade abstrata do crime nao conduz a indispensabilidade da realizacao de exame criminologico -  sentenciado, ademais, possuidor de boa conduta carceraria, sem registro de falta disciplinar -  recurso improvido. (relator(a): moreira da silva; comarca: assis; orgao julgador: 13ª camara de direito criminal; data do julgamento: 17/11/2016; data de registro: 01/12/2016).
+
+\end{citacao}
+
+Por fim, a câmara criminal foi igualmente incluída como variável. Como na análise sobre audiência de custódia, as diferenças são significativas entre as câmaras. Elas na verdade, seguem em direção oposta. A utilização de modelos estatísticos para analisar quantitativamente a distribuição das decisões confere validade externa às conclusões de que essas diferenças não são aleatórias e que as câmaras criminais podem facilmente ser agrupadas entre aquelas que consistentemente decidem em desfavor da defesa  e aquelas que decidem de forma equilibrada.
+
+\definecolor{platinum}{rgb}{0.9, 0.89, 0.89} 
+\begin{quadro}[h!tp]
+\small
+\caption{\label{execucao}Fatores considerados para classificar os acórdãos da execução penal}
+\begin{center}
+\begin{normalsize}
+\color{black}
+\begin{tabularx}{\textwidth}{  p{1.8cm} | C{2cm} | C{4cm}| C{2.2cm}| C{1cm}| C{2cm}| C{2cm}}
+\hline
+\textbf{Decisão}&\textbf{Comportamento}&\textbf{Gravidade}&\textbf{Agravante}&\textbf{Falta}&\textbf{Criminológico}&\textbf{Câmara}\\ 
+\hline
+\cellcolor{platinum}provido&\cellcolor{platinum}Bom&\cellcolor{platinum}Baixa (max = 8anos):
+	Furto, fraudes, violência doméstica&\cellcolor{platinum}Defensoria&\cellcolor{platinum}Sim&\cellcolor{platinum}Sim&\cellcolor{platinum}1ª\\ 
+improvido&Mau&Média (max = 15 anos): Roubo, tráfico, extorsão&Ministério Público&Não&Não&2ª\\ 
+\cellcolor{platinum}&\cellcolor{platinum}&\cellcolor{platinum}Alta (max= 30 anos): Homicídio, Latrocínio, estupro, sequestro&\cellcolor{platinum}&\cellcolor{platinum}&\cellcolor{platinum}&\cellcolor{platinum}3ª\\ 
+&&&&&&4ª\\ 
+&&&&&&5ª\\ 
+&&&&&&6ª\\ 
+&&&&&&7ª\\ 
+&&&&&&8ª\\ 
+&&&&&&9ª\\ 
+&&&&&&10ª\\ 
+&&&&&&11ª\\ 
+&&&&&&12ª\\ 
+&&&&&&13ª\\ 
+&&&&&&14ª\\ 
+&&&&&&15ª\\ 
+&&&&&&16ª\\ 
+\hline
+\end{tabularx}
+\end{normalsize}
+\end{center}
+\end{quadro}
+\color{black}
+
+A \autoref{fig:var3} mostra o caminho dos agravos, agrupados em feixes, pelas variáveis. A maioria das decisões nega provimento. Os recursos do Ministério Público estão melhor equilibrados entre favoráveis e desfavoráveis. Como na análise sobre audiência de custódia, os recursos da defesa são denegados na maioria, mas com um maior equilíbrio. A gravidade do crime parece não pesar na decisão pois as proporções são similares. O mesmo se pode dizer sobre o comportamento, o exame criminológico e a falta.
+
+\hfill\begin{minipage}{1\textwidth}\centering
+
+\captionof{figure}[Variáveis progressão de regime]{Associação entre a decisão do TJSP e demais variáveis sobre progressão de regime ou livramento condicional - Defesa e Ministério Público}
+\label{fig:var3}
+
+<<echo=FALSE, fig.width=10>>=
+library(extracat)
+base_exec<-readRDS("~/R/TESE/execucao/base_em_01_01.rds")
+scpcp(base_exec[c(1,3,4,7,2,5,6)],sel="decisao=='provido'",base.colour = alpha("black",0.9),sel.palette = "d")
+@
+\end{minipage}
+
+
+\hfill\begin{minipage}{1\textwidth}\centering
+
+\captionof{figure}[Variáveis progressão de regime]{Associação entre a decisão do TJSP e demais variáveis sobre progressão de regime ou livramento condicional - Somente Defesa}
+\label{fig:var4}
+
+<<echo=FALSE, fig.width=10>>=
+library(extracat)
+base_execD<-readRDS("~/R/TESE/execucao/execucao_defesa.rds")
+scpcp(base_execD,sel="decisao=='provido'",base.colour = alpha("black",0.9),sel.palette = "d")
+@
+\end{minipage}
+
+A \autoref{fig:decisao_exec} revela a relevância do Ministério Público na decisão. Seus recursos são proporcionalmente providos em maior número que os recursos da defesa em um grupo de câmaras criminais. O contrário se dá em outro grupo de câmaras criminais, em que o improvimento é equilibrado entre defesa e Ministério Público. Como ocorreu anteriormente, as câmaras conservadoras são mais produtivas.Revela também a relação de oposição em que se encontram algumas câmaras criminais. Enquanto as câmaras 3,4,5,6,7 e 8 decidem consistentemente a favor do Ministério Público em prejuízo da defesa, as câmaras criminais 1,2, 12 e 16 assumem uma postura clara em desfavor do Ministério Público, sendo que na primeira câmara os recursos da defesa estão em clara vantagem.
+
+\begin{figure}
+   \centering
+  \caption{Decisões do Tribunal de Justiça de São Paulo sobre progressão e livramento condicional conforme a câmara criminal e o agravante.}
+\label{fig:decisao_exec}
+
+<<echo=FALSE,message=FALSE>>=
+
+execucao<-readRDS("~/R/TESE/execucao/base_completa_para_regressao.rds")
+
+df_agr<-execucao %>% dplyr::count(agravante,orgao_julgador,decisao)
+
+ggplot(df_agr,aes(x=orgao_julgador,y=n,fill=decisao))+
+  geom_bar(stat="identity",position="dodge",colour="black")+
+  scale_fill_manual(values=c("darkgreen","red"),name="Decisão:")+
+  #geom_text(aes(x=agravante,y=freq,label=freq),position=position_dodge(.9),vjust=-.5)+
+  facet_grid(~agravante)+
+  coord_flip()+
+  theme(strip.background = element_rect(fill="lightblue",colour="black"),
+        legend.position="bottom")+
+  labs(x="Câmara Criminal",y="Número de decisões")
+
+@
+\end{figure}
+
+
+\newpage
+\subsection{Análise preditiva}
+
+Foram utilizados os mesmos classificadores\footnote{Regressão Logística binária, Gradient Boosting e Random Florest (Floresta Aleatória) }. No entanto, regressão logística binária mostrou resultados mais tímidos. Os melhores classificadores foram Boosting e Floresta Aleatória. 
+
+Para classificar os casos, inicialmente a base foi dividida entre entra aquela que seria submetida ao modelo (base de treinamento - 90\%) preditivo e uma base teste (10\%) para validação. Uma vez rodados os classificadores, os resultados foram comparados com a base de validação. Foi possível alcançar um nível de 78\% de acurácia, menor do que os casos sobre audiência de custódia, onde alcançamos até 87\%. 
+
+Dos 215 casos providos, foi possível prever corretamente 164 deles. Dos 443 casos improvidos, foi possível prever corretamente 346. Há espaço para aperfeiçoamento, mas com o que temos, é possível afirmar quais os fatores mais importantes para a definição do TJSP sobre um caso criminal.
+
+
+<<echo=F,tidy=TRUE,out.width=0.5>>=
+cm<-readRDS("~/R/TESE/execucao/confusion_matrix.rds")
+print(cm[[4]])
+print(cm[[5]])
+print(cm[[6]])
+
+@
+
+
+A \autoref{fig:importancia2} mostra a importância das variáveis, o que torna evidente que os operadores do direito assumem papel crucial na decisão. A variável mais importante é o agravante, seguida pela câmara criminal. A gravidade do crime e o comportamento do preso assumem papel secundário na decisão.
+
+\begin{minipage}{0.8\textwidth}
+\captionof{figure}[Importância das variáveis - Execução Penal]{Importância das variáveis (classificadores C.50 (Boosting) e Floresta aleatória) sobre acórdãos do TJSP}
+
+<<results='asis',echo=FALSE,message=FALSE>>=
+
+importancia<-readRDS("~/R/TESE/execucao/importancia.rds")
+plot1<-plot(varImp(importancia[[1]],scale=F),main="Árvore de decisão C5.0",xlab="Importância")
+plot2<-plot(varImp(importancia[[2]],scale=F),main="Floresta Aleatória",xlab="Importância")
+grid.arrange(plot1,plot2,ncol=2,widths=c(10,10))
+@
+\label{fig:importancia2}
+\end{minipage}
+
+A \autoref{fig:arvore} ilustra o mesmo que foi dito acima. Trata-se de uma árvore de decisão invertida. No tronco, parte superior, está o agravante, se for o MP, o ramo segue para o lado direito, onde, se encontrar as câmaras 1,2,10,12,13 ou 16, terá maior probabilidade de perda. Se encontrar as câmaras 3,4,5,6,7,8,9 ou 14, terá maior probabilidade de vitória. Se encontrar as câmaras 11 ou 15, o comportamento do preso terá um peso na decisão.
+
+Por sua vez, o ramo à esquerda representa as decisões referentes aos recursos da Defesa. Se encontrar as câmaras  2,3,4,5,6,7,8,9,10,11,13,14 ou 15, ha maior probabilidade de perda, independentemente de outros fatores. Se encontrar as câmaras 1,12 e 16, a gravidade será considerada. Se for alta, improvido. Se for baixa ou média, o comportamento do preso é considerado.
+
+\begin{figure}
+\caption{Árvore das variáveis até decisão do TJSP sobre progressão de regime ou livramento condicional}
+\label{fig:arvore}
+\includegraphics[width=\maxwidth]{figure/c5} 
+\end{figure}
+
+
+A \autoref{tab:comparacao} consiste provavelmente num dos aspectos mais importantes da análise comparativa entre a Administração Penitenciária e o Judiciário. As direções das unidades prisionais deram parecer favorável ao preso em 4151 casos, mas houve um número muito pequeno de provimentos, ou seja, a postura do Judiciário é decisivamente mais punitiva que a da Administração Penitenciária.
+
+<<results='asis',echo=F,cache=F,message=F>>=
+
+dfcomparacao<-readRDS("~/R/TESE/execucao/base_02_02.rds")
+tA<-xtable(dfcomparacao,
+           align=c("p|","C{4cm}|","C{3cm}|","C{3cm}|","C{3cm}"),
+          rownames = F,
+          caption="Decisões do TJSP em comparação com o parecer da Administração Penitenciária sobre progressão de regime e livramento condicional\\label{tab:comparacao}")
+print(tA,
+      caption.placement="top",
+      label="tab:comparacao",
+      include.rownames = FALSE)
+@
+
+A \autoref{tab:predict_exec} é ilustrativa da predição de uma caso e seus possíveis desfechos, com base nas probabilidades, que variam de 0 a 1. Um recurso da defesa, quando o preso tem bom comportamento terá diferentes resultados conforme a câmara. Há 75\% de chances de vitória na 1ª câmara e zero porcento na 9ª câmara.
+
+<<results='asis',echo=F,message=F>>=
+dfE<-readRDS("~/R/TESE/execucao/predic_exec.rds")
+tE<-xtable(dfE,
+          caption="Probabilidades de provimento ou improvimento do recurso da defesa pedindo progressão de regime ou livramento condicional conforme a câmara criminal, quando o preso por roubo tem bom comportamento, sem antecedentes de indisciplina.\\label{tab:predict_exec}",
+          rownames=F,
+          align=c("p|","C{3cm}|","C{3cm}|","C{3cm}"))
+print(tE,caption.placement="top",
+      label="tab:predict_exec",
+      include.rownames = FALSE)
+@
+
+
+\clearpage
+\section{Considerações Finais sobre o capítulo}
+
+Os dados produzidos pelo presente capítulo revelam que a gestão prisional está refém de uma produção em série da punitividade. Ao nosso ver, esta produção da punitividade abandonou o direito penal clássico baseado na responsabilização individual e na individualização da pena para produzir um controle penal fundado no risco. A manutenção da ordem pública e a prevenção de riscos prevalecem sobre a responsabilização individual e sobre as garantias individuais. O juiz se posiciona como agente de segurança e não como protetor de direitos.
+
+O mesmo vale para o Ministério Público. Este tem se posicionado na defesa do patrimônio privado e público e focado na persecução penal de suspeitos de roubo e tráfico de drogas. Uma vez que o Ministério Público paulista é  três vezes maior que a Defensoria Pública e, ao contrário desta, está concentrado na persecução penal, evidencia-se uma política criminal destinada a enfraquecer as propostas emancipadoras em favor de propostas repressivas.
+
+Quando verificamos que juízes, dos 101 analisados identificamos duas mulheres e nenhum negro, são homens de classe média e alta, temos uma situação de uma justiça instrumentalizada para operar em favor da elite branca e masculina e reprimir minorias compostas por negros, jovens, mulheres provenientes das periferias. O sistema de justiça penal termina por cair na perda de legitimidade e, em linha com \citeonline{Azevedo2005}, torna-se incapaz de justificar seu alto grau de seletividade e arbítrio.
+
+Iniciamos esta pesquisa com a ideia de que os diretores das unidades prisionais tinham um papel rela vante na condução dos negócios prisionais e de que eles eram capazes de tomar as decisões mais relevantes.  A conclusão que chegamos é que esses "gestores" são meros burocratas responsáveis pelo "paperwork" do sistema prisional. Se algum papel relevante a ele é atribuído, este se limita a minimizar as chances de fuga, mortes e rebeliões. Todo o resto da dinâmica prisional é determinado internamente pelas lideranças entre presos, como já demonstrou Camila Nunes Dias e o Poder Judiciário. 
+
+Provavelmente o único poder de controle sobre os presos que eles ainda mantêm são o pedido de transferência e a aplicação de sanções disciplinares, no entanto essas duas faculdades dependem de aprovação do superior hierárquico ou de homologação judicial.
+
+

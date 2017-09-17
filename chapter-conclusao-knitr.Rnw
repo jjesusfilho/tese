@@ -1,0 +1,33 @@
+% !Rnw root = tese-knitr.Rnw
+\chapter*{Considerações finais}
+\addcontentsline{toc}{chapter}{CONSIDERAÇÕES FINAIS}
+
+A prisão como resposta ao crime tornou-se prevalecente no Brasil apenas nas últimas décadas. A expansão penitenciária se deve a uma série de transformações sociais dentre elas o aumento da criminalidade, especialmente a partidar da década de 1970, e mais tarde, a partir da década de 1980, com o tráfico de drogas operando em larga escala. 
+
+Some-se a isso a política de guerra às drogas, manifestada especialmente na aprovação da leis dos crimes hediondos e nas práticas judiciárias de intolerância a esses crimes,  e a incapacidade dos governos estaduais em oferecer respostas efetivas para o problema da criminalidade. Nesse contexto, a prisão se apresenta como resposta mais fácil, mas significativamente onerosa, tanto em termos sociais quanto em termos financeiros.
+
+A principal conclusão da tese é de que a gestão prisional é compartilhada de forma não planejada e não coordenada. A gestão é partilhada entre três principais atores: Administração Prisional, Judiciário e Facções internas, cada uma com diferentes âmbitos de atuação e distintos propósitos, quando não divergentes. Ela é não planejada porque a participação das faccções nessa gestão ocorre extralegalmente e decorre das insuficiências em termos de recursos materiais e pessoais. 
+Ela é não coordenada porque a atuação do Judiciário se dá independentemente da atuação da administração prisional. Judiciário e Executivo são dois poderes independentes. No entanto, o primeiro exerce o controle sobre os atos do segundo. Além disso juízes gozam de garantias constitucionais e mesmo de privilégios institucionais que os tornam menos suscetíves de serem responsabizados por seus atos. Como se verificou no capítulo 2, os diretores enviam os atestados de comportamento aos juízes avaliando positivamente os condenados. Assim mesmo, as recomendações dos diretores são ignoradas. 
+
+Diretores constantemente se queixaram de que ante o volume de pessoas que ingressam na unidade prisional, a gestão voltada à segurança e vigilância daquels que apresentam maiores riscos se torna impraticável. Isto porque o Judiciário, que não convive com as mazelas de prisões superlotadas, define previamente o perfil de pessoas que irá para a prisão, independentemente da gravidade dos fatos e das circunstâncias da pessoa.
+
+Ao iniciar a pesquisa, nosso objetivo era conhecer o perfil, a visão e a atuação dos diretores das unidades prisionais. No entanto, após proceder à revisão bibligráfica, aplicar os questionários e entrevistá-los, percebemos que sua atuação é pouco efetiva em termos de exercício do controle da população carcerária. Isto porque ela concorre com a intervenção de outros grupos, dos quais os mais importantes são o Judiciário e o autogoverno dos presos. Esses dois grupos exercem efetivo controle sobre a dinâmica prisional. Um deles, o autogoverno, se caracteriza pelo controle da economia interna entre presos, da comunicação e da disciplina, bem como, por seu um exercício extralegal de poder. Dos dois, optamos por analisar mais detidamente o Judiciário.
+
+Este último se caracteriza por operar a distância, pela soberania de suas decisões e pela mínima responsabilização por seus atos. O Judiciário controla tanto o ingresso quanto a soltura de presos, bem como toma todas  as decisões que afetam a antecipação da liberdade. Os dois crimes que mais populam as prisões atualmente são o roubo e o tráfico, crimes de massa cometidos principalmente por grupos sociais vulneráveis, cujo perfil é formado por jovens, negros, pouco alfabetizados e moradores das periferias. 
+
+Nesse sentido, o Judiciário tem assumido um papel crucial em encarcercerar essa população.  Poucos foram os casos em que os juízes liberaram pessoas acusadas por tais crimes, os quais foram consistemente equiparados a crimes mais graves como homicídio qualificado e estupro.
+
+Desembargadores que julgaram as audiências de custódia são predominantemente brancos e do sexo masculino, com idade acima de cinquenta anos e provenientes da classe média e alta. Em situação oposta estão os presos: jovens, negros, vulnerabilizaos, pouco alfabetizados e provenitentes da periferia. 
+
+Frequentemente argumenta-se que isso não prova que há uma justiça de classes, seletiva  e a serviço das elites. No entanto, as evidências apresentadas pelo estudo das quase 20 mil decisões evidenciam de forma contundente que pouco importa a gravidade do crime ou as circunstâncias pessoais do acusado ou condenado. O que determina sua trajetória na relação com o sistema de justiça criminal é o seu perfil enquanto pertencente a um determinado grupo social em contraste com o perfil dos juízes, provenientes da elite.
+
+O que se constatou é que, enquanto os gestores prisionais têm assumido uma postura menos punitiva, o Judiciário está orientado ao punitivismo seletivo. Isso fica evidente ao se observar que na maioria das câmaras criminais, o alto número de decisões contra a defesa são fundamentados na garantia da ordem pública, argumento cujo viés ideológico é patente. Igualmente, a reprodução em série de decisões contrárias à liberdade sugere que o Judiciário assumiu o papel de mantenedor da Ordem Pública e não da afirmação do Estado Democrático de Direito.
+
+Isso corrobora o argumento de que temos uma Justiça operando para blindar as elites e incapacitar as classes baixas. Diretores prisionais são também provenitentes da periferia. Muitos iniciaram a graduação anos depois que haviam ingressado no sistema penitenciário. Nas entrevistas, muitos afirmaram que trabalhavam no comércio antes de se tornarem agentes penitenciários. O seu perfil os torna muito próximos do perfil dos presos. Integram o mesmo grupo social com mínimo acesso aos bens da sociedade. Isso possivelmente os torna menos punitivistas.
+
+Ademais, sendo o Judiciário o principal responsável pelo fluxo prisional (prisão e soltura), o investimento no seu fortalecimento em desfavor de políticas sociais, como visto no capítulo 3, evidencia uma articulação no âmbito dos três poderes para insistir no encarceramento em massa como mecanismo de punição.
+
+A ausência do controle do fluxo penitenciário somada à incapacidade de cumprir suas atribuições, de garantir a segurança, bem estar e  justiça ao seus seus custodiados, ante o crescente número de presos, torna a administração penitenciária um órgão meramente gestor da miséria, a qual é politicamente articulada no âmbito da cúpula dos três poderes. O capítulo quatro mostra uma administração penitenciária a serviço de uma política de construção de presídios e incapaz de promover alternativas penais mais eficientes que a prisão.
+
+
+

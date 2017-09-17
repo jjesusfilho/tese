@@ -1,0 +1,407 @@
+% !TeX root = tese-knitr.Rnw
+% !Rnw weave = knitr
+% !TeX program = pdfLaTeX
+
+\chapter{Expansão penitenciária}
+
+O presente capítulo constitui-se de um esforço por compreender a evolução do encarceramento no estado de São Paulo. As reformas penitenciárias vistas no capítulo anterior podem ser melhor entendidas quando contextualizadas dentro de um processo de crescimento acelerado da população carcerária, o qual operou como mola propulsora da expansão penitenciária em seus mais diversos aspectos: físicos, geográficos, administrativo e recursos humanos.
+
+Comumente a mídia ou mesmo acadêmicos associam o investimento no sistema penitenciário, especialmente na construção de presídios, como um elemento da política de encarceramento em massa, como se isso explicasse as altas taxas de encarceramento. Ao nosso ver, são os níveis de encarceramento que pautam os programas de construção de presídios. Em outras palavras, a política criminal geradora de encarceramento tem efeitos diretos sobre a expansão física penitenciária.
+
+Igualmente, a própria gestão penitenciária é decisivamente afetada pelo crescimento da população presa. Os desafios de gerir uma prisão com três ou quatro vezes mais presos que a capacidade física da unidade, bem como com um reduzido número de agentes penitenciários e insuficientes recursos para prover o mínimo existencial, passam a ser maiores e mais complexos. Com efeito, a superpoulação carcerária tem sido constantemente apontada nas pesquisas como fonte de desordem prisional\cite{Mccorkle1995} e \cite{Barak1981}.
+
+O presente capítulo busca explicar o fenômeno do encarceramento em massa em São Paulo a partir de fatores extrínsecos à política penitenciária, os quais estariam mais bem associados à política criminal. Esta última é implementada a partir de arranjos feitos no âmbito dos três poderes, seja por meio do fortalecimento das forças de segurança, no âmbito do Executivo,  por meio do controle das decisões judiciais na área criminal exercido pel o Judiciário ou mesmo por meio do priorização alocativa exercida pelo Legislativo em acordo com o Executivo, ao favorecer a política criminal em desfavor da política social.
+
+É importante destacar que não se tem a pretensão de explicar inteiramente o processo de encarceramento. Esse é um fenômeno complexo e estamos longe de oferecer uma tese plenamente satisfatória das suas causas. Há elementos não sistemáticos no processo de encarceramento que escapam do controle do pesquisador. 
+
+Para entender as taxas de encarceramento em São Paulo, a pesquisa realizou primeiramente uma revisão da literatura, a fim de identificar quais variáveis são acionadas para explicar sua variação. Além disso, nossa experiência com os dados de encarceramento levou-nos a partir para uma análise exploratória comparando São Paulo com os demais estados brasileiro. Isso porque os dados de encarceramento em São Paulo discrepam significativamente de outros estados. 
+
+A revisão bibliográfica levou-nos a incluir como variáveis explicativas as taxas de homicídio, os gastos sociais, as taxas de desemprego, aspectos ideológicos, os índices de desigualdade e aspectos raciais. Por sua vez, a análise exploratória permitiu-nos constatar que nos estados onde há altas taxas de encarceramento são moderados os percentuais de presos provisórios. Por outro lado, nos estados onde há baixíssimas taxas de encarceramento, há elevado percentual de presos provisórios. 
+
+Tal observação nos levou a levantar a hipótese de que a variação nas taxas de encarceramento pode ser explicada a partir da institucionalização do sistema de justiça, isto é, quanto maior a capacidade de prender, processar e julgar suspeitos de cometimento de crime, maiores os níveis de encarceramento e, consequentemente, menores os percentuais de presos provisórios. Os resultados mostraram que quanto maior o investimento dos estados no sistema de justiça maiores as taxas de encarceramento.
+
+\section{A prisão como instrumento de punição}
+
+O uso da prisão como resposta massiva ao crime surgiu no início do século XIX, tendo como expressão máxima a inauguração da Estearn State Penitentiary, ou Cherry Hill, na Filadélfia, estado  da  Pensilvânia, nos Estados Unidos, e poucos anos depois a Penitenciária de Auburn, em Nova Iorque, seguidas pela instituição da penitenciária irlandesa. Essas três prisões, em certa medida, conformaram o ideário penitenciário que, ao menos no Brasil, prevalece até o presente: a prisão é um lugar de mudança de comportamento, pelo qual o criminoso passa por um tempo de autorreflexão e gradualmente passeia pelo caminho da liberdade num processo de harmoniosa integração social \footnote{Cf. Artigo 1º da Lei de Execução Penal}.
+
+A despeito disso, será somente na década de 1970 que surgirão três importantes obras, conhecidas como "revisionistas", por questionarem as narrativas até então prevalecentes sobre as origens das prisão. As obras de Michael Ignatieff, Michael Foucault, David Rothman pintariam um quadro mais obscuro bem distinto daqueles argumentos altruístas e humanitários até então sustentados. Com exceção do trabalho de  \citeonline{Rusche2004}  \cite{Ignatieff1981}, publicado em 1939, até então o debate sociológico sobre a questão penitenciária não havia irrompido para além dos muros da prisão. Estas três obras irão identificar nas transformações sociais e profundas mudanças de concepção sobre os indivíduos e sobre as relações sociais que experimentavam os Estados Unidos e a Europa.
+
+\citeonline{Ignatieff1978} indica que o surgimento das penitenciárias foi legitimado discursivamente pela confluência de três movimentos: dos protestantes com sua proposta de superação das penas cruéis e humanização das penas, dos utilitaristas ou consequencialistas, para os quais a prisão de um indivíduo funciona como alerta aos demais sobre as consequências do crime, e dos iluministas, os quais buscavam a proporcionalidade das penas ante o arbítrio que imperava até aquele momento. As narrativas sobre a prisão enfatizavam a consciência como mola das reformas penais, assumindo que as alterações propostas pelos reformadores eram intencionais e humanísticas,  \cite{Ignatieff1981}, e não associadas à retribuição ou à segregação.
+
+No entanto, o autor sugere outras hipóteses para o surgimento das prisões. Dentre elas o medo da classe média em relação aos homens excluídos da revolução industrial. Ao questionar porque a instituição prisional perdurou e prevaleceu sobre outras formas de resposta ao crime,  mesmo sob duras críticas sobre sua eficiência em reduzir o crime e promover a reintegração de pessoas,  \citeonline{Ignatieff1978} identifica como resposta a expansão democrática no período, acompanhada pelo aumento do poder estatal de controle e pela redução da tolerância em relação aos comportamentos desviantes. Anos depois, Michael Ignatieff irá rever parcialmente sua crítica para reconhecer a motivação humanitária \cite{Ignatieff1981}.
+
+Michel Foucault localiza o surgimento das prisões dentro de uma mais ampla estratégia disciplinar que atingia não somente a punição, mas a educação e a sexualidade \cite{Garland1986}. Em sua perspectiva, a prisão é uma metáfora ou microcosmo de uma sociedade disciplinar. Nesse sentido, o subtítulo: "o nascimento das prisões" \footnote{A versão brasileira da obra equivocadamente substituiu "o nascimento das prisões" por "história da violência nas prisões} na obra de Foucault associa o surgimento da prisões ao próprio desenvolvimento da sociedade moderna. Segundo \citeonline{Garland1986}, Foucault estrutura sua obra em torno de três conceitos fundamentais: "o poder", "o conhecimento" e "o corpo". Para ele, sistemas de produção, de dominação e de socialização dependem fundamentalmente da sujeição dos corpos. Eles exigem que os corpos sejam controlados e submetidos a treinamento a fim de se tornarem dóceis, obedientes e úteis. Poder em Foucault não é uma propriedade de uma classe particular ou indivíduo que o detêm, nem mesmo um instrumento que pode ser utilizado à vontade. 
+
+"Poder" se refere às várias formas de dominação e subordinação que operam quando e onde as relações humanas existem. As relações de poder, assim como as relações sociais em que estão imbricadas, não se mostram em padrões claros. Segundo Foucault, a vida social não toma lugar em uma sociedade ampla, mas por meio de uma multiplicidade de campos que às vezes estão conectados, às vezes, não. O terceiro elemento "conhecimento", é entendido por Foucault como \textit{know-how}, ou seja, o uso de técnicas e estratégias. O bem sucedido controle dos corpos requer um grau de entendimento de suas forças, suas reações, fortalezas, fraquezas e suas possibilidades.
+
+Do ponto de vista historiográfico, a obra de David Rothman \cite{Rothman1971} é mais minuciosa, contextualizando o surgimento das instituições de segregação: prisões, orfanatos, asilos, hospitais psiquiátricos, nos Estados Unidos na era jacksoniana (1820-1845). Este período ficou caracterizado por crescimento econômico acelerado, de sedimentação da industrialização e da revolução dos meios de transporte. Este foi também um período de transição de visões de indivíduo e de sociedade, afirmação dos direitos individuais e rompimento com algumas das concepções tradicionais de família e religião. 
+
+As tradicionais formas de tratar os pobres, pessoas com transtorno mental, as crianças abandonadas e os infratores, tinham o ambiente familiar como modelo, e foram abandonadas em favor da institucionalização dessas pessoas e da construção de edificações fortificadas. Até o surgimento das penitenciárias, como lugares destinados ao cumprimento de pena, as pessoas eram custodiadas em  casas de correção, as quais, como o próprio nome sugere, assemelhavam-se ao ambiente residencial. 
+
+Para os reformadores, a sociedade parecia caótica e imprevisível, marcada pelo crescimento dos conflitos sociais,  da indigência e da criminalidade. O saudosismo dos tempos de dominação inglesa, quando tudo parecia estável, associado ao medo da desintegração social atribuída a esses comportamentos desviantes, criaram as condições para a edificação de instituições segregantes, mais tarde descritas por Goffman \cite{Goffman1968} como instituições totais, para confinar todos aqueles que, por seu comportamento, ameaçavam a preservação da ordem.  
+
+A disseminação do confinamento prevaleceu em detrimento de outras respostas ao comportamento desviante devido ao medo social. A prisão serviria, a uma só vez, a dois propósitos: melhorar as condições do dependente e do desviante e separá-los de uma sociedade desesperada por criar um escudo social. Mesmo sem jamais ter cumprido sua principal promessa: transformar criminosos em cidadãos cumpridores da lei, o uso da prisão como resposta ao crime foi difundido e se expandiu por todo o mundo. 
+
+Ao longo das décadas seguintes à instituição da penitenciária como principal resposta ao crime, várias teorias surgiram para justificar a pena e o uso da prisão como mecanismo de redução da criminalidade. A teoria da prevenção especial, em suas formas negativa e positiva, teve especial relevância \footnote{A teoria da prevenção geral é igualmente bifurcada em duas, positiva, pela qual o Estado comunica à população, por meio da sanção, que determinados valores são hierarquicamente superiores. Por sua vez, a prevenção especial negativa caracteriza-se pela intimidação geral, a prisão funciona como um alerta a potenciais criminosos sobre as consequências de seus atos}. A prevenção especial positiva expressa-se por meio da ressocialização ou reabilitação \footnote{\citeonline{Zaffaroni1997} atenta para uma dificuldade semântica dessas expressões e as inclui dentro do que ele chama de ideologias re: ressocialização, readaptação, reeducação, reintegração, repersonalização etc.}, pelas quais a mudança do comportamento em direção ao respeito às leis ocorreria dentro de um sistema progressivo de incentivos e sanções, mediante o envolvimento do condenado em oficinas de trabalho, de estudo, de acompanhamento médico, psicológico e social, permitindo-lhe um gradual retorno à sociedade com a transferência para regimes prisionais menos gravosos.
+
+\citeonline{Garland2001} afirma que tal ideal ressocializador começou a ruir nas décadas de 1950 e 1960 nos Estados Unidos ante a crescente perda da legitimidade da prisão como mecanismo de mudança de comportamento, seja porque a criminalidade continuava a crescer, seja porque os programas de ressocialização não se mostravam eficazes \cite{Martinson1974}, ou mesmo porque se começava a questionar o papel do Estado como agente educador\cite{Hirsch1976}.
+
+Sob severas críticas tanto de conservadores quanto de progressistas, o propósito ressocializador foi cedendo passo ao propósito de incapacitação para o crime. Entendida como uma expressão mais recente do utilitarismo, a teoria da incapacitação propõe a prevenção de cometimento de novos crimes por meio da remoção temporária ou permanente de criminosos da sociedade, ou por meio da restrição física de sua capacidade de delinquir \footnote{Mais recentemente, a castração química tem sido proposta para incapacitar violadores sexuais.}.
+
+O desencantamento com prisão como meio de reabilitar pessoas provocou o seu uso como mecanismo de contenção massa \cite{Garland2001}. Isso explicaria  o fato de que as décadas de 1970 e 1980 conheceram um acelerado aumento do encarceramento nesses países, enquanto que no Brasil, na década de 1990 teve início um acentuado processo de encarceramento.
+
+No Brasil, o ideal ressocializador, ainda que sob críticas \cite{Barros2001}, perdurou por mais alguns anos e é possível dizer que ele não veio a desaparecer dos discursos de políticos, de teóricos e de operadores da execução criminal. A Lei de Execução Penal, por exemplo, evitou utilizar qualquer termo iniciado por “re” no artigo primeiro, onde declara os objetivos da execução penal, mas não os evitou em outras de suas disposições, artigo 25, I. Mais recentemente, em 2006, os termos recuperação e reeducação foram introduzidos na referida lei, artigo 152, parágrafo único.
+
+
+
+\section{Elaboração teórica e desenho da pesquisa}
+
+
+\subsection{Encarceramento no Brasil}
+
+O encarceramento no Brasil tem alcançado cifras impensadas cerca de vinte anos atrás. O nível de ocupação das prisões coloca o Brasil na quarta posição mundial em números absolutos e em 30ª posição em números relativos. A \autoref{fig:gg_taxaBR}  mostra a evolução das taxas de encarceramento no Brasil desde 2003. 
+
+\begin{figure}[h]
+\caption{Evolução das taxas de encarceramento no Brasil de 2003 a 2014}
+\label{fig:gg_taxaBR}
+\centering
+\hspace{-2cm}
+\includegraphics{figure/gg_taxaBR.pdf} 
+\end{figure}
+
+Assim mesmo, se desagregados os dados por estado e tratando cada um deles como se fosse um país, a distância entre eles, expressada nas taxas de encarceramento, seria significativa. Rondônia estaria em primeiro lugar, à frente inclusive dos Estados Unidos e o Maranhão ocuparia o 150º lugar (menos de cem presos por cem mil habitantes). A \autoref{fig:gg_taxaUF} mostra as diferentes taxas de encarceramento entre os estados. Os estados com maiores taxas de encarceramento estão no Noroeste, na fronteira com Peru, Colômbia e Bolívia acompanhados por São Paulo e Distrito Federal. Os quatro estados com menores taxas de encarceramento estão no Nordeste, locais onde o PIB per capita é menor que o restante do Brasil, e há baixo investimento no sistema de justiça.
+
+Da \autoref{fig:gg_taxaUF}, é possível visualizar que a taxa de encarceramento varia tanto no tempo quanto no espaço, sendo que estados com maiores taxas de encarceramento tiveram maior variação ao longo dos anos.
+
+\begin{figure}[h]
+\caption{Evolução das taxas de encarceramento por estado de 2003 a 2014}
+\label{fig:gg_taxaUF}
+\centering
+\hspace{-2cm}
+\includegraphics[width=1\linewidth]{figure/gg_taxaUF.pdf} 
+\end{figure}
+
+O presente texto parte justamente do pressuposto de que é possível compreender o processo de encarceramento em massa no país a partir da análise das diferentes orientações políticas dos governos estaduais e seus reflexos sobre os níveis de aprisionamento. A pesquisa identificou que alguns estados tendem a percorrer uma trajetória de fortalecimento do Estado Penal, sem necessariamente reduzir o Estado Social, ao priorizar os investimentos públicos no aparelho repressor, ou seja, no sistema de justiça criminal, na segurança pública e no sistema penitenciário, em desfavor dos investimentos em políticas sociais, nomeadamente, educação, saúde, assistência social e habitação.
+
+A questão da substituição do Estado Social pelo Estado Penal foi bem explorada por \citeonline{Wacquant2001a} ao estudar o processo de encarceramento em massa nos Estados Unidos. Segundo o autor, aquele país empreendeu, a partir da década de 1970, um projeto de substituição progressiva do Estado de semi bem-estar social por um Estado penal e policial, pelo qual a criminalização da marginalidade e a incapacitação punitiva assumiram a feição das políticas públicas destinadas aos mais pobres.
+
+\citeonline{Garland2001}, por sua vez, associa a crise do Estado de bem-estar social à crise do Estado Penal Social (Penal-Welfarism), este caracterizado pelo ideal reabilitador, o que coincide com a ascensão dos governos de Ronald Reagan nos Estados Unidos e de Margaret Thatcher nas Inglaterra, expressões do conservadorismo. Para o autor, a então classe média que antes havia se beneficiado das políticas de bem-estar social do período pós-guerra, passa a demandar, a partir da década de 1970, a redução dos gastos sociais e políticas de endurecimento penal. Garland identifica alguns fatores que explicam tais transformações sociais: modernização da dinâmica da produção capitalista, mudanças na estrutura da família, alterações na ecologia social e demográfica, o impacto social da mídia e a democratização da vida social e da cultura. 
+
+\citeonline{Sinhoretto2013} constataram que o encarceramento em massa no Estado de São Paulo é expressão do avanço do Estado punitivo. Segundo os autores, a ocorrência da expansão punitiva em São Paulo tem como indicadores não somente o aumento do número de presos, mas também a quantidade de atores que se relacionam com o encarceramento, as prisões e os presos. 
+
+O presente trabalho converge com as contribuições tanto dos autores brasileiros quanto dos estrangeiros mencionados acima, ao identificar a expansão do Estado punitivo produtor de encarceramento. No entanto, utiliza-se de uma abordagem quantitativa para revelar como a orientação punitivista se expressa nas opções políticas dos governos estaduais.
+
+Esta orientação punitivista foi estudada taxa de encarceramento (presos por cem mil habitantes) no país à luz das diferenças entre as unidades federativas brasileiras em torno da priorização dos governos em alocar recursos no fortalecimento das instituições do aparato estatal punitivo em detrimento das políticas de redução das desigualdades sociais. Constatou-se que o encarceramento está vinculado ao investimento dos estados em assegurar sua capacidade de prender, processar e julgar suspeitos. A política de drogas é um bom exemplo. Diante do crescente consumo e tráfico de drogas, alguns estados preferiram declarar guerra às drogas e partir para a criminalização e punição de infratores em vez de apostar em investimento em saúde pública ou outras formas menos drásticas de tratar o fenômeno.
+
+Este estudo sugere que as diferenças de encarceramento nos estados podem ser parcialmente explicadas pelo nível de institucionalização do sistema de justiça. Alguns estados fortaleceram o aparato repressor, outros se utilizam mais de meios informais de resolução conflito. O fortalecimento das instituições de persecução penal demanda o incremento de gastos públicos e, por conseguinte, a redução das despesas em outras áreas, especialmente a social. 
+
+Assim, para verificar as hipóteses aqui levantadas, os gastos com segurança, justiça e encarceramento foram comparados com os gastos com saúde, assistência social, educação e habitação ao longo de sete anos, 2007 a 2014, e entre as unidades federativas brasileiras. Além disso, foram inseridas outras variáveis econômicas, como as taxas de desemprego e o índice de gini, bem como, variáveis ideológicas, e.g, ideologia partidária  e a política de drogas em cada estado. Ademais, foram incluídas variáveis sociodemográficas, como o perfil racial dos julgadores. Para verificar em que medida o fenômeno da criminalidade influi nas taxas de encarceramento, foi adicionada a taxa de homicídio. 
+
+O aspecto inovador da abordagem está em explicar a taxa de encarceramento a partir da capacidade das instituições do Sistema de Justiça (Judiciário e Segurança) de prender, processar e julgar pessoas que cometeram crimes. Desconhece-se qualquer estudo que tenha centrado a análise na capacidade dos atores do sistema de justiça para apurar infrações penais.  Das variáveis articuladas aqui, apenas ideologia partidária, desemprego, desigualdade e distribuição racial já foram usadas para explicar as taxas de encarceramento\cite{Raphael2014}. 
+
+Além disso, a despeito de haver vasta literatura nos Estados Unidos a respeito, desconhecemos tentativas similares no Brasil de explicar as taxas de encarceramento a partir de um modelo econométrico. No brasil, os trabalhos que tratam da variação no encarceramento estão mais dedicados a contextualizá-lo no interior das dinâmicas sociais e econômicas utilizando-se de técnicas qualitativas. O presente estudo aproxima-se, em suas conclusões, dessas abordagens de cunho predominantemente sociológico, estendendo a análise para operacionalizar os construtos teóricos em variáveis que permitem compreender concretamente tais processos.
+
+A fim de testar a hipótese, empreendeu-se um estudo econométrico com regressão linear com dados em painel, mais adiante explicado em detalhes. Para tanto, passou-se a um processo de revisão bibliográfica a fim de identificar quais variáveis têm sido articuladas na literatura para proceder-se à especificação do modelo.
+
+\subsection{Revisão bibliográfica}
+
+A revisão bibliográfica tomou em consideração tanto a literatura sociológica acerca da prisão e seu processo de institucionalização como modelo de resposta ao crime quanto a literatura econométrica voltada a identificar quais os fatores influenciam na variação das taxas de encarceramento.
+
+Alguns autores \cite{Raphael2014} têm apontado que o tamanho da população carcerária de uma nação está em função fundamentalmente de dois diferentes conjuntos de indicadores. O primeiro é a taxa de admissão de indivíduos nas prisões de um estado, o que depende das chances de um indivíduo cometer um crime, e da política criminal adotada por aquele estado (chances de ser preso, chances de ser processado, chances de ser condenado e chances de ser sentenciado com prisão).
+
+O segundo indicador é a taxa de desencarceramento, a qual está associada ao tempo médio da pena e este é definido pelo legislador federal. Acontece que o legislador penal brasileiro não segue necessariamente uma lógica punitiva ou uma lógica de afirmação de direitos. Em sua dissertação de mestrado, \citeonline{CAMPOS2010} constatou a coexistência de dois movimentos gerais na formulação e aprovação da legislação penal.  Um deles que visa a criminalização de condutas e o agravamento das penas e outro orientado a efetivar direitos e garantias de presos.  A política criminal manifestada na legislação penal possui uma relevante carga de aleatoriedade o que dificulta associá-la à alteração dos níveis de encarceramento.
+
+Por esta razão, o presente trabalho concerne mais à taxa de admissão motivada pela política criminal adotada no âmbito de cada estado, vez que os demais aspectos dependem muito da política criminal expressada na legislação penal, que no Brasil é uniformemente aplicada em nível nacional.
+
+Sem desconsiderar as idiossincrasias de cada estado, que serão consideradas no modelo, as taxas de encarceramento parecem estar mais relacionadas na ênfase que cada estado dá para a prevenção ao crime e na capacidade da Justiça Criminal de processar e julgar seus acusados, ou seja, dependeriam muito do nível de institucionalização da justiça e da segurança pública.
+
+\subsubsection{Encarceramento como determinante da criminalidade}
+
+A taxa de encarceramento tem figurado na literatura econométrica mais como variável independente nas tentativas de explicar seu efeito sobre a redução da criminalidade. Esta abordagem foi muito influenciada pelo estudo pioneiro de \citeonline{Becker1968}. \citeonline{Liedka2006} usaram dados de 30 anos nos Estados Unidos para apontar que há uma alta correlação negativa entre encarceramento e criminalidade, mas esta correlação tende a diminuir quando a taxa de encarceramento aumenta. \citeonline{Lofstrom2014} concluem na mesma direção de que a correlação entre crime e encarceramento diminui conforme esta última aumenta, ou seja, o retorno marginal do encarceramento é decrescente.
+
+No entanto, mesmo com a redução da taxa de criminalidade experimentada especialmente nos Estados Unidos na década de 1990 \cite{Blumstein2006}, as taxas de encarceramento continuaram a crescer naquele país em uma escala superior àquela motivada pela guerra contra o crime \cite{Raphael2014b}. Em São Paulo, a década de 2000 conheceu uma queda acentuada nos crimes de homicídio. Tal redução  ocorreu em 500 dos 645 municípios do estado e atingiu a taxa de 66, 7\% \cite{Justus2016,Manso2012}. A despeito disso, as taxas de encarceramento mantiveram-se em ascensão.
+
+\citeonline{Lemgruber2001} abordou também o tema da relação entre aprisionamento e redução do crime para concluir que, mesmo quando se constata uma redução da criminalidade devido ao aumento do número de presos, o custo-benefício é muito baixo para compensar o investimento.
+Dois outros estudos brasileiros, um deles produzido por \citeonline{Nadanovsky_2009} e o outro por \citeonline{AraujoJr2014} trabalharam a relação entre taxa de encarceramento e homicídios. Ambos concluíram no sentido de que o aumento nas taxas de encarceramento tem um efeito dissuasivo na prática de homicídios.
+
+Quanto ao trabalho de \citeonline{AraujoJr2014}, este usou dados do Depen anteriores a 2007, o que, ao nosso ver, compromete os resultados da análise porque vários estados não informaram os números do encarceramento e  há muitos erros nos números informados. É suficiente abrir as planilhas de cada estado nos anos de 2005 e 2006, disponibilizadas no sítio de Depen, para constatar tais imprecisões e subnotificações.
+
+\citeonline{Peres2011} observa que o aumento do encarceramento em São Paulo é constante desde 1996, anterior à queda de homicídios em São Paulo, o que tornaria plausível o seu efeito para a redução nos homicídios. Segundo os autores, entre 1996 e 2001, o aumento na taxa de aprisionamento foi de 39,8\%, sendo que, entre 2001 e 2008, foi da ordem de 35,7\%. Ao reconhecer a contribuição de \citeonline{Nadanovsky_2009} sobre o efeito do encarceramento na redução dos homicídios, os autores citados apontam que \citeonline{Nadanovsky_2009} não  considerou hipóteses alternativas ou considerou homicídios específicos por tipo de arma, idade, sexo e tampouco incluiu em sua análise variáveis de controle. Os autores concluem no sentido de que não é possível sustentar conclusões definitivas do efeito positivo do encarceramento sobre a redução de homicídios.
+
+\subsection{O encarceramento como variável dependente: especificação do modelo}
+
+Quanto aos fatores que determinam o encarceramento, a literatura tem utilizado tanto elementos econômicos, quanto sociodemográficos e ideológicos. Observe-se que mesmo classificadas em grupos distintos, pressupõe-se que a variável ideológica partido do governador interage com a variável econômica gastos públicos, vez que as preferências alocativas de um governo ao longo dos anos possivelmente refletem a ideologia partidária \cite{Rezende1997,Arvate_2008}. A seguir passamos a analisar cada um desses grupos de variáveis e sua relação com as taxas de encarceramento. 
+
+\subsubsection{Variáveis econômicas}
+
+A hipótese de que as taxas de encarceramento dependem da opção dos governos estaduais em priorizar o aparato repressor em desfavor de políticas de redução da desigualdade e de bem-estar social foi operacionalizada nas preferências alocativas dos governos estaduais, ou seja, na  proporção de gastos com o sistema de justiça, de segurança e penitenciário e na proporção de gastos sociais com saúde, educação, assistência social e habitação em relação ao total das despesas orçamentárias empenhadas por função. Os dados foram obtidos dos relatórios fornecidos pelos estados ao Sistema de Informações Contábeis e Fiscais do Setor Público Brasileiro (SICONFI) da Secretaria do Tesouro Nacional.
+
+Além disso, foram incluídos a taxa de desemprego e o índice de GINI, o qual mede o nível de desigualdade. O pressuposto para a inclusão dessas variáveis é a hipótese de que, quanto maior a taxa de desemprego e maior a desigualdade, maiores as taxas de encarceramento.
+
+\subsubsection{Variáveis sociodemográficas}
+
+Seguindo a literatura sobre o tema, optamos por incluir como variáveis a criminalidade. \citeonline{Arvanites1998} estudaram os efeitos das taxas de criminalidade assim como das desigualdades econômicas e raciais nos Estados Unidos sobre o encarceramento, para concluir que crime constitui o principal fator, enquanto que a renda tem parcial efeito e não foi encontrado efeito direto de raça/cor sobre o encarceramento.  Por sua vez, \citeonline{Raphael2014b} concluíram de suas pesquisas que as pessoas de baixa escolaridade, pessoas do sexo masculino e minorias raciais estão sobre representadas nas prisões.
+
+\citeonline{Western2006} publicaram artigo em que relacionam o aumento da população masculina presa com a crescente desigualdade econômica nos anos de 1980 e 1990. A análise examinou detalhadamente o admissão prisional anual por idade, educação e raça. A conclusão foi de que o crescimento significativo na desigualdade em educação teve impacto no aumento do encarceramento. Igualmente, identificaram uma correlação negativa entre emprego e salário nas taxas de encarceramento entre negros naquele país.
+
+A literatura  brasileira que busca explicar a escalada nas taxas de encarceramento  a situa no contexto das transformações e dinâmicas sociais, entremeadas por eventos críticos que as impulsionaram. Autores como \citeonline{Massaro2011} destacam o processo de encarceramento em massa como estratégia de controle das classes mais baixas, entendidas pelas elites como “classes perigosas”. Por sua vez, \citeonline{Barros2012}, partindo para uma análise das consequências e efeitos do encarceramento massivo e menos dos seus aspectos ideológicos, conclui pela ausência de projetos no campo das políticas penitenciárias.
+
+Seguindo a mesma opção de outros autores \cite{Greenberg2001}, foi inserida uma variável sobre as taxas de criminalidade, neste caso, homicídios. O pressuposto é de que estados com altas taxas de criminalidade tendem a fazer maior uso da prisão. A escolha das taxas de homicídio se deu porque, dos dados existentes sobre criminalidade, essas são as mais confiáveis. Ainda assim, o Fórum Brasileiro de Segurança Pública, em seus anuários, tem classificado os estados em três ou quatro grupos, a depender do ano, com base na confiabilidade dos dados.
+
+Na linha de outros trabalhos,\cite{Travis2014}, entendemos necessário incluir variável sobre  raça/cor predominante em determinado estado. Geralmente isso é feito na forma de proporção de brancos em relação a outros grupos (pretos, pardos e indígenas). No entanto, ao estudar as diferentes formas de operacionalizar esta variável, duas possibilidades surgiram. Uma delas seria usar os dados do senso e da PNAD do IBGE ou identificar a participação por cor e raça nos cargos públicos de direção em cada estado. Obtivemos tanto os dados da relação anual de informações sociais (RAIS) do Ministério do Trabalho, quanto os dados sobre juízes do censo do CNJ.
+
+Outra opção seria usar as diferentes participações raciais entre os estados na composição da magistratura. Esta opção nos pareceu mais adequada, pois esses dados concretizam melhor a hipótese de que quanto mais homogênea em termos raciais for a elite, maiores as taxas de encarceramento dos grupos minoritários. Minorias entendidas não numericamente, mas como aqueles grupos com menos posições de poder na sociedade, neste caso, no sistema de justiça.
+
+
+\subsubsection{Variáveis ideológicas}
+
+Vários autores \cite{Raphael2014,Greenberg2001} optam por inserir uma variável indicando diferenças ideológicas entre as unidades (estados, condados, países), assumindo que conservadores são mais punitivos que liberais. Optou-se por inserir uma variável sobre identificação ideológica, entendida como como a auto-localização no contínuo direita-esquerda. 
+
+Segundo \citeonline[p.43]{Singer1998}, "a identificação ideológica é a adesão a uma posição no contínuo esquerda-direita ou liberal-conservador que, mesmo sendo difusa, isto é, cognitivamente desestruturada, sinaliza uma orientação política geral do eleitor". Segundo o mesmo autor, a identificação ideológica pode ser vista como uma predisposição de longo prazo e opera como um valor central na escolha de um presidente. No mesmo sentido, \citeonline{Yan2002} conclui que há um componente ideológico na escolha no modelo que pretenda compreender o comportamento político.
+
+O Latinobarômetro inclui entre as perguntas de seu questionário a identificação ideológica da pessoa, pela qual se escolhe um número de uma escala que varia de um a dez. Sendo um e dois claramente de esquerda e nove e dez claramente de direita. Preferimos não utilizar esses dados porque o Latinobarômetro utiliza apenas um item de escala Likert para medir a identificação ideológica, quando a literatura orienta para ao menos cinco itens para formar uma escala como esta \citeonline{Likert1932}.
+
+Para a construção da variável ideológica partidária, obteve-se junto ao Tribunal Superior Eleitoral os partidos dos governadores nos dois períodos que compreendem essa pesquisa, ou seja, 2007 a 2010, 2011 a 2014. A literatura geralmente classifica os partidos, conforme a ideologia, em cinco ou sete pontos, sendo um extrema esquerda e sete extrema direita \cite{Tarouco_2015}. Por razões metodológicas \cite{Arvate_2008}, optamos por dicotomizar os partidos entre esquerda e direita. Sendo que os partidos do Centro, PSDB e PMDB foram posicionados à direita.
+
+A ideologia também pode ser medida nas opções políticos criminais, o que pode ser identificado tanto a legislação penal quanto na política de repressão às drogas. Acontece que, mesmo sendo o Brasil uma federação, assim como México, Argentina e Estados Unidos, diferentemente desses países a política criminal e penitenciária brasileira, ao menos do ponto de vista normativo-legislativo, é estabelecida em âmbito nacional a partir do Ministério da Justiça e do Congresso Nacional. Isso dificulta inserir numa análise comparada entre estados tomando em conta a política criminal expressada na legislação penal. 
+
+Na linha de \citeonline{Raphael2014b}, optamos por incluir o percentual de encarceramento sobre drogas como proxy  para a política punitiva do estado. \citeonline{Raphael2014b} estimaram que entre 1984 e 2004, políticas de drogas mais severas contribuíram para um quinto do crescimento da população prisional estadual nos EUA e cerca de metade do crescimento da população prisional nas prisões federais. Isso está com consonância com a variação das taxas de encarceramento por drogas tanto nos anos objeto deste estudo, quanto entre os estados. Em alguns estados, o encarceramento não passa de 10\%, em outros chega a 40\% do total da população presa. Até 2006,  o percentual de presos por drogas no Brasil não passava de 10\%.
+
+\section{Limitações em relação aos dados}
+
+Não foi possível obter informações sobre taxa de encarceramento anteriores a 2007. O Depen começou a coletar dados penitenciários dos estados a partir de 2005 e nos dois primeiros anos, muitos dados foram mal preenchidos e estiveram faltantes, de modo que qualquer análise que considere os anos anteriores a 2007 estará utilizando dados subnotificados. Mesmo após 2007, alguns estados, e.g., Rio de Janeiro e Ceará, não forneceram dados sobre o número de presos para alguns crimes e, no caso do Rio de Janeiro, este estado em alguns anos  nem sequer forneceu seus números. Em alguns casos, há discrepâncias tão grandes nos números de um ano ou de um semestre para outro, que pairam dúvidas sobre verosssimilhança dos dados. 
+
+Acontece que o processo de encarceramento em massa pelo qual passam alguns estados brasileiros teve início na década de 1990 \cite{Pastana2007}, de modo que, ante a ausência dos números desse período, dificilmente teremos condições de analisar, do ponto de vista quantitativo, o que disparou o encarceramento em massa.
+
+Quanto às variáveis independentes, os dados obtidos do Tesouro Nacional sobre as despesas públicas não estão desagregados suficientemente para permitir separar no sistema de justiça o que foi gasto com defensoria pública ou outras despesas que não contribuem com a persecução criminal.
+Ao escrutinar os dados sobre encarceramento desagregados por crime, é fácil ver que há significativas discrepâncias nas informações sobre presos por tráfico de drogas, e.g., o Rio Grande do Sul mantêm uma média de 8500 presos por drogas nos últimos anos, mas somente em 2013, esse número salta para 13000. Situação similar ocorre com o dados do Ceará e do  Rio de Janeiro, Pará e  Minas Gerais.
+
+Por fim, preferimos limitar a coleta de dados sobre criminalidade aos homicídios compilados pelo Fórum Brasileiro de Segurança Pública (FBSP) porque os demais dados não são confiáveis. Assim mesmo, o FBSP classifica os estados em três grupos segundo à qualidade dos dados sobre homicídio.
+
+\section{Considerações sobre o método}
+
+O estudo consiste de duas etapas, uma exploratória e outra inferencial. Na primeira etapa, faz-se uso de técnica de análise de componentes principais, ACP ou PCA, na sigla em inglês, para visualizar a relação entre as variáveis. PCA é uma técnica de análise multivariada de uma tabela de dados em que as observações são descritas por uma série de variáveis quantitativas correlacionadas \cite{Abdi_2010,Husson2010}. 
+
+Seu objetivo é extrair informações importantes da tabela e representá-las em novo conjunto de variáveis dispostas ortogonalmene, ou seja, não correlacionadas entre si. Essa transformação das variáveis em componentes principais ocorre de modo que o primeiro componente explica a maior variância dos dados. Tanto as variáveis quanto as observações individuais podem ser projetadas num mapa conhecido como biplot, o qual revela padrões de similaridades entre as variáveis e as observações. 
+
+PCA é geralmente utilizada como técnica de redução de dimensionalidade, ou seja, diante de um grande número de variáveis correlacionadas entre si, busca-se reduzi-las a um menor número de componentes, não correlacionados entre si, e que explicam parte significativa da variação. Nosso objetivo aqui é, na verdade, utilizar PCA para visualizar a disposição das variáveis num biplot a fim de identificar geograficamente a relação  entre, de um lado, taxa de encarceramento e percentual de presos provisórios e, de outro, investimento em justiça, investimento em segurança e as demais variáveis quantitativas.
+
+Para efeitos de melhor visualização, serão somente utilizados os dados de 2014, vez que os resultados são similares para os dados de todos os anos. As variáveis utilizadas para a análise de componentes principais foram os gastos com o Judiciário, gastos com as funções de segurança pública, percentual de votos no PSDB (em oposição ao PT), percentual de presos provisórios, percentual de mulheres presas. Para assegurar melhor performance na análise, os dados foram preprocessados usando transformação Box-Cox e normalização.
+
+Uma vez realizada a análise exploratória, passa-se à análise de regressão linear com dados em painel. Dados em painel, também conhecidos como dados longitudinais, são dados em que múltiplos casos (países, estados, pessoas, empresas etc) são observados ao longo do tempo, como se pode observar da figura 3 abaixo. Dois modelos foram rodados, um com efeitos fixos e outro com efeitos aleatórios.  A diferença básica entre os dois modelos é que se as particularidades não observadas dos estados, tais como o tamanho do estado, as quais são constantes ao longo dos anos, estão correlacionadas com as variáveis explicativas, a abordagem de efeitos fixos é mais apropriada porque as \textit{dummies} dos estados absorvem tais particularidades. 
+
+Por outro lado, se a heterogeneidade individual não está correlacionada com as variáveis explicativas, o modelo a ser utilizado é o de efeitos aleatórios. Foi utilizado o programa de análise estatística R. Para fins de replicabilidade, segue no no rodapé\footnote{https://github.com/jjesusfilho/tese} o link para acesso à tese a todos os scripts  pelo qual se pode acessar os dados e rodar tanto as estatísticas descritivas quanto a regressão com dados em painel.
+
+\section{Análise Exploratória}
+
+Os mapas (\autoref{fig:tmap}) mostram o encarceramento (por cem mil habitantes) nos estados brasileiros sob três diferentes aspectos: taxa de encarceramento, percentual de presos provisórios e percentual de mulheres presas.
+
+\begin{figure}[!htbp]
+\caption{Mapas do Brasil segundo a taxa de encarceramento, o percentual de presos provisórios, o PIB per capita e o partido do governador}
+\label{fig:tmap}
+\centering
+\includegraphics{figure/tmap1.pdf} 
+\includegraphics{figure/tmap2.pdf}
+\RaggedRight{\source{Fontes: Ministério da Justiça, Justiça eleitoral e Tesouro Nacional}}
+\end{figure}
+
+Os estados foram agrupados segundo a técnica k-means, a qual permite uma melhor classificação dos grupos conforme suas proximidades em termos de média. Numa primeira aproximação visual, é possível verificar que o grupo de estados que apresenta alta taxa de encarceramento, em contraste, possui um percentual moderado de presos provisórios. Esses são os estados de São Paulo, Mato Grosso do Sul, Rondônia e Acre. Por outro lado, estados com baixo número relativo de presos, como Bahia, Piauí, Maranhão, Amazonas, Amapá, Mato Grosso e Pará, comportam um alto percentual de presos provisórios.
+
+Quanto ao aspecto ideológico, aqui operacionalizado em uma tendência a votar na eleições governamentais em partidos da direito ou da esquerda, os eleitores dos estados com maiores taxas de encarceramento votaram maiormente na direita no segundo turno das eleições estaduais desde 2002.
+
+\subsection{Visualização por meio da Análise de Componente Principal e biplot}
+
+Para a visualização no Biplot foram tomados somente os dados de 2014, vez que não há diferenças significativas nas correlações entre variáveis quando considerada a base completa ou somente a do ano de 2014. A  visualização com dados de todos os anos deixa gráfico poluído sem oferecer diferença relevante para fins de análise exploratória. Além disso, tomaram-se em conta somente a relação entre as variáveis econômicas, as taxas de encarceramento  e o percentual de presos provisórios.  As demais variáveis apenas ingressam no modelo de regressão para controle das variáveis econômicas.
+
+O biplot, \autoref{fig:pca},  consiste num mapa em que estão representados tanto as variáveis  quanto os estados. Apenas os componentes um e dois, que representam 57\% da variância, estão representados visualmente no biplot. O eixo horizontal é o componente um e o eixo vertical é o componente dois. As variáveis são representadas pelas setas. 
+
+\begin{figure}[!htbp]
+\caption{Mapa das variáveis e observações}
+\label{fig:pca}
+\centering
+\hspace{-2cm}
+\includegraphics{figure/pca.pdf} 
+\end{figure}
+
+\subsection{Interpretação do gráfico}
+
+O biplot é algo similar ao gráfico de dispersão, porém multivariado. O comprimento das flechas indica quão bem a variável está projetada no plano de dois componentes. A proximidade da variável a um eixo indica sua correlação com aquele eixo. Igualmente, a proximidade de uma variável a outra,  ângulo menor que 90 graus,  indica correlação positiva, ao passo que sua oposição, ângulo entre 90 e 180 graus, indica correlação negativa. 
+
+A ortogonalidade, 90 graus, das variáveis indica ausência de correlação. Por exemplo, aparentemente a proporção de gastos com funções sociais parece pouco relacionada com as taxas de encarceramento, visto sua  aparente ortogonalidade. Ao passo que o percentual de presos provisórios parece estar em relação de oposição, correlação negativa com as taxas de encarceramento. Os estados se agrupam conforme sua proximidade a uma variável. É fácil ver que São Paulo, Roraima, Acre, Rondônia, Paraná e Santa Catarina mantêm uma alta taxa de encarceramento, enquanto que os estados do Nordeste mantêm uma baixa taxa de encarceramento e um alto percentual de presos provisórios.
+
+O biplot é útil para visualização e para o levantamento de hipóteses. Para avaliar a influência de uma variável sobre a taxa de encarceramento é necessário proceder à regressão, vez que esta permite verificar o efeito de uma variável independente sobre a dependente, mantendo as demais variáveis independentes constantes, \textit{ceteris paribus}.
+
+\section{Modelo de Regressão Linear com dados em painel para as taxas de encarceramento}
+
+Para a análise inferencial foram rodados modelos de regressão linear com dados em painel ou longitudinais, ou seja, dados cujas observações variam no tempo e no espaço. Nossos dados variam no tempo: de 2007 a 2014, e no espaço: unidades federativas. Há uma série de vantagens na utilização de dados em painel. Uma das mais importantes é a possibilidade de eliminar o efeito de variáveis não observadas, mas que são constantes no tempo \cite{Stock2011}, assumindo que elas foram absorvidas pelas unidades de análise, no nosso caso, as unidades federativas. Por exemplo, de acordo com o presente  estudo, possíveis diferenças culturais sobre a melhor forma de resposta ao crime já estão absorvidas pelas \textit{dummies} dos estados.  Além disso,  dados em painel permitem melhor acurácia na inferência dos parâmetros, vez que confere ao pesquisador um maior número de observações, aumentando os graus de liberdade e reduzindo a colinearidade entre as variáveis explicativas\cite{Hsiao2014}.
+
+Sete modelos foram rodados. Os dois primeiros são respecivamente com efeitos fixos e efeitos aleatórios incluindo todas as variáveis explicativas. O terceiro e o quarto excluem as variáveis GINI e Desemprego. O quinto e o sexto consideram a autocorrelação espacial e o sétimo a autocorrelação temporal.
+
+O  estimador de efeitos fixos ou \textit{whitin}  considera a variação  no tempo de cada unidade (estado) e, por sua vez, permite que os efeitos específicos de uma delas, que não variam no tempo, sejam absorvidos pelas \textit{dummies} dos estados. Esse estimador assume que tais fatores estão correlacionados com as demais variáveis. A limitação é que fatores  invariantes no tempo, tais como ideologia, são ignoradas pelo modelo. 
+
+O segundo estimador considerado será o de efeitos aleatórios, o qual assume que as especificidades de cada estado não estão correlacionadas com os demais regressores \cite{Loureiro2009, Greene2010,Wooldridge2015}. Acontece que, se o pressuposto de que as especificidades não estão correlacionadas com as demais variáveis for violado, o estimador de efeitos aleatórios mostra-se inconsistente. Já o estimador de efeitos fixos não possui essa limitação. A vantagem do estimador de efeitos aleatórios é de que, se conhecemos características dos estados que não variam no tempo, elas podem ser introduzidas no modelo \cite{Clarke2010}. Isso não pode ser feito no estimador de efeitos fixos. Porém este último não sofre de inconsistência. Assim, para testar se o modelo de efeitos aleatórios é apropriado, utilizaremos um teste que verifica sua consistência em relação ao de efeitos fixos: teste de Hausmann.
+
+\begin{quadro}
+\caption{Variáveis utilizadas no modelo}\label{quadro:codebook}
+
+<<results="asis",echo=F,message=F>>=
+base<-readRDS("~/R/TESE/expansao/base.rds")
+ztable(base$codebook,
+       include.rownames=F,
+       tabular=T,
+       align="C{3cm}|C{4cm}|C{2cm}|C{6cm}",
+       booktabs=T)
+
+@
+\end{quadro}
+
+\begin{table}
+\caption{Estatísticas descritivas das variáveis numéricas}\label{tab:summary}
+<<results="asis",echo=F,message=F>>=
+base$descricao<-as.data.frame(base$descricao)
+ztable(base$descricao,
+       include.rownames=F,
+       tabular=T,
+       align="C{3cm}|C{2cm}|C{2cm}|C{2cm}|C{2cm}|C{2cm}",
+       booktabs=T)
+
+@
+
+\end{table}
+
+\section{Regressão com dados em painel}
+
+Para a regressão com dados em painel, propomos em a seguinte fórmula e respectivos modelos conforme propostos por  \citeonline{plm} e  \citeonline{splm}. O primeiro modelo (mod1) utiliza todas as variáveis para efeitos fixos. O segundo modelo (mod2) faz o mesmo para efeitos aleatórios. Do terceiro modelo em diante, as variáveis gini e desem (desemprego) são excluídas. Os modelos três (mod3) e quatro (mod4) são respectivamente com efeitos fixos e com efeitos aleatórios, porém sem as variáveis mencionadas. Uma vez que há autocorrelação espacial, ou seja, estados contíguos tendem a se comportar de forma similar, optamos por rodar dois modelos, de efeitos fixos e de efeitos aleatórios respectivamente, incluindo uma matriz de contiguidade dos estados no modelo. Isso é possível por meio do pacote splm do R \cite{splm}. Por fim, o último modelo roda efeitos aleatórios com uma estrutura e autocorrelação de ordem 1.
+
+
+<<echo=F,message=F,background="white",comment="%">>=
+
+cat("formula=log(taxaEnc) ~ log(perc.jus.seg) + log(perc.social) +
+log(taxa.homicidio) + desem + 
+    gini + ideo.dummy + juizes.brancos")
+
+cat("Com os seguintes modelos:")
+
+cat("#Modelo de efeitos fixos:")
+cat('mod1<-plm(formula=formula,data=base,index=c("sigla","ano")
+    ,method="within")')
+
+cat("#Modelo de efeitos aleatórios:")
+cat('mod2<-plm(formula=formula,data=base,index=c("sigla","ano")
+    ,method="random")') 
+
+cat("#Modelo de efeitos fixos:")
+cat('mod3<-plm(formula=(update(formula,~.-gini-desem),data=base,
+    index=c("sigla","ano"),method="within")')
+
+cat("#Modelo de efeitos aleatórios:")
+cat('mod4<-plm(formula=(update(formula,~.-gini-desem),data=base,
+    index=c("sigla","ano"),method="random")') 
+
+cat("#Modelo de efeitos fixos com dados em painel espaciais:")
+cat('mod5<-spml(formula=update((update(form4,~.-gini-desem),~.,
+-juizes.brancos),data=base,index=c("sigla","ano"),
+    model="within",listw=s)') 
+
+cat("#Modelo de efeitos fixos com dados em painel espaciais:")
+cat('mod6<-spgm(formula=(update(form4,~.-gini-desem),data=base,
+index=c("sigla","ano"),
+    model="within",listw=s)') 
+
+
+@
+
+Algumas variáveis estavam com distribuição assimétrica e isso tornava os resíduos heteroscedásticos. Por essa razão, optamos por usar o log  conforme indicado na fórmula. Um vez que o coeficiente de GINI e a taxa de desemprego resultaram com sinais negativos, contrariamente ao esperado, optamos por rodar alguns modelos sem essas duas variáveis. Os resultados estão dispostos na \autoref{tab:coeficientes}
+
+\begin{table}
+\caption{Modelos de regressão com dados em painel}
+\begin{center}
+\begin{tabular}{l c c c c c c c }
+\hline
+ & Mod1 & Mod2 & Mod3 & Mod4 & Mod5 & Mod6 & Mod7 \\
+\hline
+log(perc.jus.seg)   & $0.21^{*}$    & $0.19^{*}$    & $0.23^{*}$ & $0.21^{*}$   & $0.22^{**}$  & $0.21^{**}$  & $0.22^{*}$   \\
+               & $(0.09)$      & $(0.09)$      & $(0.09)$   & $(0.09)$     & $(0.07)$     & $(0.08)$     & $(0.09)$     \\
+log(perc.social)    & $-0.25$       & $-0.16$       & $-0.27$    & $-0.16$      & $-0.01$      & $0.03$       & $-0.18$      \\
+               & $(0.18)$      & $(0.17)$      & $(0.19)$   & $(0.18)$     & $(0.14)$     & $(0.15)$     & $(0.18)$     \\
+(logtaxa.homicidio) & $0.21$        & $0.16$        & $0.05$     & $0.02$       & $0.03$       & $0.02$       & $0.02$       \\
+               & $(0.14)$      & $(0.12)$      & $(0.14)$   & $(0.12)$     & $(0.12)$     & $(0.11)$     & $(0.12)$     \\
+log(drogasPerc)     & $0.03$        & $0.04$        & $0.04$     & $0.05$       & $-0.03$      & $-0.03$      & $0.05$       \\
+               & $(0.03)$      & $(0.03)$      & $(0.03)$   & $(0.03)$     & $(0.02)$     & $(0.02)$     & $(0.03)$     \\
+gini           & $-1.79^{***}$ & $-1.74^{***}$ &            &              &              &              &              \\
+               & $(0.35)$      & $(0.35)$      &            &              &              &              &              \\
+desem          & $-0.03^{**}$  & $-0.02^{*}$   &            &              &              &              &              \\
+               & $(0.01)$      & $(0.01)$      &            &              &              &              &              \\
+ideo.dummyE    & $0.00$        & $0.00$        & $0.01$     & $0.01$       & $0.05$       & $0.05$       & $0.01$       \\
+               & $(0.04)$      & $(0.04)$      & $(0.04)$   & $(0.04)$     & $(0.03)$     & $(0.03)$     & $(0.04)$     \\
+juizes.brancos &               & $0.01$        &            & $0.01^{*}$   &              & $0.02^{*}$   & $0.01$       \\
+               &               & $(0.01)$      &            & $(0.01)$     &              & $(0.01)$     & $(0.01)$     \\
+(Intercept)    &               & $5.16^{***}$  &            & $4.13^{***}$ &              & $3.49^{***}$ & $4.21^{***}$ \\
+               &               & $(0.92)$      &            & $(0.93)$     &              & $(0.87)$     & $(0.96)$     \\
+\hline
+R$^2$ Full     & 0.92          & 0.91          & 0.91       & 0.89         & 0.90         & 0.13         &              \\
+R$^2$ Proj     & 0.18          & 0.17          & 0.05       & 0.07         &              &              &              \\
+Adj. R$^2$     & 0.03          & 0.14          & -0.11      & 0.04         &              &              &              \\
+Num. obs.      & 216           & 216           & 216        & 216          &              &              &              \\
+logLik         &               &               &            &              &              & 34.69        & 3.66         \\
+AIC            &               &               &            &              &              & -49.38       & 14.68        \\
+BIC            &               &               &            &              &              & -15.62       & 51.45        \\
+Pseudo-R$^2$M  &               &               &            &              &              &              & 0.15         \\
+Pseudo-R$^2$C  &               &               &            &              &              &              & 0.98         \\
+\hline
+\multicolumn{8}{l}{\scriptsize{$^{***}p<0.001$, $^{**}p<0.01$, $^*p<0.05$}}
+\end{tabular}
+\label{tab:coeficientes}
+\end{center}
+\end{table}
+
+\subsection{Diagnóstico dos modelos}
+
+A \autoref{tab:testes} mostra o resultados dos testes para verificação dos pressupostos. A interpretação de cada um dos testes consta da própria tabela. Como há heterosquedacidade, reportamos erros robustos. 
+
+\begin{table}
+\caption{Teste de verificação de pressupostos para dados em painel}\label{tab:testes}
+
+<<results="asis",echo=F,message=F>>=
+diagnostico<-readRDS("~/R/TESE/expansao/diagnostico.rds")
+ztable(diagnostico,
+       include.rownames=F,
+       tabular=T,
+       align="C{4cm}|C{3cm}|C{2cm}|C{2cm}|C{4cm}",
+       booktabs=T)
+
+@
+
+\end{table}
+
+\subsection{Interpretação dos resultados}
+
+De acordo com os resultados, em todos os modelos há um significativo efeito do investimento no sistema de persecução penal sobre as taxas de encarceramento (perc.jus.seg). Uma vez que foi usado log tanto nas variáveis independentes quanto nas variáveis dependentes, interpreta-se que 1\% (um) porcento na variação dos gastos com justiça e segurança importariam em 0,21\%, na média dos modelos, na variação das taxas de encarceramento. Essa variação é modesta, mas indica que efetivamente as taxas de encarceramento são afetadas pelo investimento no sistema repressivo. 
+A despeito de não ser significativo, o sinal dos gastos com políticas sociais é negativo, indicando aquilo que vimos no \autoref{fig:pca}, no sentido de que as taxas de encarceramento estão relacionadas com a falta de priorização em gastos sociais em favor de gastos com repressão.
+
+Mas isso não significa que quanto menores os gastos sociais, maiores as taxas de encarceramento. Ao nosso ver, há apenas uma relação de priorização aqui. Isso se confirma pelos resultados com desemprego e o índice de Gini. O índice de Gini apareceu significativo no sentido oposto ao que geralmente se espera, ou seja, quanto maior a desigualdade social, maior a pressão por encarceramento. Na verdade, os resultados indicam que quanto maior a desigualdade, menores as taxas de encarceramento. Isso pode ser explicado por outra ordem de raciocínio. Provavelmente, as taxas de encarceramento são maiores nos estados mais ricos e que apresentam menores índices de Gini justamente devido ao grau de desenvolvimento econômico. 
+
+Aparentemente, esses resultados sugerem que há uma relação entre desenvolvimento econômico, que não se confunde com desenvolvimento civilizatório, e taxas de encarceramento. Nesse sentido, o Brasil está muito próximo dos Estados Unidos e da Rússia, com altas taxas de encarceramento, e distante de países escandinávicos, onde o desenvolvimento econômico acompanha o desenvolvimento civilizatório. Estados pobres não investem no encarceramento porque isso tem um custo alto. No entanto, é possível prever, segundo essa linha de raciocínio, que futuramente estados do Nordeste, na medida em que desenvolvam economicamente, elevem o encarceramento. Por outro lado, observamos atualmente que há países desenvolvidos economicamente, mas que superaram a lógica do encarceramento e apostam em alternativas à prisão e na justiça restaurativa, tais como Holanda e Noruega. 
+
+Em relevante artigo, \citeonline{Deady2014} resume os fatores, apontados por especialistas, que têm conduzido países como os Estados Unidos, incluímos aqui o Brasil, a manter altas taxas de encarceramento. Entre as razões estão as penas obrigatórias, tais como aquelas previstas na lei dos crimes hediondos, longos anos de guerra às drogas, altas taxas de criminalidade, um sistema de justiça criminal altamente politizado e falta de uma rede social segura, assim como, a reincidência. A autora estende a análise para comparar os Estados Unidos com países escandinávicos. Segundo ela, nestes últimos, o uso da prisão é menos frequente e, ainda assim, quando usada, os tempos são curtos. Há também extensivo uso de meios de cumprimento de pena em liberdade, como \textit{probation}, prestação de serviços à comunidade.
+
+Se associarmos essas conclusões da autora com os resultados do presente trabalho, é possível sugerir que os países, e estados brasileiros, podem ser classificados em três estágios de resposta ao crime. Um primeiro em que a informalidade e, em certa medida, o arbítrio, predominam na resposta ao crime. Isso é possível observar em alguns estados do Nordeste, como Maranhão, Piauí e Bahia, onde a estrutura da segurança e da justiça é insuficiente e há pouca institucionalidade. Isso explicaria os altos percentuais de presos provisórios nesses estados, mesmo que ostentem baixíssimas taxas de encarceramento. Isso explicaria as frequentes ocorrências de linchamento (embora não tenhamos dados seguros sobre isso). 
+
+Num segundo estágio estão estados em que a superação do arbítrio se dá pelo investimento massivo na Justiça e na segurança, como ocorre em vários estados Brasileiros, como São Paulo, Minas Gerais e, principalmente, Pernambuco, onde, neste último caso, o Pacto pela Vida tem resultado em altas taxas de encarceramento. A política de guerras às drogas provavelmente foi um motivador deste investimento massivo em segurança e justiça, mas isso não ficou evidenciado nos resultados. O número de anos é muito pequeno, o que afeta significativamente a análise, já que a política de guerra às drogas nasceu muito antes do período analisado. Nesses estados, ou países, o uso intensivo da prisão exclui praticamente todas as demais formas de resposta ao crime, tanto as  menos eficientes e cruéis, como a justiça das massas, quanto as mais sofisticadas, como as medidas de cumprimento de pena em meio aberto.
+
+Por fim, haveria um terceiro grupo de países, nos quais o uso de formas mais efetivas, menos custosas e menos violentas de resposta ao crime tomam lugar, tais como mecanismos de justiça restaurativa e o cumprimento de medidas penais em meio aberto. Os países escandinávicos são exemplos desses locais onde a prisão como principal resposta ao crime ficou no passado. 
+
+Com relação às diferenças entre os estados brasileiros, elas levantam o debate, já mencionado acima, do  velho argumento iluminista de que prisão uniformiza a resposta ao crime e reduz o espaço para o arbítrio, ou seja, ela impede opções extremas como o linchamento ou mesmo a ausência de resposta social ou do Estado. 
+
+No entanto, quando observamos a correlação entre taxa de encarceramento e criminalidade no Brasil, esta não nos autoriza a inferências confiáveis, ou seja, mesmo após quase dois séculos de existência da prisão, não é possível afirmar que o aumento do encarceramento afeta ou é afetado pela criminalidade, impõe-se questionar quais as  razões do crescimento do aprisionamento em algumas regiões do país.
+
+Uma possível resposta é que a existência da prisão funda-se mais numa orientação política de autoridades públicas socialmente legitimadas para investir no encarceramento, independentemente da real capacidade desta instituição de reduzir o crime. Pressões de audiências sociais, especialmente da mídia, por respostas enérgicas a crimes de rua (roubo, furto, receptação, tráfico de drogas) e homicídios em face da disseminação da sensação de insegurança possivelmente figuram como importante fator no maior ou menor investimento em segurança e em justiça. A prisão parece ser mais bem uma instituição social catalizadora de insatisfações sociais com relação à segurança pública, mas resta inconclusiva qualquer declaração acerca de sua capacidade de reduzir a criminalidade.
+
+Os resultados revelam que a aposta na repressão tem papel decisivo como instrumento do Estado Penal. A crítica ao encarceramento em massa geralmente aponta como suas causas a aposta nos aparatos da segurança e do sistema penitenciário. No entanto, a participação do sistema de justiça, especialmente do Judiciário, nas taxas de encarceramento é possivelmente a mais efetiva, mas negligenciada. Quando recordamos que é este quem detêm o controle tanto do ingresso de novos presos quanto da saída desses do sistema prisional, os resultados aqui apresentados fazem pleno sentido e conduzem o problema do encarceramento para uma nova direção. O Judiciário tem um papel decisivo no encarceramento e os governos conservadores perceberam isso.
+
+O fortalecimento do Judiciário como instrumento da política punitiva tem dado a tônica do encarceramento em massa. O encarceramento em massa não é somente um problema de segurança, mas também um problema de justiça. A polícia cumpre eficazmente o seu papel seletivo-repressor, o perfil da população presa é formado maioritariamente por jovens, negros, provenientes da periferia dos grandes centros urbanos, pouco alfabetizados e perpetradores da criminalidade de massa, trabalhadores do mercado informa \cite{Sinhoretto2013}.  São trabalhadores do mercado informal e precarizado, que praticam a criminalidade de rua, roubo, furto e tráfico no varejo, para atender a necessidades básicas não supridas por políticas sociais. 
+
+No entanto, ao contrário de assumir uma postura garantista contra a seletividade da segurança pública, o Judiciário atua em favor do agravamento da política punitiva por meio das conversões de prisões em flagrante em prisões provisórias, baixa aplicação de alternativas penais e impondo obstáculos à antecipação da liberdade, e.g, reduzindo o número de  concessões de livramento condicional, progressão de regime, indulto ou comutação de pena. A alocação de recursos para equipar os aparatos da justiça e da segurança em detrimento das políticas sociais faz parte das estratégias das políticas neoconservadoras destinadas a controlar a miséria por meio da política penal \cite{Wacquant2001,Kilduff2010}.
+
+ 
+
