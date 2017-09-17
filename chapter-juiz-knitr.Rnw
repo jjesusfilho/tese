@@ -119,7 +119,7 @@ A \autoref{tab:civil}  e a \autoref{fig:mpdf} mostram  os números e o percurso 
 \label{fig:mpdf}
 
 <<echo=F,message=F>>=
-base<-readRDS("~/R/TESE/custodia/mp_dp.rds")
+base<-readRDS("custodia/mp_dp.rds")
 extracat::scpcp(base[c(5,3,4)],sel="requerente=='Defensoria Pública'",sel.palette = "d")
 @
 \end{figure}
@@ -195,7 +195,7 @@ A seguir apresentamos algumas estatísticas descritivas.  A \autoref{fig:var1} m
 
 <<echo=FALSE, fig.width=10>>=
 library(extracat)
-variaveis<-readRDS("~/R/TESE/custodia/custodia_variaveis.rds")
+variaveis<-readRDS("custodia/custodia_variaveis.rds")
 scpcp(variaveis[c("decisao","camara","impetrante","primariedade","ordemPublica","instrucaoCriminal","aplicacaoLei")],sel="decisao=='concedido'",base.colour = alpha("black",0.9),sel.palette = "d")
 @
 \end{minipage}
@@ -317,9 +317,10 @@ Na \autoref{tab:modelos} colocamos dois resultados de regressão logística bin�
 library(lattice)
 library(caret)
 library(gridExtra)
-glm<-readRDS("~/R/TESE/custodia/glm_models.rds")
+library(C50)
+glm<-readRDS("custodia/glm_models.rds")
 
-c50<-readRDS("~/R/TESE/custodia/c50.rds")
+c50<-readRDS("custodia/c50.rds")
 plot1<-plot(varImp(glm[[2]],scale=F, main="Logit"))
 plot2<-plot(varImp(c50,scale=F,main="Boosting"))
 # print(plot1,position = c(0, 0, 1, 2),more=TRUE)
@@ -406,7 +407,7 @@ A \autoref{lab:similaridade} compara os textos com decisões sobre audiência de
 
 <<results='asis',echo=F,message=F>>=
 library(xtable)
-similaridade<-readRDS("~/R/TESE/custodia/similaridade.rds")
+similaridade<-readRDS("custodia/similaridade.rds")
 t<-xtable(similaridade,
           caption="Scores de similaridade dos textos dos acórdãos sobre audiência de custódia em casos de tráfico de drogas\\label{lab:similaridade}",
           label="tab:similaridade",
@@ -499,7 +500,7 @@ A \autoref{fig:var3} mostra o caminho dos agravos, agrupados em feixes, pelas va
 
 <<echo=FALSE, fig.width=10>>=
 library(extracat)
-base_exec<-readRDS("~/R/TESE/execucao/base_em_01_01.rds")
+base_exec<-readRDS("execucao/base_em_01_01.rds")
 scpcp(base_exec[c(1,3,4,7,2,5,6)],sel="decisao=='provido'",base.colour = alpha("black",0.9),sel.palette = "d")
 @
 \end{minipage}
@@ -512,7 +513,7 @@ scpcp(base_exec[c(1,3,4,7,2,5,6)],sel="decisao=='provido'",base.colour = alpha("
 
 <<echo=FALSE, fig.width=10>>=
 library(extracat)
-base_execD<-readRDS("~/R/TESE/execucao/execucao_defesa.rds")
+base_execD<-readRDS("execucao/execucao_defesa.rds")
 scpcp(base_execD,sel="decisao=='provido'",base.colour = alpha("black",0.9),sel.palette = "d")
 @
 \end{minipage}
@@ -526,7 +527,7 @@ A \autoref{fig:decisao_exec} revela a relevância do Ministério Público na dec
 
 <<echo=FALSE,message=FALSE>>=
 
-execucao<-readRDS("~/R/TESE/execucao/base_completa_para_regressao.rds")
+execucao<-readRDS("execucao/base_completa_para_regressao.rds")
 
 df_agr<-execucao %>% dplyr::count(agravante,orgao_julgador,decisao)
 
@@ -555,7 +556,7 @@ Dos 215 casos providos, foi possível prever corretamente 164 deles. Dos 443 cas
 
 
 <<echo=F,tidy=TRUE,out.width=0.5>>=
-cm<-readRDS("~/R/TESE/execucao/confusion_matrix.rds")
+cm<-readRDS("execucao/confusion_matrix.rds")
 print(cm[[4]])
 print(cm[[5]])
 print(cm[[6]])
@@ -569,11 +570,10 @@ A \autoref{fig:importancia2} mostra a importância das variáveis, o que torna e
 \captionof{figure}[Importância das variáveis - Execução Penal]{Importância das variáveis (classificadores C.50 (Boosting) e Floresta aleatória) sobre acórdãos do TJSP}
 
 <<results='asis',echo=FALSE,message=FALSE>>=
-
-importancia<-readRDS("~/R/TESE/execucao/importancia.rds")
+importancia<-readRDS("execucao/importancia.rds")
 plot1<-plot(varImp(importancia[[1]],scale=F),main="Árvore de decisão C5.0",xlab="Importância")
 plot2<-plot(varImp(importancia[[2]],scale=F),main="Floresta Aleatória",xlab="Importância")
-grid.arrange(plot1,plot2,ncol=2,widths=c(10,10))
+gridExtra::grid.arrange(plot1,plot2,ncol=2,widths=c(10,10))
 @
 \label{fig:importancia2}
 \end{minipage}
@@ -593,7 +593,7 @@ A \autoref{tab:comparacao} consiste provavelmente num dos aspectos mais importan
 
 <<results='asis',echo=F,cache=F,message=F>>=
 
-dfcomparacao<-readRDS("~/R/TESE/execucao/base_02_02.rds")
+dfcomparacao<-readRDS("execucao/base_02_02.rds")
 tA<-xtable(dfcomparacao,
            align=c("p|","C{4cm}|","C{3cm}|","C{3cm}|","C{3cm}"),
           rownames = F,
@@ -607,7 +607,7 @@ print(tA,
 A \autoref{tab:predict_exec} é ilustrativa da predição de uma caso e seus possíveis desfechos, com base nas probabilidades, que variam de 0 a 1. Um recurso da defesa, quando o preso tem bom comportamento terá diferentes resultados conforme a câmara. Há 75\% de chances de vitória na 1ª câmara e zero porcento na 9ª câmara.
 
 <<results='asis',echo=F,message=F>>=
-dfE<-readRDS("~/R/TESE/execucao/predic_exec.rds")
+dfE<-readRDS("execucao/predic_exec.rds")
 tE<-xtable(dfE,
           caption="Probabilidades de provimento ou improvimento do recurso da defesa pedindo progressão de regime ou livramento condicional conforme a câmara criminal, quando o preso por roubo tem bom comportamento, sem antecedentes de indisciplina.\\label{tab:predict_exec}",
           rownames=F,

@@ -381,7 +381,7 @@ Como anteriormente dito, para análisar as propensões latentes dos diretores co
 \caption{Quadro dos indicadores e fatores}\label{quadro:indicadores}
 
 <<results="asis",echo=F,message=F>>=
-load("~/R/TESE/diretor/baseSem.rda")
+load("diretor/baseSem.rda")
 z<-ztable(tabela[[2]],tabular=TRUE,
 align="p|C{2cm}|C{11cm}|C{2cm}")
 print(z)
@@ -394,7 +394,7 @@ print(z)
 \begin{table}
 \caption{Medidas de ajuste do modelo de equação estrutural}\label{tab:ajuste}
 <<results="asis",echo=F,message=F>>=
-ajuste<-readRDS("~/R/TESE/diretor/ajuste.rds")
+ajuste<-readRDS("diretor/ajuste.rds")
 aj<-cbind(ajuste[1:21,],ajuste[22:42,],ajuste[43:63,])
 aj[]<-ifelse(is.na(unlist(aj[])),"",unlist(aj[]))
 ztable(aj,
@@ -411,7 +411,7 @@ As medidas de ajuste do modelo, \autoref{tab:ajuste}  indicam um ajuste razoáve
 
 \clearpage
 <<results="asis",echo=F,message=F>>=
-baseSem<-readRDS("~/R/TESE/diretor/baseEdic.rds")
+baseSem<-readRDS("diretor/baseEdic.rds")
 parEst<-parameterEstimates(fit1)[1:29,]
 rws <- seq(1, (nrow(parEst)-1), by = 2)
 col <- rep("\\rowcolor[gray]{0.85}", length(rws))
@@ -431,7 +431,7 @@ print(ParFit, label="tab:indicadoresEst",
 A \autoref{tab:residuos} mostra a correlação entre os resíduos. Todos os valores são baixos, menores que 0,1, com exceção de dois indicadores (v20 e v6) que carregam em autonomia e proximidade, mas isso é correlação espúria, obra do acaso, vez que eles medem dois construtos que não se confundem. Esta é razão porque não incluímos os resíduos na \autoref{fig:fit}.
 
 <<results="asis",echo=F,message=F>>=
-fit1_res_cor<-readRDS("~/R/TESE/diretor/fit_res_cor.rds")
+fit1_res_cor<-readRDS("diretor/fit_res_cor.rds")
 rws <- seq(1, (nrow(fit1_res_cor)-1), by = 2)
 col <- rep("\\rowcolor[gray]{0.85}", length(rws))
 x_fit_res_cor<-xtable(fit1_res_cor,

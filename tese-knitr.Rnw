@@ -125,7 +125,7 @@ Governo.
 % Início do documento
 % ----
 \begin{document}
-\SweaveOpts{concordance=TRUE}
+%\SweaveOpts{concordance=TRUE}
 %\SweaveOpts{concordance=TRUE}
 \selectlanguage{brazil}
 

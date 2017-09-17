@@ -245,7 +245,7 @@ O segundo estimador considerado será o de efeitos aleatórios, o qual assume qu
 \caption{Variáveis utilizadas no modelo}\label{quadro:codebook}
 
 <<results="asis",echo=F,message=F>>=
-base<-readRDS("~/R/TESE/expansao/base.rds")
+base<-readRDS("expansao/base.rds")
 ztable(base$codebook,
        include.rownames=F,
        tabular=T,
@@ -363,7 +363,7 @@ A \autoref{tab:testes} mostra o resultados dos testes para verificação dos pre
 \caption{Teste de verificação de pressupostos para dados em painel}\label{tab:testes}
 
 <<results="asis",echo=F,message=F>>=
-diagnostico<-readRDS("~/R/TESE/expansao/diagnostico.rds")
+diagnostico<-readRDS("expansao/diagnostico.rds")
 ztable(diagnostico,
        include.rownames=F,
        tabular=T,
